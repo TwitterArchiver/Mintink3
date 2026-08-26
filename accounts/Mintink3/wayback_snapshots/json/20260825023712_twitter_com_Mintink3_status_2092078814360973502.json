@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091709122416656384",
+        "3_2091709122680918017",
+        "3_2091709122659954688",
+        "3_2091709121988825088"
+      ],
+      "media_source_tweet_id": [
+        "2091709124874535353",
+        "2091709124874535353",
+        "2091709124874535353",
+        "2091709124874535353"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2092078814360973502",
+    "created_at": "2026-08-25T02:37:12.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T03:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092078814360973502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1947877133520367616",
+          "start": 3,
+          "username": "chainsawman_jp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SdL80QX6vk",
+          "end": 43,
+          "expanded_url": "https://x.com/chainsawman_jp/status/2091709124874535353/photo/1",
+          "media_key": "3_2091709122416656384",
+          "start": 20,
+          "url": "https://t.co/SdL80QX6vk"
+        },
+        {
+          "display_url": "pic.x.com/SdL80QX6vk",
+          "end": 43,
+          "expanded_url": "https://x.com/chainsawman_jp/status/2091709124874535353/photo/1",
+          "media_key": "3_2091709122680918017",
+          "start": 20,
+          "url": "https://t.co/SdL80QX6vk"
+        },
+        {
+          "display_url": "pic.x.com/SdL80QX6vk",
+          "end": 43,
+          "expanded_url": "https://x.com/chainsawman_jp/status/2091709124874535353/photo/1",
+          "media_key": "3_2091709122659954688",
+          "start": 20,
+          "url": "https://t.co/SdL80QX6vk"
+        },
+        {
+          "display_url": "pic.x.com/SdL80QX6vk",
+          "end": 43,
+          "expanded_url": "https://x.com/chainsawman_jp/status/2091709124874535353/photo/1",
+          "media_key": "3_2091709121988825088",
+          "start": 20,
+          "url": "https://t.co/SdL80QX6vk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092078814360973502",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2091709122416656384"
+      },
+      {
+        "media_key": "3_2091709122680918017"
+      },
+      {
+        "media_key": "3_2091709122659954688"
+      },
+      {
+        "media_key": "3_2091709121988825088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2325
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091709124874535353",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chainsawman_jp: https://t.co/SdL80QX6vk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1170,
+        "media_key": "3_2091709122416656384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQc-XU8WwAAkNvs.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1170,
+        "media_key": "3_2091709122680918017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQc-XV7XEAEHPuq.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1170,
+        "media_key": "3_2091709122659954688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQc-XV2XMAA4tgx.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1170,
+        "media_key": "3_2091709121988825088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQc-XTWWkAAjZWs.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091709122416656384",
+            "3_2091709122680918017",
+            "3_2091709122659954688",
+            "3_2091709121988825088"
+          ],
+          "media_source_tweet_id": [
+            "2091709124874535353",
+            "2091709124874535353",
+            "2091709124874535353",
+            "2091709124874535353"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2092078814360973502",
+        "created_at": "2026-08-25T02:37:12.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T03:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092078814360973502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1947877133520367616",
+              "start": 3,
+              "username": "chainsawman_jp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SdL80QX6vk",
+              "end": 43,
+              "expanded_url": "https://x.com/chainsawman_jp/status/2091709124874535353/photo/1",
+              "media_key": "3_2091709122416656384",
+              "start": 20,
+              "url": "https://t.co/SdL80QX6vk"
+            },
+            {
+              "display_url": "pic.x.com/SdL80QX6vk",
+              "end": 43,
+              "expanded_url": "https://x.com/chainsawman_jp/status/2091709124874535353/photo/1",
+              "media_key": "3_2091709122680918017",
+              "start": 20,
+              "url": "https://t.co/SdL80QX6vk"
+            },
+            {
+              "display_url": "pic.x.com/SdL80QX6vk",
+              "end": 43,
+              "expanded_url": "https://x.com/chainsawman_jp/status/2091709124874535353/photo/1",
+              "media_key": "3_2091709122659954688",
+              "start": 20,
+              "url": "https://t.co/SdL80QX6vk"
+            },
+            {
+              "display_url": "pic.x.com/SdL80QX6vk",
+              "end": 43,
+              "expanded_url": "https://x.com/chainsawman_jp/status/2091709124874535353/photo/1",
+              "media_key": "3_2091709121988825088",
+              "start": 20,
+              "url": "https://t.co/SdL80QX6vk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092078814360973502",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2091709122416656384"
+          },
+          {
+            "media_key": "3_2091709122680918017"
+          },
+          {
+            "media_key": "3_2091709122659954688"
+          },
+          {
+            "media_key": "3_2091709121988825088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2325
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091709124874535353",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chainsawman_jp: https://t.co/SdL80QX6vk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091709122416656384",
+            "3_2091709122680918017",
+            "3_2091709122659954688",
+            "3_2091709121988825088"
+          ]
+        },
+        "author_id": "1947877133520367616",
+        "conversation_id": "2091709124874535353",
+        "created_at": "2026-08-24T02:08:12.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T03:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091709124874535353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SdL80QX6vk",
+              "end": 23,
+              "expanded_url": "https://x.com/chainsawman_jp/status/2091709124874535353/photo/1",
+              "media_key": "3_2091709122416656384",
+              "start": 0,
+              "url": "https://t.co/SdL80QX6vk"
+            },
+            {
+              "display_url": "pic.x.com/SdL80QX6vk",
+              "end": 23,
+              "expanded_url": "https://x.com/chainsawman_jp/status/2091709124874535353/photo/1",
+              "media_key": "3_2091709122680918017",
+              "start": 0,
+              "url": "https://t.co/SdL80QX6vk"
+            },
+            {
+              "display_url": "pic.x.com/SdL80QX6vk",
+              "end": 23,
+              "expanded_url": "https://x.com/chainsawman_jp/status/2091709124874535353/photo/1",
+              "media_key": "3_2091709122659954688",
+              "start": 0,
+              "url": "https://t.co/SdL80QX6vk"
+            },
+            {
+              "display_url": "pic.x.com/SdL80QX6vk",
+              "end": 23,
+              "expanded_url": "https://x.com/chainsawman_jp/status/2091709124874535353/photo/1",
+              "media_key": "3_2091709121988825088",
+              "start": 0,
+              "url": "https://t.co/SdL80QX6vk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091709124874535353",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2091709122416656384"
+          },
+          {
+            "media_key": "3_2091709122680918017"
+          },
+          {
+            "media_key": "3_2091709122659954688"
+          },
+          {
+            "media_key": "3_2091709121988825088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3879,
+          "impression_count": 1152531,
+          "like_count": 30694,
+          "quote_count": 241,
+          "reply_count": 31,
+          "retweet_count": 2325
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SdL80QX6vk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2092078814360973502",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 1063,
+          "like_count": 9218,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1352
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-23T04:31:22.000Z",
+        "description": "Account for Chainsaw Man by Tatsuki Fujimoto & Studio MAPPA | unofficial & fanpage.",
+        "id": "1947877133520367616",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092069476363616590",
+        "name": "Chainsaw Man",
+        "pinned_tweet_id": "1989362719015735726",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1947877133520367616/1774927149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061970358920704000/-Yes6ziv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18341,
+          "following_count": 0,
+          "like_count": 4052,
+          "listed_count": 27,
+          "media_count": 341,
+          "tweet_count": 535
+        },
+        "url": "",
+        "username": "chainsawman_jp",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2085355322743615766",
+    "created_at": "2026-08-09T19:07:19.000Z",
+    "display_text_range": [
+      28,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T20:07:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086529776987275290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1903047688519815171",
+          "start": 0,
+          "username": "Demon1778911"
+        },
+        {
+          "end": 27,
+          "id": "1989627406391635968",
+          "start": 14,
+          "username": "drug_artist2"
+        },
+        {
+          "end": 40,
+          "id": "2070415547146313728",
+          "start": 28,
+          "username": "qiyueqiye11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086529776987275290",
+    "in_reply_to_user_id": "1903047688519815171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085732648878788946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Demon1778911 @drug_artist2 @qiyueqiye11  这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2085355322743615766",
+        "created_at": "2026-08-09T19:07:19.000Z",
+        "display_text_range": [
+          28,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T20:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086529776987275290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1903047688519815171",
+              "start": 0,
+              "username": "Demon1778911"
+            },
+            {
+              "end": 27,
+              "id": "1989627406391635968",
+              "start": 14,
+              "username": "drug_artist2"
+            },
+            {
+              "end": 40,
+              "id": "2070415547146313728",
+              "start": 28,
+              "username": "qiyueqiye11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086529776987275290",
+        "in_reply_to_user_id": "1903047688519815171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085732648878788946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Demon1778911 @drug_artist2 @qiyueqiye11  这个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903047688519815171",
+        "conversation_id": "2085355322743615766",
+        "created_at": "2026-08-07T14:19:49.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085732648878788946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1989627406391635968",
+              "start": 0,
+              "username": "drug_artist2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085732648878788946",
+        "in_reply_to_user_id": "1989627406391635968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085355322743615766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist2 疑心病还有其他号吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2086529776987275290",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 889,
+          "like_count": 6695,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1031
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T11:35:29.000Z",
+        "description": "",
+        "id": "1903047688519815171",
+        "is_identity_verified": false,
+        "location": "New York, NY",
+        "most_recent_tweet_id": "2085732648878788946",
+        "name": "Demon_prey",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903047688519815171/1768928551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013658544772468736/MRakYqnk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 18,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "Demon1778911",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘| INFP | 提问箱:https://t.co/DYIJetTS16|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄二年 我从地狱杀回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 65,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 42,
+                "url": "https://t.co/DYIJetTS16"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "is_identity_verified": false,
+        "location": "Xanax天国2mg自治区",
+        "most_recent_tweet_id": "2086478971458535697",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1989627406391635968/1763199281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1775,
+          "following_count": 67,
+          "like_count": 462,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 540
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-26T07:56:28.000Z",
+        "description": "💊🩸🚬求你們fo我\n前世2600fo @yixinbing2026",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "yixinbing2026"
+              }
+            ]
+          }
+        },
+        "id": "2070415547146313728",
+        "is_identity_verified": false,
+        "location": "ymym",
+        "most_recent_tweet_id": "2086522766724141272",
+        "name": "七月野",
+        "pinned_tweet_id": "2086201365873950830",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070415547146313728/1783545966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086175949448687616/3GsY9oVa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 20,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "qiyueqiye11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
