@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2080020759242793287",
+    "created_at": "2026-07-22T20:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T21:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080020759242793287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1661418553801580544",
+          "start": 3,
+          "username": "Nzstz53"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080020759242793287",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079683328811454501",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nzstz53: 可网购且合法的具有滥用潜力的“阿片类药物”\n       从一月份到现在，一共磕了50多盒实测洛哌丁胺130mg 以下几乎没有心脏毒性，那些磕猝死的基本都是200-400mg 加上奎尼丁的心脏毒性叠加导致的\n   1参考文献：https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_2079683302550892544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNyE8e3bcAA09cO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1963,
+        "media_key": "3_2079683302546702336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNyE8e2bgAAgnzG.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079683302567600128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNyE8e7aYAAPNjN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1286,
+        "media_key": "3_2079683302546616320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNyE8e2aMAAN0GH.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2080020759242793287",
+        "created_at": "2026-07-22T20:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T21:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080020759242793287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1661418553801580544",
+              "start": 3,
+              "username": "Nzstz53"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080020759242793287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079683328811454501",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nzstz53: 可网购且合法的具有滥用潜力的“阿片类药物”\n       从一月份到现在，一共磕了50多盒实测洛哌丁胺130mg 以下几乎没有心脏毒性，那些磕猝死的基本都是200-400mg 加上奎尼丁的心脏毒性叠加导致的\n   1参考文献：https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079683302550892544",
+            "3_2079683302546702336",
+            "3_2079683302567600128",
+            "3_2079683302546616320"
+          ]
+        },
+        "author_id": "1661418553801580544",
+        "conversation_id": "2079683328811454501",
+        "created_at": "2026-07-21T21:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T22:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079683328811454501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pmc.ncbi.nlm.nih.gov/articles/PMC42",
+              "end": 136,
+              "expanded_url": "http://pmc.ncbi.nlm.nih.gov/articles/PMC42",
+              "start": 113,
+              "status": 404,
+              "unwound_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC42/",
+              "url": "https://t.co/LqVKWv2ZIv"
+            },
+            {
+              "display_url": "zh.wikipedia.org/zh-cn/Loperami…",
+              "end": 169,
+              "expanded_url": "http://zh.wikipedia.org/zh-cn/Loperamide",
+              "start": 146,
+              "status": 404,
+              "unwound_url": "https://zh.wikipedia.org/zh-cn/Loperamide",
+              "url": "https://t.co/jwG8gl0Gjw"
+            },
+            {
+              "display_url": "pic.x.com/0tOVioxPZS",
+              "end": 193,
+              "expanded_url": "https://x.com/Nzstz53/status/2079683328811454501/photo/1",
+              "media_key": "3_2079683302550892544",
+              "start": 170,
+              "url": "https://t.co/0tOVioxPZS"
+            },
+            {
+              "display_url": "pic.x.com/0tOVioxPZS",
+              "end": 193,
+              "expanded_url": "https://x.com/Nzstz53/status/2079683328811454501/photo/1",
+              "media_key": "3_2079683302546702336",
+              "start": 170,
+              "url": "https://t.co/0tOVioxPZS"
+            },
+            {
+              "display_url": "pic.x.com/0tOVioxPZS",
+              "end": 193,
+              "expanded_url": "https://x.com/Nzstz53/status/2079683328811454501/photo/1",
+              "media_key": "3_2079683302567600128",
+              "start": 170,
+              "url": "https://t.co/0tOVioxPZS"
+            },
+            {
+              "display_url": "pic.x.com/0tOVioxPZS",
+              "end": 193,
+              "expanded_url": "https://x.com/Nzstz53/status/2079683328811454501/photo/1",
+              "media_key": "3_2079683302546616320",
+              "start": 170,
+              "url": "https://t.co/0tOVioxPZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079683328811454501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 10693,
+          "like_count": 121,
+          "quote_count": 4,
+          "reply_count": 18,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "可网购且合法的具有滥用潜力的“阿片类药物”\n       从一月份到现在，一共磕了50多盒实测洛哌丁胺130mg 以下几乎没有心脏毒性，那些磕猝死的基本都是200-400mg 加上奎尼丁的心脏毒性叠加导致的\n   1参考文献：https://t.co/LqVKWv2ZIv…\n    2 : https://t.co/jwG8gl0Gjw https://t.co/0tOVioxPZS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074830597709840384/kJeKJqLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 747,
+          "like_count": 5195,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 808
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T17:07:22.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2k77043",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2k77043",
+                "start": 0,
+                "url": "https://t.co/c2ydAShFlf"
+              }
+            ]
+          }
+        },
+        "id": "1661418553801580544",
+        "name": "κ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004932256914440197/Z0wcEEtk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 26,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 168
+        },
+        "url": "https://t.co/c2ydAShFlf",
+        "username": "Nzstz53",
+        "verified": false
+      }
+    ]
+  }
+}

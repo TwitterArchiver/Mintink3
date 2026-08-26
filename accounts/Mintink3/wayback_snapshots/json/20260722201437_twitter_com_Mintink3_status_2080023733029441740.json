@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2080023733029441740",
+    "created_at": "2026-07-22T20:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T21:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080023733029441740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1829229897195368455",
+          "start": 3,
+          "username": "4888777ovo02756"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080023733029441740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 109
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079850324643426765",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4888777ovo02756: 世界上突然多了好多耶稣，天天都能保证别人是天使"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2080023733029441740",
+        "created_at": "2026-07-22T20:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T21:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080023733029441740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1829229897195368455",
+              "start": 3,
+              "username": "4888777ovo02756"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080023733029441740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 109
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079850324643426765",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4888777ovo02756: 世界上突然多了好多耶稣，天天都能保证别人是天使"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829229897195368455",
+        "conversation_id": "2079850324643426765",
+        "created_at": "2026-07-22T08:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079850324643426765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079850324643426765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 36774,
+          "like_count": 1426,
+          "quote_count": 9,
+          "reply_count": 111,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "世界上突然多了好多耶稣，天天都能保证别人是天使"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074830597709840384/kJeKJqLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 749,
+          "like_count": 5227,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 816
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "小众活法不喜勿喷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovotvtouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovotvtouo",
+                "start": 0,
+                "url": "https://t.co/VHfQubyMuT"
+              }
+            ]
+          }
+        },
+        "id": "1829229897195368455",
+        "location": "提问箱",
+        "name": "用户487",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068721135324385280/FkNg_ewA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2916,
+          "following_count": 67,
+          "like_count": 2666,
+          "listed_count": 3,
+          "media_count": 203,
+          "tweet_count": 5509
+        },
+        "url": "https://t.co/VHfQubyMuT",
+        "username": "4888777ovo02756",
+        "verified": false
+      }
+    ]
+  }
+}

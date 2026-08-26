@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2085806276890804499",
+    "created_at": "2026-08-07T19:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T20:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085806276890804499"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085806276890804499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太恐怖了  三分钟被三个不用的鬼压床 还有有名有姓的 我经历了幻听 幻觉/噩梦 鬼压床 而且还多了我不存在的记忆 我为什么会知道我本来不认识的人的名字 为什么他们每一个都要抓着我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2085806276890804499",
+        "created_at": "2026-08-07T19:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T20:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085806276890804499"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085806276890804499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太恐怖了  三分钟被三个不用的鬼压床 还有有名有姓的 我经历了幻听 幻觉/噩梦 鬼压床 而且还多了我不存在的记忆 我为什么会知道我本来不认识的人的名字 为什么他们每一个都要抓着我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 860,
+          "like_count": 6438,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 986
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      }
+    ]
+  }
+}

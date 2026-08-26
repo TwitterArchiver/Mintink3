@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2077593509201412467",
+    "created_at": "2026-07-16T03:17:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T04:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077593509201412467"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/norax2026/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/norax2026/status/2077412472991211650",
+          "start": 6,
+          "url": "https://t.co/xKjYIXXM9w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077593509201412467",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077412472991211650",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完全就是我 https://t.co/xKjYIXXM9w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2077593509201412467",
+        "created_at": "2026-07-16T03:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T04:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077593509201412467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/norax2026/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/norax2026/status/2077412472991211650",
+              "start": 6,
+              "url": "https://t.co/xKjYIXXM9w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077593509201412467",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077412472991211650",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完全就是我 https://t.co/xKjYIXXM9w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042977978267951104",
+        "conversation_id": "2077412472991211650",
+        "created_at": "2026-07-15T15:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077412472991211650"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077412472991211650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 55753,
+          "like_count": 429,
+          "quote_count": 9,
+          "reply_count": 40,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "看到个有趣的说法。说是ADHD其实是远古猎人基因，基因里面有很多属于尼安德特人的成分。\n搜一下遗传特点，真的震惊了。\n抑郁症倾向➕容易过敏体质➕皮肤屏障容易受损➕昼夜节律混乱➕容易体感失调。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 地雷女 餐券女休学做夜场 欢迎互fo@我恨孤独有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "1525682758399299585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074830597709840384/kJeKJqLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 729,
+          "like_count": 4892,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 752
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T14:49:06.000Z",
+        "description": "🎓经济学 & 心理学\n🌍从美国硅谷跑回深圳AI创业\n👩HerName成员\n💰搞钱｜AI｜信息差｜写段子\n商务合作v：jasmine704792 （备明来意）\nEmail：3885826362@qq.com",
+        "id": "2042977978267951104",
+        "location": "深圳",
+        "name": "Nora X",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046415173804806144/IqEHzmqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12607,
+          "following_count": 205,
+          "like_count": 11234,
+          "listed_count": 38,
+          "media_count": 787,
+          "tweet_count": 7234
+        },
+        "url": "",
+        "username": "NoraX2026",
+        "verified": true
+      }
+    ]
+  }
+}

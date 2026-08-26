@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2070332957857120427",
+    "created_at": "2026-06-26T02:26:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T03:26:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070332957857120427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1852390818390450176",
+          "start": 3,
+          "username": "Lrmc4e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070332957857120427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069985109831471456",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lrmc4e: 已经到了看不了高干文的年纪了，我一看到男主一手遮天给女主行方便，我就受不了，因为他遮的是我的天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2070332957857120427",
+        "created_at": "2026-06-26T02:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070332957857120427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1852390818390450176",
+              "start": 3,
+              "username": "Lrmc4e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070332957857120427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069985109831471456",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lrmc4e: 已经到了看不了高干文的年纪了，我一看到男主一手遮天给女主行方便，我就受不了，因为他遮的是我的天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852390818390450176",
+        "conversation_id": "2069985109831471456",
+        "created_at": "2026-06-25T03:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T04:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069985109831471456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069985109831471456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 96825,
+          "like_count": 2834,
+          "quote_count": 8,
+          "reply_count": 201,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "已经到了看不了高干文的年纪了，我一看到男主一手遮天给女主行方便，我就受不了，因为他遮的是我的天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 焦虑 165cm/40kg 地雷女 被校园霸凌 休学 现在做夜场营销",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "1525682758399299585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070170784270794752/Sm0ogbFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 699,
+          "like_count": 4216,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 681
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T16:42:50.000Z",
+        "description": "这个账号只是为了满足自己的分享欲 防走丢 @ditchn2c （匿名提问也这个号回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "ditchn2c"
+              }
+            ]
+          }
+        },
+        "id": "1852390818390450176",
+        "name": "Looe",
+        "pinned_tweet_id": "2029190752761463130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852391001618612224/yosj9UJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13956,
+          "following_count": 102,
+          "like_count": 21817,
+          "listed_count": 32,
+          "media_count": 253,
+          "tweet_count": 5707
+        },
+        "url": "",
+        "username": "Lrmc4e",
+        "verified": false
+      }
+    ]
+  }
+}

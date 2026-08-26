@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087318561874391041",
+        "3_2087318561870249984"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2087318567549313389",
+    "created_at": "2026-08-11T23:21:41.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T00:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087318567549313389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XsoDw5esiN",
+          "end": 63,
+          "expanded_url": "https://x.com/Mintink3/status/2087318567549313389/photo/1",
+          "media_key": "3_2087318561874391041",
+          "start": 40,
+          "url": "https://t.co/XsoDw5esiN"
+        },
+        {
+          "display_url": "pic.x.com/XsoDw5esiN",
+          "end": 63,
+          "expanded_url": "https://x.com/Mintink3/status/2087318567549313389/photo/1",
+          "media_key": "3_2087318561870249984",
+          "start": 40,
+          "url": "https://t.co/XsoDw5esiN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087318567549313389",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087318561874391041"
+      },
+      {
+        "media_key": "3_2087318561870249984"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朋友的出狱party12点就开始了，而我现在还没睡，而且那个地址离我40km😱 https://t.co/XsoDw5esiN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2024,
+        "media_key": "3_2087318561874391041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPelLEWaMAEj6ns.jpg",
+        "width": 833
+      },
+      {
+        "height": 1938,
+        "media_key": "3_2087318561870249984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPelLEVbAAAS-8F.jpg",
+        "width": 797
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087318561874391041",
+            "3_2087318561870249984"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2087318567549313389",
+        "created_at": "2026-08-11T23:21:41.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T00:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087318567549313389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XsoDw5esiN",
+              "end": 63,
+              "expanded_url": "https://x.com/Mintink3/status/2087318567549313389/photo/1",
+              "media_key": "3_2087318561874391041",
+              "start": 40,
+              "url": "https://t.co/XsoDw5esiN"
+            },
+            {
+              "display_url": "pic.x.com/XsoDw5esiN",
+              "end": 63,
+              "expanded_url": "https://x.com/Mintink3/status/2087318567549313389/photo/1",
+              "media_key": "3_2087318561870249984",
+              "start": 40,
+              "url": "https://t.co/XsoDw5esiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087318567549313389",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087318561874391041"
+          },
+          {
+            "media_key": "3_2087318561870249984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友的出狱party12点就开始了，而我现在还没睡，而且那个地址离我40km😱 https://t.co/XsoDw5esiN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2087318567549313389",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 920,
+          "like_count": 7189,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1108
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

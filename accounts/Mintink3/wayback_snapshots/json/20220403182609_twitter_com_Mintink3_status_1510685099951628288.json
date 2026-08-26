@@ -1,0 +1,406 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Apr 03 18:26:09 +0000 2022",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/Sj3vjmlB38",
+        "expanded_url": "https://twitter.com/BIGBANGDOMINATE/status/1510576375979479042/photo/1",
+        "id": 1510576358187241477,
+        "id_str": "1510576358187241477",
+        "indices": [
+          66,
+          89
+        ],
+        "media_url": "http://pbs.twimg.com/media/FPalMcPakAUvffl.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FPalMcPakAUvffl.jpg",
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 1080
+          },
+          "medium": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 1080
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1510576375979479042,
+        "source_status_id_str": "1510576375979479042",
+        "source_user_id": 1147201167136415744,
+        "source_user_id_str": "1147201167136415744",
+        "type": "photo",
+        "url": "https://t.co/Sj3vjmlB38"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1147201167136415744,
+        "id_str": "1147201167136415744",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "ًasy (read bio)",
+        "screen_name": "BIGBANGDOMINATE"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/Sj3vjmlB38",
+        "expanded_url": "https://twitter.com/BIGBANGDOMINATE/status/1510576375979479042/photo/1",
+        "id": 1510576358187241477,
+        "id_str": "1510576358187241477",
+        "indices": [
+          66,
+          89
+        ],
+        "media_url": "http://pbs.twimg.com/media/FPalMcPakAUvffl.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FPalMcPakAUvffl.jpg",
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 1080
+          },
+          "medium": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 1080
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1510576375979479042,
+        "source_status_id_str": "1510576375979479042",
+        "source_user_id": 1147201167136415744,
+        "source_user_id_str": "1147201167136415744",
+        "type": "photo",
+        "url": "https://t.co/Sj3vjmlB38"
+      },
+      {
+        "display_url": "pic.twitter.com/Sj3vjmlB38",
+        "expanded_url": "https://twitter.com/BIGBANGDOMINATE/status/1510576375979479042/photo/1",
+        "id": 1510576367091744772,
+        "id_str": "1510576367091744772",
+        "indices": [
+          66,
+          89
+        ],
+        "media_url": "http://pbs.twimg.com/media/FPalM9aagAQkmW3.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FPalM9aagAQkmW3.jpg",
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 1080
+          },
+          "medium": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 1080
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1510576375979479042,
+        "source_status_id_str": "1510576375979479042",
+        "source_user_id": 1147201167136415744,
+        "source_user_id_str": "1147201167136415744",
+        "type": "photo",
+        "url": "https://t.co/Sj3vjmlB38"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1510685099951628288,
+  "id_str": "1510685099951628288",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Apr 03 11:14:07 +0000 2022",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Sj3vjmlB38",
+          "expanded_url": "https://twitter.com/BIGBANGDOMINATE/status/1510576375979479042/photo/1",
+          "id": 1510576358187241477,
+          "id_str": "1510576358187241477",
+          "indices": [
+            45,
+            68
+          ],
+          "media_url": "http://pbs.twimg.com/media/FPalMcPakAUvffl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FPalMcPakAUvffl.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1080
+            },
+            "medium": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1080
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Sj3vjmlB38"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Sj3vjmlB38",
+          "expanded_url": "https://twitter.com/BIGBANGDOMINATE/status/1510576375979479042/photo/1",
+          "id": 1510576358187241477,
+          "id_str": "1510576358187241477",
+          "indices": [
+            45,
+            68
+          ],
+          "media_url": "http://pbs.twimg.com/media/FPalMcPakAUvffl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FPalMcPakAUvffl.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1080
+            },
+            "medium": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1080
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Sj3vjmlB38"
+        },
+        {
+          "display_url": "pic.twitter.com/Sj3vjmlB38",
+          "expanded_url": "https://twitter.com/BIGBANGDOMINATE/status/1510576375979479042/photo/1",
+          "id": 1510576367091744772,
+          "id_str": "1510576367091744772",
+          "indices": [
+            45,
+            68
+          ],
+          "media_url": "http://pbs.twimg.com/media/FPalM9aagAQkmW3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FPalM9aagAQkmW3.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1080
+            },
+            "medium": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1080
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Sj3vjmlB38"
+        }
+      ]
+    },
+    "favorite_count": 4716,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1510576375979479042,
+    "id_str": "1510576375979479042",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 336,
+    "reply_count": 2,
+    "retweet_count": 1324,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "G-DRAGON NEW PICS IM CRYING HIS HAIR 😭😭😭😭😭😭😭 https://t.co/Sj3vjmlB38",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Jul 05 17:50:47 +0000 2019",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "waiting for lee seunghyun",
+      "favourites_count": 191632,
+      "follow_request_sent": null,
+      "followers_count": 7955,
+      "following": null,
+      "friends_count": 642,
+      "geo_enabled": false,
+      "id": 1147201167136415744,
+      "id_str": "1147201167136415744",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 29,
+      "location": "shōyō + fufu ",
+      "name": "ًasy (read bio)",
+      "notifications": null,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1147201167136415744/1648534364",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1467734380873273344/HPpN4vUQ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1467734380873273344/HPpN4vUQ_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "BIGBANGDOMINATE",
+      "statuses_count": 58279,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @BIGBANGDOMINATE: G-DRAGON NEW PICS IM CRYING HIS HAIR 😭😭😭😭😭😭😭 https://t.co/Sj3vjmlB38",
+  "timestamp_ms": "1649010369657",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Mon Feb 14 00:17:01 +0000 2022",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "2017-19SKT 2020-21DK 2022RNG \nchovy-zeus-gumayusi-clid-rich-teddy-kiin\nBIGBANG 5 FOREVER",
+    "favourites_count": 673,
+    "follow_request_sent": null,
+    "followers_count": 1,
+    "following": null,
+    "friends_count": 196,
+    "geo_enabled": false,
+    "id": 1493016356182056961,
+    "id_str": "1493016356182056961",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "Mintink嶼準ӧ◡ӧ堪年",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1644805845",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1493049450993893376/nVUUfNSv_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1493049450993893376/nVUUfNSv_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "Mintink3",
+    "statuses_count": 274,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

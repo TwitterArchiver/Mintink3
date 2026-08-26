@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088174836292222976",
+        "3_2088174843686752256"
+      ],
+      "media_source_tweet_id": [
+        "2088174851756523587",
+        "2088174851756523587"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2088240487945879586",
+    "created_at": "2026-08-14T12:25:04.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T13:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088240487945879586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2081260504224604161",
+          "start": 3,
+          "username": "Meinazii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mMRHNkzX2Y",
+          "end": 42,
+          "expanded_url": "https://x.com/Meinazii/status/2088174851756523587/photo/1",
+          "media_key": "3_2088174836292222976",
+          "start": 19,
+          "url": "https://t.co/mMRHNkzX2Y"
+        },
+        {
+          "display_url": "pic.x.com/mMRHNkzX2Y",
+          "end": 42,
+          "expanded_url": "https://x.com/Meinazii/status/2088174851756523587/photo/1",
+          "media_key": "3_2088174843686752256",
+          "start": 19,
+          "url": "https://t.co/mMRHNkzX2Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088240487945879586",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088174836292222976"
+      },
+      {
+        "media_key": "3_2088174843686752256"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088174851756523587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meinazii: 哥特辣妹 https://t.co/mMRHNkzX2Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1410,
+        "media_key": "3_2088174836292222976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqv8zIbgAATWoz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1396,
+        "media_key": "3_2088174843686752256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqv9OrbEAAamm7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088174836292222976",
+            "3_2088174843686752256"
+          ]
+        },
+        "author_id": "2081260504224604161",
+        "conversation_id": "2088174851756523587",
+        "created_at": "2026-08-14T08:04:15.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T09:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088174851756523587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mMRHNkzX2Y",
+              "end": 28,
+              "expanded_url": "https://x.com/Meinazii/status/2088174851756523587/photo/1",
+              "media_key": "3_2088174836292222976",
+              "start": 5,
+              "url": "https://t.co/mMRHNkzX2Y"
+            },
+            {
+              "display_url": "pic.x.com/mMRHNkzX2Y",
+              "end": 28,
+              "expanded_url": "https://x.com/Meinazii/status/2088174851756523587/photo/1",
+              "media_key": "3_2088174843686752256",
+              "start": 5,
+              "url": "https://t.co/mMRHNkzX2Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088174851756523587",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088174836292222976"
+          },
+          {
+            "media_key": "3_2088174843686752256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 3387,
+          "like_count": 153,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "哥特辣妹 https://t.co/mMRHNkzX2Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088174836292222976",
+            "3_2088174843686752256"
+          ],
+          "media_source_tweet_id": [
+            "2088174851756523587",
+            "2088174851756523587"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2088240487945879586",
+        "created_at": "2026-08-14T12:25:04.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088240487945879586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2081260504224604161",
+              "start": 3,
+              "username": "Meinazii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mMRHNkzX2Y",
+              "end": 42,
+              "expanded_url": "https://x.com/Meinazii/status/2088174851756523587/photo/1",
+              "media_key": "3_2088174836292222976",
+              "start": 19,
+              "url": "https://t.co/mMRHNkzX2Y"
+            },
+            {
+              "display_url": "pic.x.com/mMRHNkzX2Y",
+              "end": 42,
+              "expanded_url": "https://x.com/Meinazii/status/2088174851756523587/photo/1",
+              "media_key": "3_2088174843686752256",
+              "start": 19,
+              "url": "https://t.co/mMRHNkzX2Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088240487945879586",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088174836292222976"
+          },
+          {
+            "media_key": "3_2088174843686752256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088174851756523587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meinazii: 哥特辣妹 https://t.co/mMRHNkzX2Y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2088240487945879586",
+        "name": "Beatrice",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 933,
+          "like_count": 7368,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1138
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-26T06:10:06.000Z",
+        "description": "纹身师｜Blackwork tattoo artist 接合作\n🚪168",
+        "id": "2081260504224604161",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2088174851756523587",
+        "name": "美奈子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081260504224604161/1785254390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082133939624579072/dQPcFX-i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1521,
+          "following_count": 4,
+          "like_count": 22,
+          "listed_count": 4,
+          "media_count": 15,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "Meinazii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

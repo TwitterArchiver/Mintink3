@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2086848184672993692",
+    "created_at": "2026-08-10T18:55:19.000Z",
+    "display_text_range": [
+      10,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T19:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086889145771946113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1858703297403908097",
+          "start": 0,
+          "username": "Ecco2k07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086889145771946113",
+    "in_reply_to_user_id": "1858703297403908097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086848184672993692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ecco2k07 生日快乐！祝你开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2086848184672993692",
+        "created_at": "2026-08-10T18:55:19.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T19:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086889145771946113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1858703297403908097",
+              "start": 0,
+              "username": "Ecco2k07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086889145771946113",
+        "in_reply_to_user_id": "1858703297403908097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086848184672993692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ecco2k07 生日快乐！祝你开心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858703297403908097",
+        "conversation_id": "2086848184672993692",
+        "created_at": "2026-08-10T16:12:33.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086848184672993692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086848184672993692",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1081,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "19岁了喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2086889145771946113",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 902,
+          "like_count": 6877,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1072
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T02:46:23.000Z",
+        "description": "你这人满脑子都想着自己呢",
+        "id": "1858703297403908097",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086860325912297613",
+        "name": "Ecco2k",
+        "pinned_tweet_id": "2044976479872692279",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858703297403908097/1732056240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954822094031814656/CntVsfng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4928,
+          "following_count": 7,
+          "like_count": 1682,
+          "listed_count": 16,
+          "media_count": 220,
+          "tweet_count": 1599
+        },
+        "url": "",
+        "username": "Ecco2k07",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

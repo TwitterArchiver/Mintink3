@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2086532289593561229",
+    "created_at": "2026-08-09T19:17:18.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T20:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086532289593561229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1475985510527078404",
+          "start": 3,
+          "username": "melancoholikaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/scJW",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/scJW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086532289593561229",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086178538193887555",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @melancoholikaa: alguien me puede decir exactamente qué es? lo acabo de encontrar en un cajón de mi casa JAKDKSKAKAKAK https://t.co/scJW…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086178529792622592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPOYUd5WAAA4loe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2086532289593561229",
+        "created_at": "2026-08-09T19:17:18.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T20:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086532289593561229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1475985510527078404",
+              "start": 3,
+              "username": "melancoholikaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/scJW",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/scJW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086532289593561229",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086178538193887555",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @melancoholikaa: alguien me puede decir exactamente qué es? lo acabo de encontrar en un cajón de mi casa JAKDKSKAKAKAK https://t.co/scJW…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086178529792622592"
+          ]
+        },
+        "author_id": "1475985510527078404",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2086178538193887555",
+        "created_at": "2026-08-08T19:51:37.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T20:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086178538193887555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/scJWP9LW7l",
+              "end": 125,
+              "expanded_url": "https://x.com/melancoholikaa/status/2086178538193887555/photo/1",
+              "media_key": "3_2086178529792622592",
+              "start": 102,
+              "url": "https://t.co/scJWP9LW7l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086178538193887555",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2086178529792622592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 320,
+          "impression_count": 708217,
+          "like_count": 5630,
+          "quote_count": 117,
+          "reply_count": 440,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "alguien me puede decir exactamente qué es? lo acabo de encontrar en un cajón de mi casa JAKDKSKAKAKAK https://t.co/scJWP9LW7l"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2086532289593561229",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 889,
+          "like_count": 6701,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1032
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-29T00:22:55.000Z",
+        "description": "Mis alas se queman si me acerco al cielo",
+        "id": "1475985510527078404",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086527602466967919",
+        "name": "～(´▽｀)～",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1475985510527078404/1741548292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085670913400250368/P6XtcEKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 142,
+          "like_count": 24378,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 9703
+        },
+        "url": "",
+        "username": "melancoholikaa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

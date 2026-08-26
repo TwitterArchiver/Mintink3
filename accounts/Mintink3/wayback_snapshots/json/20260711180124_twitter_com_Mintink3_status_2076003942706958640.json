@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2076003531887362457",
+    "created_at": "2026-07-11T18:01:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T19:01:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076003942706958640"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076003942706958640",
+    "in_reply_to_user_id": "1493016356182056961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076003531887362457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "欣快感还是很足的 但是不怎么解离，而且要一直打，由于我打的太快，桶上都是结冰了（为了不吵到邻居我直接嘴巴对着大管子吹没有用气球"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2076003531887362457",
+        "created_at": "2026-07-11T18:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T19:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076003942706958640"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076003942706958640",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076003531887362457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欣快感还是很足的 但是不怎么解离，而且要一直打，由于我打的太快，桶上都是结冰了（为了不吵到邻居我直接嘴巴对着大管子吹没有用气球"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2076003531887362457",
+        "created_at": "2026-07-11T17:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T18:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076003531887362457"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076003531887362457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑气好像已经对我没有太大的作用了\n上次打了4罐子2L的 双倍浓度 确实比以前1.0的耐打许多，但是只是手脚麻不 ，听到声音之后脑子里会以奇怪的语调再重复一遍，没有以前打的时候那种冲上云霄的快感了，内幻也不强烈，现在只能看到色块，我现象某个东西，结果在眼前便成了立体的字来回翻转，写不下了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍165cm/40kg 地雷女 餐券女休学 现在做夜场营销",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "1525682758399299585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074830597709840384/kJeKJqLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 723,
+          "like_count": 4753,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 732
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      }
+    ]
+  }
+}

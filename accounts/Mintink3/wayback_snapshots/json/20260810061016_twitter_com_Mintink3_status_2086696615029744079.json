@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084236546589466624"
+      ],
+      "media_source_tweet_id": [
+        "2084236559021470159"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2086696615029744079",
+    "created_at": "2026-08-10T06:10:16.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T07:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086696615029744079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1365898608013242372",
+          "start": 3,
+          "username": "Yu1619khz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Irbhp7BClZ",
+          "end": 65,
+          "expanded_url": "https://x.com/Yu1619khz/status/2084236559021470159/photo/1",
+          "media_key": "3_2084236546589466624",
+          "start": 42,
+          "url": "https://t.co/Irbhp7BClZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086696615029744079",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2084236546589466624"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1524
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084236559021470159",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yu1619khz: 负责了予愿安洁莉娜ep的镜头签部分，感谢项目组指导！ https://t.co/Irbhp7BClZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2084236546589466624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyyGKtaIAAaa_J.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084236546589466624"
+          ]
+        },
+        "author_id": "1365898608013242372",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084236559021470159",
+        "created_at": "2026-08-03T11:14:53.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084236559021470159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Irbhp7BClZ",
+              "end": 50,
+              "expanded_url": "https://x.com/Yu1619khz/status/2084236559021470159/photo/1",
+              "media_key": "3_2084236546589466624",
+              "start": 27,
+              "url": "https://t.co/Irbhp7BClZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084236559021470159",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2084236546589466624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1240,
+          "impression_count": 197814,
+          "like_count": 9958,
+          "quote_count": 31,
+          "reply_count": 60,
+          "retweet_count": 1524
+        },
+        "reply_settings": "everyone",
+        "text": "负责了予愿安洁莉娜ep的镜头签部分，感谢项目组指导！ https://t.co/Irbhp7BClZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084236546589466624"
+          ],
+          "media_source_tweet_id": [
+            "2084236559021470159"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086696615029744079",
+        "created_at": "2026-08-10T06:10:16.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T07:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086696615029744079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1365898608013242372",
+              "start": 3,
+              "username": "Yu1619khz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Irbhp7BClZ",
+              "end": 65,
+              "expanded_url": "https://x.com/Yu1619khz/status/2084236559021470159/photo/1",
+              "media_key": "3_2084236546589466624",
+              "start": 42,
+              "url": "https://t.co/Irbhp7BClZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086696615029744079",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2084236546589466624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1524
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084236559021470159",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yu1619khz: 负责了予愿安洁莉娜ep的镜头签部分，感谢项目组指导！ https://t.co/Irbhp7BClZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2086696615029744079",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 895,
+          "like_count": 6808,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1058
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-28T05:36:33.000Z",
+        "description": "AI学習禁止Do not repost请勿转载",
+        "id": "1365898608013242372",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2084236935049204093",
+        "name": "郁",
+        "pinned_tweet_id": "1914172114560483497",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1365898608013242372/1757408227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1625059881970696192/aObr8Pmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50962,
+          "following_count": 1013,
+          "like_count": 2610,
+          "listed_count": 346,
+          "media_count": 295,
+          "tweet_count": 1592
+        },
+        "url": "",
+        "username": "Yu1619khz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

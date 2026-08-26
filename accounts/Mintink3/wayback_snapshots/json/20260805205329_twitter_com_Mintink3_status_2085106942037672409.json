@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2070610993617768625",
+    "created_at": "2026-08-05T20:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T21:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085106942037672409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1962425480612851712",
+          "start": 0,
+          "username": "yaowubaike"
+        },
+        {
+          "end": 26,
+          "id": "1987805389904396288",
+          "start": 12,
+          "username": "HaruYukii0421"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085106942037672409",
+    "in_reply_to_user_id": "1962425480612851712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070610993617768625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaowubaike @HaruYukii0421 所以怎么买到Xanax"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2070610993617768625",
+        "created_at": "2026-08-05T20:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T21:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085106942037672409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962425480612851712",
+              "start": 0,
+              "username": "yaowubaike"
+            },
+            {
+              "end": 26,
+              "id": "1987805389904396288",
+              "start": 12,
+              "username": "HaruYukii0421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085106942037672409",
+        "in_reply_to_user_id": "1962425480612851712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070610993617768625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaowubaike @HaruYukii0421 所以怎么买到Xanax"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2070610993617768625",
+        "created_at": "2026-06-26T20:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T21:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070610993617768625"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070610993617768625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3696,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "推特药师们首先的目的应该是劝人不要od 如果遇到真是实在拦不住要od缓解痛苦的人 就要教他怎么去正确的 安全的使用药物 尽量减害 娱乐性用药我们还是不提倡的 比如需要Xanax的人 我们要教他怎么正确的玩 怎么正确的使用以抗焦虑和获取短暂的安定 还有一个很重要的点 我们需要教他们怎么尽量减少耐受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 819,
+          "like_count": 6053,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 947
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/UIrd5Ontdc |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 132,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 109,
+                "url": "https://t.co/UIrd5Ontdc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2060450500500435039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5272,
+          "following_count": 58,
+          "like_count": 819,
+          "listed_count": 6,
+          "media_count": 85,
+          "tweet_count": 576
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T08:52:10.000Z",
+        "description": "🔪💊❤️\n互fo互fo互fo喵喵",
+        "id": "1987805389904396288",
+        "location": "荆棘之路通往何处",
+        "name": "迟羊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073347565870059520/NVJw553W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 409,
+          "like_count": 4249,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 316
+        },
+        "url": "",
+        "username": "HaruYukii0421",
+        "verified": true
+      }
+    ]
+  }
+}

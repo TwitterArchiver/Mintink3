@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086397006902448128",
+        "13_2086397005476368384"
+      ],
+      "media_source_tweet_id": [
+        "2086397022127710562",
+        "2086397022127710562"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2086925242048590196",
+    "created_at": "2026-08-10T21:18:45.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T22:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086925242048590196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1990411620229812225",
+          "start": 3,
+          "username": "Gommayusi98"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3guL4BI3Bz",
+          "end": 77,
+          "expanded_url": "https://x.com/Gommayusi98/status/2086397022127710562/video/1",
+          "media_key": "13_2086397006902448128",
+          "start": 54,
+          "url": "https://t.co/3guL4BI3Bz"
+        },
+        {
+          "display_url": "pic.x.com/3guL4BI3Bz",
+          "end": 77,
+          "expanded_url": "https://x.com/Gommayusi98/status/2086397022127710562/video/1",
+          "media_key": "13_2086397005476368384",
+          "start": 54,
+          "url": "https://t.co/3guL4BI3Bz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086925242048590196",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2086397006902448128"
+      },
+      {
+        "media_key": "13_2086397005476368384"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 261
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086397022127710562",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Gommayusi98: Zeus, the princess on the top lane 😆 https://t.co/3guL4BI3Bz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2667,
+        "height": 1280,
+        "media_key": "13_2086397006902448128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086397006902448128/img/8VuMiWtbdrffd8Ow.jpg",
+        "public_metrics": {
+          "view_count": 2905
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086397006902448128/vid/avc1/320x568/Wk4PcYe6qH06cSNS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086397006902448128/vid/avc1/480x852/aljZ3i--kCUa0S4m.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086397006902448128/vid/avc1/720x1280/8FlBmX2eYxnH9oLF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086397006902448128/pl/b1KnW111Fbmqe49G.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 2565,
+        "height": 1280,
+        "media_key": "13_2086397005476368384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086397005476368384/img/1QeF61h53Q5MS0SU.jpg",
+        "public_metrics": {
+          "view_count": 415
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086397005476368384/vid/avc1/320x568/hPdlYkSCtE9Swoh1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086397005476368384/vid/avc1/480x852/l8-TrkL0tmIWy3d2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086397005476368384/vid/avc1/720x1280/XNnEvZ41jWlYU98e.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086397005476368384/pl/RqEViT0vG8UpOGKB.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086397006902448128",
+            "13_2086397005476368384"
+          ]
+        },
+        "author_id": "1990411620229812225",
+        "conversation_id": "2086397022127710562",
+        "created_at": "2026-08-09T10:19:48.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T11:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086397022127710562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3guL4BI3Bz",
+              "end": 60,
+              "expanded_url": "https://x.com/Gommayusi98/status/2086397022127710562/video/1",
+              "media_key": "13_2086397006902448128",
+              "start": 37,
+              "url": "https://t.co/3guL4BI3Bz"
+            },
+            {
+              "display_url": "pic.x.com/3guL4BI3Bz",
+              "end": 60,
+              "expanded_url": "https://x.com/Gommayusi98/status/2086397022127710562/video/1",
+              "media_key": "13_2086397005476368384",
+              "start": 37,
+              "url": "https://t.co/3guL4BI3Bz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086397022127710562",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2086397006902448128"
+          },
+          {
+            "media_key": "13_2086397005476368384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 12132,
+          "like_count": 799,
+          "quote_count": 13,
+          "reply_count": 1,
+          "retweet_count": 261
+        },
+        "reply_settings": "following",
+        "text": "Zeus, the princess on the top lane 😆 https://t.co/3guL4BI3Bz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086397006902448128",
+            "13_2086397005476368384"
+          ],
+          "media_source_tweet_id": [
+            "2086397022127710562",
+            "2086397022127710562"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2086925242048590196",
+        "created_at": "2026-08-10T21:18:45.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T22:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086925242048590196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1990411620229812225",
+              "start": 3,
+              "username": "Gommayusi98"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3guL4BI3Bz",
+              "end": 77,
+              "expanded_url": "https://x.com/Gommayusi98/status/2086397022127710562/video/1",
+              "media_key": "13_2086397006902448128",
+              "start": 54,
+              "url": "https://t.co/3guL4BI3Bz"
+            },
+            {
+              "display_url": "pic.x.com/3guL4BI3Bz",
+              "end": 77,
+              "expanded_url": "https://x.com/Gommayusi98/status/2086397022127710562/video/1",
+              "media_key": "13_2086397005476368384",
+              "start": 54,
+              "url": "https://t.co/3guL4BI3Bz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086925242048590196",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2086397006902448128"
+          },
+          {
+            "media_key": "13_2086397005476368384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 261
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086397022127710562",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Gommayusi98: Zeus, the princess on the top lane 😆 https://t.co/3guL4BI3Bz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2086925242048590196",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 909,
+          "like_count": 6964,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1083
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-17T13:28:27.000Z",
+        "description": "🔕| @gumayusi_min @faker @gun8952 | Zeus ‘Kanavi’ ‘Zeka’ “Gumayusi” Delight | M. H. LEE | G. W. KIM | W. J. CHOI | @zeguminhyung priv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "gumayusi_min"
+              },
+              {
+                "end": 23,
+                "start": 17,
+                "username": "faker"
+              },
+              {
+                "end": 32,
+                "start": 24,
+                "username": "gun8952"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "zeguminhyung"
+              }
+            ]
+          }
+        },
+        "id": "1990411620229812225",
+        "is_identity_verified": false,
+        "location": "CampOne Gym",
+        "most_recent_tweet_id": "2086879698609689064",
+        "name": "🐻☀️",
+        "pinned_tweet_id": "2010534567728545859",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1990411620229812225/1783949466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026244248585347072/TSU19kwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2175,
+          "following_count": 275,
+          "like_count": 13238,
+          "listed_count": 11,
+          "media_count": 2076,
+          "tweet_count": 19361
+        },
+        "url": "",
+        "username": "Gommayusi98",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

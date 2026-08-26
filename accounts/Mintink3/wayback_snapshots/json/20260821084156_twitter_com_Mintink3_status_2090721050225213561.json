@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2090686206137040978",
+    "created_at": "2026-08-21T08:41:56.000Z",
+    "display_text_range": [
+      11,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T09:41:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090721050225213561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1961527547344424962",
+          "start": 0,
+          "username": "shuyo0722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090721050225213561",
+    "in_reply_to_user_id": "1961527547344424962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090713713670267240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuyo0722 其实不疼 有打麻药的 这已经是我拔的第二颗牙了 过一段还要拔第三颗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2090686206137040978",
+        "created_at": "2026-08-21T08:41:56.000Z",
+        "display_text_range": [
+          11,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090721050225213561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1961527547344424962",
+              "start": 0,
+              "username": "shuyo0722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090721050225213561",
+        "in_reply_to_user_id": "1961527547344424962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090713713670267240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuyo0722 其实不疼 有打麻药的 这已经是我拔的第二颗牙了 过一段还要拔第三颗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961527547344424962",
+        "conversation_id": "2090686206137040978",
+        "created_at": "2026-08-21T08:12:47.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090713713670267240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090713713670267240",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090686206137040978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 感觉好痛。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2090721050225213561",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 1018,
+          "like_count": 8323,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1252
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-29T20:33:16.000Z",
+        "description": "真的很恶",
+        "id": "1961527547344424962",
+        "is_identity_verified": false,
+        "location": "7.2km",
+        "most_recent_tweet_id": "2090713713670267240",
+        "name": "施迤_shuyo@無言購読アカウント",
+        "pinned_tweet_id": "2089828724665713007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1961527547344424962/1787080915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089794448431689728/wZU8r41C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 48,
+          "like_count": 4490,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 2100
+        },
+        "url": "",
+        "username": "shuyo0722",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

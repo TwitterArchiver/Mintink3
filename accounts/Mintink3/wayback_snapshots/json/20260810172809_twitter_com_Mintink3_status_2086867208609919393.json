@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2086852507989615027",
+    "created_at": "2026-08-10T17:28:09.000Z",
+    "display_text_range": [
+      10,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T18:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086867208609919393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1840708439544352768",
+          "start": 0,
+          "username": "seiunn04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086867208609919393",
+    "in_reply_to_user_id": "1840708439544352768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086864742249840701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seiunn04 一般 冲着情怀去可以看 抛开情怀只能给6分及格"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2086864742249840701].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2086864742249840701",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2086864742249840701"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2086852507989615027",
+        "created_at": "2026-08-10T17:28:09.000Z",
+        "display_text_range": [
+          10,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T18:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086867208609919393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840708439544352768",
+              "start": 0,
+              "username": "seiunn04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086867208609919393",
+        "in_reply_to_user_id": "1840708439544352768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086864742249840701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seiunn04 一般 冲着情怀去可以看 抛开情怀只能给6分及格"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2086867208609919393",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 896,
+          "like_count": 6813,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1063
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T11:01:10.000Z",
+        "description": "雨上がりの一番星",
+        "id": "1840708439544352768",
+        "is_identity_verified": false,
+        "location": "Davis,CA",
+        "most_recent_tweet_id": "2085617767269429690",
+        "name": "测地线上的魔法使",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840708439544352768/1749275719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028540981914853376/ru-GqwEY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 1371,
+          "like_count": 16917,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 3573
+        },
+        "url": "",
+        "username": "seiunn04",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

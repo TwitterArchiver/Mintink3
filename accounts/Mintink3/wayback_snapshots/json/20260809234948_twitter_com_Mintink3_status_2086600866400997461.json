@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2086406406119530996",
+    "created_at": "2026-08-09T23:49:48.000Z",
+    "display_text_range": [
+      10,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T00:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086600866400997461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057835400790462464",
+          "start": 0,
+          "username": "kimika37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086600866400997461",
+    "in_reply_to_user_id": "2057835400790462464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086406406119530996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kimika37 可能是有人号被ban了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2086406406119530996",
+        "created_at": "2026-08-09T23:49:48.000Z",
+        "display_text_range": [
+          10,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T00:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086600866400997461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057835400790462464",
+              "start": 0,
+              "username": "kimika37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086600866400997461",
+        "in_reply_to_user_id": "2057835400790462464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086406406119530996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kimika37 可能是有人号被ban了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057835400790462464",
+        "conversation_id": "2086406406119530996",
+        "created_at": "2026-08-09T10:57:05.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T11:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086406406119530996"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086406406119530996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这两天一直在回fo结果打开一看回了一天从170变成169了哈哈哈哈我真的气笑了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2086600866400997461",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 893,
+          "like_count": 6774,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1048
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T14:46:19.000Z",
+        "description": "09｜温良边缘人\noder｜🔪🩸｜友跨友一切\n我的宝宝OvO @xiaotunsalutee \n我的主人TvT @AngelIlIIl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 31,
+                "username": "xiaotunsalutee"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "AngelIlIIl"
+              }
+            ]
+          }
+        },
+        "id": "2057835400790462464",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2086518381638013394",
+        "name": "Curse2.0",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057835400790462464/1785942687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085020979290640384/FjX4cCxC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 190,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 234
+        },
+        "url": "",
+        "username": "kimika37",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

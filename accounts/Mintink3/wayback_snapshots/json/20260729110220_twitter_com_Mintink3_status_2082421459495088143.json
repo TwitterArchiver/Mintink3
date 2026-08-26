@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081993407703216128"
+      ],
+      "media_source_tweet_id": [
+        "2082013186807464152"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2082421459495088143",
+    "created_at": "2026-07-29T11:02:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T12:02:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082421459495088143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1327816489",
+          "start": 3,
+          "username": "animal_kyawa_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kyDpryQAYO",
+          "end": 63,
+          "expanded_url": "https://x.com/animal_kyawa_/status/2082013186807464152/photo/1",
+          "media_key": "3_2081993407703216128",
+          "start": 40,
+          "url": "https://t.co/kyDpryQAYO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082421459495088143",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1412
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082013186807464152",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @animal_kyawa_: ニャンコのアゴを乗せる為に\nできた駐車場 https://t.co/kyDpryQAYO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1303,
+        "media_key": "3_2081993407703216128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOS5-TLa8AA21qq.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081993407703216128"
+          ]
+        },
+        "author_id": "1327816489",
+        "conversation_id": "2082013186807464152",
+        "created_at": "2026-07-28T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082013186807464152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kyDpryQAYO",
+              "end": 44,
+              "expanded_url": "https://x.com/animal_kyawa_/status/2082013186807464152/photo/1",
+              "media_key": "3_2081993407703216128",
+              "start": 21,
+              "url": "https://t.co/kyDpryQAYO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082013186807464152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 609,
+          "impression_count": 274230,
+          "like_count": 21290,
+          "quote_count": 32,
+          "reply_count": 58,
+          "retweet_count": 1412
+        },
+        "reply_settings": "everyone",
+        "text": "ニャンコのアゴを乗せる為に\nできた駐車場 https://t.co/kyDpryQAYO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081993407703216128"
+          ],
+          "media_source_tweet_id": [
+            "2082013186807464152"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2082421459495088143",
+        "created_at": "2026-07-29T11:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082421459495088143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1327816489",
+              "start": 3,
+              "username": "animal_kyawa_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kyDpryQAYO",
+              "end": 63,
+              "expanded_url": "https://x.com/animal_kyawa_/status/2082013186807464152/photo/1",
+              "media_key": "3_2081993407703216128",
+              "start": 40,
+              "url": "https://t.co/kyDpryQAYO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082421459495088143",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1412
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082013186807464152",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @animal_kyawa_: ニャンコのアゴを乗せる為に\nできた駐車場 https://t.co/kyDpryQAYO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074830597709840384/kJeKJqLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 750,
+          "like_count": 5433,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 854
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-04T21:03:00.000Z",
+        "description": "かわいい動物達を上げています🐶🐱",
+        "id": "1327816489",
+        "name": "犬しか勝たん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033416536736862208/4oF6B8c__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18138,
+          "following_count": 1,
+          "like_count": 2169,
+          "listed_count": 57,
+          "media_count": 1565,
+          "tweet_count": 21226
+        },
+        "url": "",
+        "username": "animal_kyawa_",
+        "verified": true
+      }
+    ]
+  }
+}

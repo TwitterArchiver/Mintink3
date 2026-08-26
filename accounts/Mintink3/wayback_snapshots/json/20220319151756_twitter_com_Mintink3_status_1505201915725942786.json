@@ -1,0 +1,277 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Mar 19 15:17:56 +0000 2022",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1505201915725942786,
+  "id_str": "1505201915725942786",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quote_count": 0,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Mar 19 12:41:10 +0000 2022",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "expanded_url": "https://twitter.com/i/web/status/1505162461325918209",
+          "indices": [
+            117,
+            140
+          ],
+          "url": "https://t.co/E0z9bZMu4Q"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_tweet": {
+      "display_text_range": [
+        0,
+        220
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              208,
+              215
+            ],
+            "text": "DWGKIA"
+          },
+          {
+            "indices": [
+              216,
+              220
+            ],
+            "text": "LCK"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/O58Dv9GSdi",
+            "expanded_url": "https://twitter.com/DWGKIA/status/1505162461325918209/photo/1",
+            "id": 1505162156391600129,
+            "id_str": "1505162156391600129",
+            "indices": [
+              221,
+              244
+            ],
+            "media_url": "http://pbs.twimg.com/media/FONpAa0VEAE0NZe.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FONpAa0VEAE0NZe.jpg",
+            "sizes": {
+              "large": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/O58Dv9GSdi"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/O58Dv9GSdi",
+            "expanded_url": "https://twitter.com/DWGKIA/status/1505162461325918209/photo/1",
+            "id": 1505162156391600129,
+            "id_str": "1505162156391600129",
+            "indices": [
+              221,
+              244
+            ],
+            "media_url": "http://pbs.twimg.com/media/FONpAa0VEAE0NZe.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FONpAa0VEAE0NZe.jpg",
+            "sizes": {
+              "large": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/O58Dv9GSdi"
+          }
+        ]
+      },
+      "full_text": "2022 LCK Spring vs BRO_Defeat\n\nDWG KIA lost unfortunately against BRO.\nThank you for your support, and we will prepare thoroughly for the upcoming playoffs.\n\n응원해주신 팬 여러분들께 감사드리며, 다가오는 플레이오프 철저히 준비해 돌아오겠습니다.\n\n#DWGKIA #LCK https://t.co/O58Dv9GSdi"
+    },
+    "favorite_count": 67,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1505162461325918209,
+    "id_str": "1505162461325918209",
+    "in_reply_to_screen_name": "DWGKIA",
+    "in_reply_to_status_id": 1505116145862713346,
+    "in_reply_to_status_id_str": "1505116145862713346",
+    "in_reply_to_user_id": 923828976409198592,
+    "in_reply_to_user_id_str": "923828976409198592",
+    "is_quote_status": false,
+    "lang": "ko",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 22,
+    "reply_count": 13,
+    "retweet_count": 18,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "2022 LCK Spring vs BRO_Defeat\n\nDWG KIA lost unfortunately against BRO.\nThank you for your support, and we will prep… https://t.co/E0z9bZMu4Q",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Oct 27 08:29:26 +0000 2017",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "#DWGKIA Official Twitter page  #DKWIN ㅣcontact@damwon.gg",
+      "favourites_count": 265,
+      "follow_request_sent": null,
+      "followers_count": 68960,
+      "following": null,
+      "friends_count": 31,
+      "geo_enabled": false,
+      "id": 923828976409198592,
+      "id_str": "923828976409198592",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 319,
+      "location": null,
+      "name": "DWG KIA",
+      "notifications": null,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/923828976409198592/1639365177",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1488862632924696576/t7fh5FG4_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1488862632924696576/t7fh5FG4_normal.jpg",
+      "profile_link_color": "91D2FA",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "DWGKIA",
+      "statuses_count": 280,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://dwgkia.gg",
+      "utc_offset": null,
+      "verified": true,
+      "withheld_in_countries": []
+    }
+  },
+  "quoted_status_id": 1505162461325918209,
+  "quoted_status_id_str": "1505162461325918209",
+  "quoted_status_permalink": {
+    "display": "twitter.com/DWGKIA/status/…",
+    "expanded": "https://twitter.com/DWGKIA/status/1505162461325918209",
+    "url": "https://t.co/LoxTs0s3nY"
+  },
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "I can't understand🙃",
+  "timestamp_ms": "1647703076665",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Mon Feb 14 00:17:01 +0000 2022",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "gumayusi❤️faker❤️xiaohu❤️chovy❤️clid❤️rich❤️2021DK\nBIGBANG",
+    "favourites_count": 347,
+    "follow_request_sent": null,
+    "followers_count": 1,
+    "following": null,
+    "friends_count": 165,
+    "geo_enabled": false,
+    "id": 1493016356182056961,
+    "id_str": "1493016356182056961",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "Mintink",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1644805845",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1493049450993893376/nVUUfNSv_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1493049450993893376/nVUUfNSv_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "Mintink3",
+    "statuses_count": 153,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

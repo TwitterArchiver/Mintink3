@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2091983143553397162",
+    "created_at": "2026-08-24T22:21:29.000Z",
+    "display_text_range": [
+      14,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T23:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092014458218663938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1674596151671283714",
+          "start": 0,
+          "username": "sansnb173435"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092014458218663938",
+    "in_reply_to_user_id": "1674596151671283714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092009966102278274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sansnb173435 我心跳确实有加快 也有点头晕 但是没啥特别的感觉 就像吃大果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2091983143553397162",
+        "created_at": "2026-08-24T22:21:29.000Z",
+        "display_text_range": [
+          14,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T23:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092014458218663938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1674596151671283714",
+              "start": 0,
+              "username": "sansnb173435"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092014458218663938",
+        "in_reply_to_user_id": "1674596151671283714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092009966102278274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sansnb173435 我心跳确实有加快 也有点头晕 但是没啥特别的感觉 就像吃大果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674596151671283714",
+        "conversation_id": "2091983143553397162",
+        "created_at": "2026-08-24T22:03:38.000Z",
+        "display_text_range": [
+          10,
+          165
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T23:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092009966102278274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092009966102278274",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091983143553397162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 怎么说呢 这玩意不起效大概是你我用错方式了 我买过了500mg的 没感受到它的解离 第一次尝试鼻吸是用了50mg左右 没感觉 出门游玩了一圈给一个新手朋友试了试 他也依旧没感觉 然后我就回家了 开始不信邪 猛吸开始 50-100-150… 鼻子堵上了嘿嘿 等来的药效是兴奋剂 心跳差点炸掉 个人认为无任何解离👌"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2092014458218663938",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 1059,
+          "like_count": 9135,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1341
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-30T01:50:23.000Z",
+        "description": "超级毒虫",
+        "id": "1674596151671283714",
+        "is_identity_verified": false,
+        "location": "❤️",
+        "most_recent_tweet_id": "2092009966102278274",
+        "name": "Nee",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032593333407920128/US7tWYHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 97,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 207
+        },
+        "url": "",
+        "username": "sansnb173435",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071650882287022080"
+      ],
+      "media_source_tweet_id": [
+        "2071650888607727885"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2071799784818786614",
+    "created_at": "2026-06-30T03:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T04:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071799784818786614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820326459569037312",
+          "start": 3,
+          "username": "ethii_zz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iQwdiFLLKx",
+          "end": 37,
+          "expanded_url": "https://x.com/ethii_zz/status/2071650888607727885/photo/1",
+          "media_key": "3_2071650882287022080",
+          "start": 14,
+          "url": "https://t.co/iQwdiFLLKx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071799784818786614",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1185
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071650888607727885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ethii_zz: https://t.co/iQwdiFLLKx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 923,
+        "media_key": "3_2071650882287022080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_7gFlXsAA-ONr.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071650882287022080"
+          ],
+          "media_source_tweet_id": [
+            "2071650888607727885"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2071799784818786614",
+        "created_at": "2026-06-30T03:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T04:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071799784818786614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820326459569037312",
+              "start": 3,
+              "username": "ethii_zz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iQwdiFLLKx",
+              "end": 37,
+              "expanded_url": "https://x.com/ethii_zz/status/2071650888607727885/photo/1",
+              "media_key": "3_2071650882287022080",
+              "start": 14,
+              "url": "https://t.co/iQwdiFLLKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071799784818786614",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1185
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071650888607727885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ethii_zz: https://t.co/iQwdiFLLKx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071650882287022080"
+          ]
+        },
+        "author_id": "1820326459569037312",
+        "conversation_id": "2071650888607727885",
+        "created_at": "2026-06-29T17:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T18:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071650888607727885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iQwdiFLLKx",
+              "end": 23,
+              "expanded_url": "https://x.com/ethii_zz/status/2071650888607727885/photo/1",
+              "media_key": "3_2071650882287022080",
+              "start": 0,
+              "url": "https://t.co/iQwdiFLLKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071650888607727885",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 316,
+          "impression_count": 59034,
+          "like_count": 6212,
+          "quote_count": 16,
+          "reply_count": 4,
+          "retweet_count": 1185
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iQwdiFLLKx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 焦虑 165cm/40kg 地雷女 餐券女休学 现在做夜场营销",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "1525682758399299585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070170784270794752/Sm0ogbFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 707,
+          "like_count": 4358,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 696
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T05:10:34.000Z",
+        "description": "solo quería que me amara al respirar.",
+        "id": "1820326459569037312",
+        "name": "てふてふ",
+        "pinned_tweet_id": "2062262478151508183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071344021344043008/B26-gjXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 479,
+          "like_count": 5255,
+          "listed_count": 3,
+          "media_count": 374,
+          "tweet_count": 2180
+        },
+        "url": "",
+        "username": "ethii_zz",
+        "verified": false
+      }
+    ]
+  }
+}

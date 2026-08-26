@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2089827391724261376"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2089828887677321695",
+    "created_at": "2026-08-18T21:36:48.000Z",
+    "display_text_range": [
+      0,
+      119
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T22:30:59.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089827425157103963",
+      "2089828887677321695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CUHZEq3guW",
+          "end": 143,
+          "expanded_url": "https://x.com/Mintink3/status/2089828887677321695/video/1",
+          "media_key": "13_2089827391724261376",
+          "start": 120,
+          "url": "https://t.co/CUHZEq3guW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089828887677321695",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2089827391724261376"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "我从来不觉得“霸道”这个词是一个褒义词，可总有很多普信男觉得很多女生会吃“霸道总裁”那一套。\n\n我很讨厌自以为是的人，讨厌觉得自己“霸王硬上弓”很帅的男人。强迫别人并没有什么帅的，只是武力压制而已，并不能使我的心屈服。\n\n今天第三场酒局， 在场的所有客户都是一年多前我刚做夜场就认识的，我自认为算我最信任的客户了。在我的客户喝多走后，客户的朋友让我留下来喝一会。怪我太容易相信别人了，而且点我的客户也特别素质全程没碰我，结果客户的朋友却趁他走后强吻我，我一直难受到现在。\n\n我们并排而坐，我在右他在左，他突然叫住我转过头然后强吻我，我的左手被沙发和我俩点身体夹住抽不出来，右手扬起欲扇他一巴掌，结果却被他预判了，他的左手抓住我的右手，我一介女流的力气怎能敌得过他一个三十多岁的壮汉，我一直挣扎不愿被他敲开嘴唇，手还在挣扎中被他抓伤了一点（并不严重只是红肿了，但也是我反抗过的证明）\n\n可能有些人会觉得我太矫情了，一个陪酒女被亲一下，写这么长小作文，但是或许我有病吧，我现在也有喜欢的爱的人，我也只接搂搂抱抱不亲摸的绿局，我真的很难受很介意。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我从来不觉得“霸道”这个词是一个褒义词，可总有很多普信男觉得很多女生会吃“霸道总裁”那一套。\n\n我很讨厌自以为是的人，讨厌觉得自己“霸王硬上弓”很帅的男人。强迫别人并没有什么帅的，只是武力压制而已，并不能使我的心屈服。\n\n今天第三场酒局， https://t.co/CUHZEq3guW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7098,
+        "height": 1920,
+        "media_key": "13_2089827391724261376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089827391724261376/img/nWlQF6Foz8ap8myx.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089827391724261376/vid/avc1/720x1280/JpmmDkMWzqHonr5b.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089827391724261376/pl/_U2sZIV_tozvwO1D.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089827391724261376/vid/avc1/320x568/dpuTTC7sdS_Nmiwv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089827391724261376/vid/avc1/480x852/Ej2RZvMpFBg1KbzJ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089827391724261376/vid/avc1/1080x1920/kZ7bVN8UWPCpqWnA.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089827391724261376"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2089827425157103963",
+        "created_at": "2026-08-18T21:30:59.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T22:30:59.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089827425157103963",
+          "2089828887677321695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iBuyDAzt4b",
+              "end": 143,
+              "expanded_url": "https://x.com/Mintink3/status/2089827425157103963/video/1",
+              "media_key": "13_2089827391724261376",
+              "start": 120,
+              "url": "https://t.co/iBuyDAzt4b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089827425157103963",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089827391724261376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "我从来不觉得“霸道”这个词是一个褒义词，可总有很多普信男觉得很多女生会吃“霸道总裁”那一套。\n\n我很讨厌自以为是的人，讨厌觉得自己“霸王硬上弓”很帅的男人。强迫别人并没有什么帅的，只是武力压制而已，并不能使我的心屈服。\n\n今天第三场酒局， 在场的所有客户都是一年多前我刚做夜场就认识的，我自认为算我最信任的客户来。在我的客户喝多走后，客户的朋友让我留下来喝一回，怪我太容易相信别人了，而且点我的客户也特别素质全程没碰我，结果客户的朋友却趁他走后强吻我，我一直难受到现在。\n\n我们并排而坐，我在右他在左，他突然叫住我转过头然后强吻我，我的左手被沙发和我俩点身体夹住抽不出来，右手扬起欲扇他一巴掌，结果被他预判了，他的左手抓住我的右手，我一介女流的力气怎能比得过他一个三十多岁的男人，我一直挣扎不愿被他敲开嘴唇，手还在挣扎中被他抓伤了一点（不严重只是红肿了，但也是我反抗过的证明）\n\n可能有些人会觉得我太矫情了，一个陪酒女被亲一下，写这么长小作文，但是或许我有病吧，我现在也有喜欢的爱的人，我真的很难受很介意。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从来不觉得“霸道”这个词是一个褒义词，可总有很多普信男觉得很多女生会吃“霸道总裁”那一套。\n\n我很讨厌自以为是的人，讨厌觉得自己“霸王硬上弓”很帅的男人。强迫别人并没有什么帅的，只是武力压制而已，并不能使我的心屈服。\n\n今天第三场酒局， https://t.co/iBuyDAzt4b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089827391724261376"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2089828887677321695",
+        "created_at": "2026-08-18T21:36:48.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T22:30:59.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089827425157103963",
+          "2089828887677321695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CUHZEq3guW",
+              "end": 143,
+              "expanded_url": "https://x.com/Mintink3/status/2089828887677321695/video/1",
+              "media_key": "13_2089827391724261376",
+              "start": 120,
+              "url": "https://t.co/CUHZEq3guW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089828887677321695",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089827391724261376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "我从来不觉得“霸道”这个词是一个褒义词，可总有很多普信男觉得很多女生会吃“霸道总裁”那一套。\n\n我很讨厌自以为是的人，讨厌觉得自己“霸王硬上弓”很帅的男人。强迫别人并没有什么帅的，只是武力压制而已，并不能使我的心屈服。\n\n今天第三场酒局， 在场的所有客户都是一年多前我刚做夜场就认识的，我自认为算我最信任的客户了。在我的客户喝多走后，客户的朋友让我留下来喝一会。怪我太容易相信别人了，而且点我的客户也特别素质全程没碰我，结果客户的朋友却趁他走后强吻我，我一直难受到现在。\n\n我们并排而坐，我在右他在左，他突然叫住我转过头然后强吻我，我的左手被沙发和我俩点身体夹住抽不出来，右手扬起欲扇他一巴掌，结果却被他预判了，他的左手抓住我的右手，我一介女流的力气怎能敌得过他一个三十多岁的壮汉，我一直挣扎不愿被他敲开嘴唇，手还在挣扎中被他抓伤了一点（并不严重只是红肿了，但也是我反抗过的证明）\n\n可能有些人会觉得我太矫情了，一个陪酒女被亲一下，写这么长小作文，但是或许我有病吧，我现在也有喜欢的爱的人，我也只接搂搂抱抱不亲摸的绿局，我真的很难受很介意。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从来不觉得“霸道”这个词是一个褒义词，可总有很多普信男觉得很多女生会吃“霸道总裁”那一套。\n\n我很讨厌自以为是的人，讨厌觉得自己“霸王硬上弓”很帅的男人。强迫别人并没有什么帅的，只是武力压制而已，并不能使我的心屈服。\n\n今天第三场酒局， https://t.co/CUHZEq3guW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2089828887677321695",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 999,
+          "like_count": 7849,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1215
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

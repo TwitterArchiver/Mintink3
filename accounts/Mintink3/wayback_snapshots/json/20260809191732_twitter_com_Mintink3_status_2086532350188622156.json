@@ -1,0 +1,527 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1650310889231269889",
+          "name": "Lamine Yamal"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "1650310889231269889",
+          "name": "Lamine Yamal"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Sports Personality like 'Skip Bayless'",
+          "id": "92",
+          "name": "Sports Personality"
+        },
+        "entity": {
+          "id": "1650310889231269889",
+          "name": "Lamine Yamal"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1650310889231269889",
+          "name": "Lamine Yamal"
+        }
+      }
+    ],
+    "conversation_id": "2086532350188622156",
+    "created_at": "2026-08-09T19:17:32.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T20:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086532350188622156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1609752355611852800",
+          "start": 3,
+          "username": "CentralDoYamal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/9eTtX2p",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/9eTtX2p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086532350188622156",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 457
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086211029273628959",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CentralDoYamal: O post do Lamine Yamal no Instagram kkkkkkkkkkkkkkk\n\nEle deve sentir muita falta de ser um anônimo https://t.co/9eTtX2p…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2086211009316786177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPO13BjWEAEpTF6.jpg",
+        "width": 779
+      },
+      {
+        "height": 2027,
+        "media_key": "3_2086211019441897472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPO13nRXAAAh0C9.jpg",
+        "width": 1204
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1650310889231269889",
+              "name": "Lamine Yamal"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "1650310889231269889",
+              "name": "Lamine Yamal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Sports Personality like 'Skip Bayless'",
+              "id": "92",
+              "name": "Sports Personality"
+            },
+            "entity": {
+              "id": "1650310889231269889",
+              "name": "Lamine Yamal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1650310889231269889",
+              "name": "Lamine Yamal"
+            }
+          }
+        ],
+        "conversation_id": "2086532350188622156",
+        "created_at": "2026-08-09T19:17:32.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T20:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086532350188622156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1609752355611852800",
+              "start": 3,
+              "username": "CentralDoYamal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/9eTtX2p",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/9eTtX2p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086532350188622156",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 457
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086211029273628959",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CentralDoYamal: O post do Lamine Yamal no Instagram kkkkkkkkkkkkkkk\n\nEle deve sentir muita falta de ser um anônimo https://t.co/9eTtX2p…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086211009316786177",
+            "3_2086211019441897472"
+          ]
+        },
+        "author_id": "1609752355611852800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1650310889231269889",
+              "name": "Lamine Yamal"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "1650310889231269889",
+              "name": "Lamine Yamal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Sports Personality like 'Skip Bayless'",
+              "id": "92",
+              "name": "Sports Personality"
+            },
+            "entity": {
+              "id": "1650310889231269889",
+              "name": "Lamine Yamal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1650310889231269889",
+              "name": "Lamine Yamal"
+            }
+          }
+        ],
+        "conversation_id": "2086211029273628959",
+        "created_at": "2026-08-08T22:00:43.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T23:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086211029273628959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9eTtX2pgFp",
+              "end": 122,
+              "expanded_url": "https://x.com/CentralDoYamal/status/2086211029273628959/photo/1",
+              "media_key": "3_2086211009316786177",
+              "start": 99,
+              "url": "https://t.co/9eTtX2pgFp"
+            },
+            {
+              "display_url": "pic.x.com/9eTtX2pgFp",
+              "end": 122,
+              "expanded_url": "https://x.com/CentralDoYamal/status/2086211029273628959/photo/1",
+              "media_key": "3_2086211019441897472",
+              "start": 99,
+              "url": "https://t.co/9eTtX2pgFp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086211029273628959",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2086211009316786177"
+          },
+          {
+            "media_key": "3_2086211019441897472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 537,
+          "impression_count": 2843660,
+          "like_count": 44750,
+          "quote_count": 30,
+          "reply_count": 47,
+          "retweet_count": 457
+        },
+        "reply_settings": "everyone",
+        "text": "O post do Lamine Yamal no Instagram kkkkkkkkkkkkkkk\n\nEle deve sentir muita falta de ser um anônimo https://t.co/9eTtX2pgFp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2086532350188622156",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 889,
+          "like_count": 6705,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1033
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-02T03:24:21.000Z",
+        "description": "Notícias, estatísticas e curiosidades sobre o futuro melhor jogador do mundo.\n\n(Fan account)",
+        "id": "1609752355611852800",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086529772369104978",
+        "name": "Central Lamine Yamal",
+        "pinned_tweet_id": "2078992693750071718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1609752355611852800/1784505796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079018847789600768/Wue2oLVF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17572,
+          "following_count": 2246,
+          "like_count": 8017,
+          "listed_count": 17,
+          "media_count": 9512,
+          "tweet_count": 22404
+        },
+        "url": "",
+        "username": "CentralDoYamal",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

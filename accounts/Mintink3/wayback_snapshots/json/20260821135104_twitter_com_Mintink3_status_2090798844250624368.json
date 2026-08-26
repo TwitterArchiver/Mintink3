@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090798834205237248"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2090798844250624368",
+    "created_at": "2026-08-21T13:51:04.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T14:36:22.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090795146904526998",
+      "2090798844250624368"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RHUr06NKap",
+          "end": 52,
+          "expanded_url": "https://x.com/Mintink3/status/2090798844250624368/photo/1",
+          "media_key": "3_2090798834205237248",
+          "start": 29,
+          "url": "https://t.co/RHUr06NKap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090798844250624368",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090798834205237248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚准备o就被客户叫去发牌了\n只能等我下班再品尝酸奶葡萄了 https://t.co/RHUr06NKap"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090795132912390144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQP_GItb0AA39zb.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090798834205237248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQCdlGaoAAxSxc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090795132912390144"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2090795146904526998",
+        "created_at": "2026-08-21T13:36:22.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:36:22.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090795146904526998",
+          "2090798844250624368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dn7McHK8hd",
+              "end": 52,
+              "expanded_url": "https://x.com/Mintink3/status/2090795146904526998/photo/1",
+              "media_key": "3_2090795132912390144",
+              "start": 29,
+              "url": "https://t.co/dn7McHK8hd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090795146904526998",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090795132912390144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚准备o就被客户叫去发牌了\n只能等我下班再品尝酸奶葡萄了 https://t.co/dn7McHK8hd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090798834205237248"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2090798844250624368",
+        "created_at": "2026-08-21T13:51:04.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:36:22.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090795146904526998",
+          "2090798844250624368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RHUr06NKap",
+              "end": 52,
+              "expanded_url": "https://x.com/Mintink3/status/2090798844250624368/photo/1",
+              "media_key": "3_2090798834205237248",
+              "start": 29,
+              "url": "https://t.co/RHUr06NKap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090798844250624368",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090798834205237248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚准备o就被客户叫去发牌了\n只能等我下班再品尝酸奶葡萄了 https://t.co/RHUr06NKap"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2090798844250624368",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 1020,
+          "like_count": 8354,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1260
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

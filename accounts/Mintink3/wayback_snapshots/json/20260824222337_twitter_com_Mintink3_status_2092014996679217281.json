@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2092014996679217281",
+    "created_at": "2026-08-24T22:23:37.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T23:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092014996679217281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1372305422447742977",
+          "start": 3,
+          "username": "gagnon_____5"
+        },
+        {
+          "end": 28,
+          "id": "1364394717975298048",
+          "start": 18,
+          "username": "kauapache"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092014996679217281",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091690249512473042",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gagnon_____5: @kauapache não ter me matado"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2092014996679217281",
+        "created_at": "2026-08-24T22:23:37.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T23:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092014996679217281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1372305422447742977",
+              "start": 3,
+              "username": "gagnon_____5"
+            },
+            {
+              "end": 28,
+              "id": "1364394717975298048",
+              "start": 18,
+              "username": "kauapache"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092014996679217281",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091690249512473042",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gagnon_____5: @kauapache não ter me matado"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1372305422447742977",
+        "conversation_id": "2091579303305654362",
+        "created_at": "2026-08-24T00:53:11.000Z",
+        "display_text_range": [
+          11,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T01:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091690249512473042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1364394717975298048",
+              "start": 0,
+              "username": "kauapache"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091690249512473042",
+        "in_reply_to_user_id": "1364394717975298048",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 28093,
+          "like_count": 1256,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091579303305654362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kauapache não ter me matado"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2092014996679217281",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 1059,
+          "like_count": 9139,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1342
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-17T21:54:58.000Z",
+        "description": "la la la lalala",
+        "id": "1372305422447742977",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091764817459651008",
+        "name": "lohan",
+        "pinned_tweet_id": "2081771275295268905",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1372305422447742977/1761817487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068709983554793473/yhLfaB3s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 260,
+          "like_count": 182925,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 2682
+        },
+        "url": "",
+        "username": "gagnon_____5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-24T02:00:35.000Z",
+        "description": "https://t.co/gQwXAi4d5O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boxd.it/5bVcL",
+                "end": 23,
+                "expanded_url": "https://boxd.it/5bVcL",
+                "start": 0,
+                "url": "https://t.co/gQwXAi4d5O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kauahpachecoo?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kauahpachecoo?igsh=MWF1ZzVyYWxiamZyOQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/OUUC8DxH9D"
+              }
+            ]
+          }
+        },
+        "id": "1364394717975298048",
+        "is_identity_verified": false,
+        "location": "Belo Horizonte, Brasil",
+        "most_recent_tweet_id": "2091928218315935898",
+        "name": "kauã",
+        "pinned_tweet_id": "2022106117539869002",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1364394717975298048/1716837795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091577131893432326/z9piP71z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1784,
+          "following_count": 2678,
+          "like_count": 56695,
+          "listed_count": 0,
+          "media_count": 446,
+          "tweet_count": 9150
+        },
+        "url": "https://t.co/OUUC8DxH9D",
+        "username": "kauapache",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

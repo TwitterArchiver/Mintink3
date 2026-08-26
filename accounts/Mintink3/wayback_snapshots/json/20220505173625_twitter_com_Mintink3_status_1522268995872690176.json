@@ -1,0 +1,330 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu May 05 17:36:25 +0000 2022",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/ulPx3ZPaKD",
+        "expanded_url": "https://twitter.com/xB_Bang/status/1522252210943369217/photo/1",
+        "id": 1522252205327196163,
+        "id_str": "1522252205327196163",
+        "indices": [
+          50,
+          73
+        ],
+        "media_url": "http://pbs.twimg.com/media/FSAgUMUVIAM2DcO.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FSAgUMUVIAM2DcO.jpg",
+        "sizes": {
+          "large": {
+            "h": 1575,
+            "resize": "fit",
+            "w": 1284
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 978
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 554
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1522252210943369217,
+        "source_status_id_str": "1522252210943369217",
+        "source_user_id": 3273253903,
+        "source_user_id_str": "3273253903",
+        "type": "photo",
+        "url": "https://t.co/ulPx3ZPaKD"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 3273253903,
+        "id_str": "3273253903",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "B-BANG",
+        "screen_name": "xB_Bang"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/ulPx3ZPaKD",
+        "expanded_url": "https://twitter.com/xB_Bang/status/1522252210943369217/photo/1",
+        "id": 1522252205327196163,
+        "id_str": "1522252205327196163",
+        "indices": [
+          50,
+          73
+        ],
+        "media_url": "http://pbs.twimg.com/media/FSAgUMUVIAM2DcO.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FSAgUMUVIAM2DcO.jpg",
+        "sizes": {
+          "large": {
+            "h": 1575,
+            "resize": "fit",
+            "w": 1284
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 978
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 554
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1522252210943369217,
+        "source_status_id_str": "1522252210943369217",
+        "source_user_id": 3273253903,
+        "source_user_id_str": "3273253903",
+        "type": "photo",
+        "url": "https://t.co/ulPx3ZPaKD"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1522268995872690176,
+  "id_str": "1522268995872690176",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "tl",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 05 16:29:43 +0000 2022",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ulPx3ZPaKD",
+          "expanded_url": "https://twitter.com/xB_Bang/status/1522252210943369217/photo/1",
+          "id": 1522252205327196163,
+          "id_str": "1522252205327196163",
+          "indices": [
+            37,
+            60
+          ],
+          "media_url": "http://pbs.twimg.com/media/FSAgUMUVIAM2DcO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FSAgUMUVIAM2DcO.jpg",
+          "sizes": {
+            "large": {
+              "h": 1575,
+              "resize": "fit",
+              "w": 1284
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 978
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 554
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ulPx3ZPaKD"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ulPx3ZPaKD",
+          "expanded_url": "https://twitter.com/xB_Bang/status/1522252210943369217/photo/1",
+          "id": 1522252205327196163,
+          "id_str": "1522252205327196163",
+          "indices": [
+            37,
+            60
+          ],
+          "media_url": "http://pbs.twimg.com/media/FSAgUMUVIAM2DcO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FSAgUMUVIAM2DcO.jpg",
+          "sizes": {
+            "large": {
+              "h": 1575,
+              "resize": "fit",
+              "w": 1284
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 978
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 554
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ulPx3ZPaKD"
+        }
+      ]
+    },
+    "favorite_count": 44,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1522252210943369217,
+    "id_str": "1522252210943369217",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "tl",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 13,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "abdalmalikmusic IG update w Jiyong 😍 https://t.co/ulPx3ZPaKD",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jul 09 16:36:02 +0000 2015",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "fan account • from 🇸🇬 👑 4/5 flowers bloomed 🐲GDragon ☀️Taeyang 🔝TOP 👼🏻Daesung 🐼 Seungri",
+      "favourites_count": 1993,
+      "follow_request_sent": null,
+      "followers_count": 10673,
+      "following": null,
+      "friends_count": 107,
+      "geo_enabled": true,
+      "id": 3273253903,
+      "id_str": "3273253903",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 87,
+      "location": "Singapore",
+      "name": "B-BANG",
+      "notifications": null,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3273253903/1509986125",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1102559490509959168/Z6uWZnfF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102559490509959168/Z6uWZnfF_normal.jpg",
+      "profile_link_color": "DD2E44",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "xB_Bang",
+      "statuses_count": 35292,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @xB_Bang: abdalmalikmusic IG update w Jiyong 😍 https://t.co/ulPx3ZPaKD",
+  "timestamp_ms": "1651772185663",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Mon Feb 14 00:17:01 +0000 2022",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "DWG(DK)-RNG-GENG（SSG）-SKT(T1)-NS-TL-EG ^Team^\nKiin-Teddy-Umti-Deft-Rich-Clid^Single^\nBIGBANG 5 FOREVER",
+    "favourites_count": 1429,
+    "follow_request_sent": null,
+    "followers_count": 35,
+    "following": null,
+    "friends_count": 343,
+    "geo_enabled": false,
+    "id": 1493016356182056961,
+    "id_str": "1493016356182056961",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": "Quierschied, Deutschland",
+    "name": "Predawn",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1649350993",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1514299548679622657/C-bKxcrs_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1514299548679622657/C-bKxcrs_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "Mintink3",
+    "statuses_count": 603,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

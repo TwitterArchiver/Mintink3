@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091571959612022785"
+      ],
+      "media_source_tweet_id": [
+        "2091571981728498142"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      }
+    ],
+    "conversation_id": "2091777442277134364",
+    "created_at": "2026-08-24T06:39:40.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T07:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091777442277134364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1816256392195612672",
+          "start": 3,
+          "username": "Leviannatho"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r109Jwlu60",
+          "end": 80,
+          "expanded_url": "https://x.com/Leviannatho/status/2091571981728498142/photo/1",
+          "media_key": "3_2091571959612022785",
+          "start": 57,
+          "url": "https://t.co/r109Jwlu60"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091777442277134364",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2091571959612022785"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 637
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091571981728498142",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Leviannatho: She’s using her ring light as a halo… 🥹 https://t.co/r109Jwlu60"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2091571959612022785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQbBnZrXoAEdWnn.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091571959612022785"
+          ],
+          "media_source_tweet_id": [
+            "2091571981728498142"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          }
+        ],
+        "conversation_id": "2091777442277134364",
+        "created_at": "2026-08-24T06:39:40.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T07:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091777442277134364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1816256392195612672",
+              "start": 3,
+              "username": "Leviannatho"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r109Jwlu60",
+              "end": 80,
+              "expanded_url": "https://x.com/Leviannatho/status/2091571981728498142/photo/1",
+              "media_key": "3_2091571959612022785",
+              "start": 57,
+              "url": "https://t.co/r109Jwlu60"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091777442277134364",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2091571959612022785"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 637
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091571981728498142",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Leviannatho: She’s using her ring light as a halo… 🥹 https://t.co/r109Jwlu60"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091571959612022785"
+          ]
+        },
+        "author_id": "1816256392195612672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          }
+        ],
+        "conversation_id": "2091571981728498142",
+        "created_at": "2026-08-23T17:03:14.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T18:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091571981728498142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r109Jwlu60",
+              "end": 63,
+              "expanded_url": "https://x.com/Leviannatho/status/2091571981728498142/photo/1",
+              "media_key": "3_2091571959612022785",
+              "start": 40,
+              "url": "https://t.co/r109Jwlu60"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091571981728498142",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2091571959612022785"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 263,
+          "impression_count": 20207,
+          "like_count": 4315,
+          "quote_count": 10,
+          "reply_count": 4,
+          "retweet_count": 637
+        },
+        "reply_settings": "everyone",
+        "text": "She’s using her ring light as a halo… 🥹 https://t.co/r109Jwlu60"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2091777442277134364",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 1043,
+          "like_count": 8880,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 1307
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-24T23:37:39.000Z",
+        "description": "humble enjoyer of nso & alst #ilovemybf {Sua, Sayori, Kangel, Mizuki, Miku, Aiko, Aubrey #1 fan ❤️‍🩹!!} @tictactoechamp\n🧬\nhttps://t.co/2iex9VAgex",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 29,
+                "tag": "ilovemybf"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 119,
+                "start": 104,
+                "username": "tictactoechamp"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "walloftext.co/ughqhaarrr",
+                "end": 145,
+                "expanded_url": "http://walloftext.co/ughqhaarrr",
+                "start": 122,
+                "url": "https://t.co/2iex9VAgex"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "raincandysimpu.straw.page",
+                "end": 23,
+                "expanded_url": "https://raincandysimpu.straw.page",
+                "start": 0,
+                "url": "https://t.co/58blDXOPC4"
+              }
+            ]
+          }
+        },
+        "id": "1816256392195612672",
+        "is_identity_verified": false,
+        "location": "I love my hubby (18) BLESS 🙏",
+        "most_recent_tweet_id": "2091740261227335904",
+        "name": "Ame",
+        "pinned_tweet_id": "2074336546308673901",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816256392195612672/1786136926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085835517199777792/2ojjMN1p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2025,
+          "following_count": 1532,
+          "like_count": 19492,
+          "listed_count": 9,
+          "media_count": 1786,
+          "tweet_count": 11866
+        },
+        "url": "https://t.co/58blDXOPC4",
+        "username": "Leviannatho",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

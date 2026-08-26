@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2087302402244571237",
+    "created_at": "2026-08-11T22:17:27.000Z",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T23:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087302402244571237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1218964093119401989",
+          "start": 3,
+          "username": "thenayvuiiiton"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087302402244571237",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 405
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087139144120107028",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thenayvuiiiton: Without drugs and alcohol what's the best way to escape reality?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2087302402244571237",
+        "created_at": "2026-08-11T22:17:27.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T23:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087302402244571237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1218964093119401989",
+              "start": 3,
+              "username": "thenayvuiiiton"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087302402244571237",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 405
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087139144120107028",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thenayvuiiiton: Without drugs and alcohol what's the best way to escape reality?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1218964093119401989",
+        "conversation_id": "2087139144120107028",
+        "created_at": "2026-08-11T11:28:43.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087139144120107028"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087139144120107028",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 643,
+          "impression_count": 1408119,
+          "like_count": 6684,
+          "quote_count": 2171,
+          "reply_count": 3124,
+          "retweet_count": 405
+        },
+        "reply_settings": "everyone",
+        "text": "Without drugs and alcohol what's the best way to escape reality?"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2087302402244571237",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 920,
+          "like_count": 7176,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1106
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-01-19T18:31:14.000Z",
+        "description": "🇳🇬🇷🇺 غالي السعر|| 𝐑𝐄𝐀𝐋𝐓𝐎𝐑 🏘|| 𝐇𝐀𝐈𝐑𝐒𝐓𝐘𝐋𝐈𝐒𝐓 || 𝐏𝐄𝐑𝐅𝐔𝐌𝐄𝐑𝐘🛍️ || 📩 ADS / PROMO\n16196",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yyvesss._",
+                "end": 23,
+                "expanded_url": "http://instagram.com/yyvesss._",
+                "start": 0,
+                "url": "https://t.co/aehiKw1nif"
+              }
+            ]
+          }
+        },
+        "id": "1218964093119401989",
+        "is_identity_verified": true,
+        "location": "elusive",
+        "most_recent_tweet_id": "2087302241623462188",
+        "name": "𝐘𝐯𝐞𝐬",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1218964093119401989/1781389487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065922377687371776/YCvmf8yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48026,
+          "following_count": 2173,
+          "like_count": 194444,
+          "listed_count": 34,
+          "media_count": 411,
+          "tweet_count": 88075
+        },
+        "url": "https://t.co/aehiKw1nif",
+        "username": "thenayvuiiiton",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2042291885117694439",
+    "created_at": "2026-06-28T14:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T15:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071236679894270302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1362636470079528967",
+          "start": 0,
+          "username": "Sizhe_bitcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071236679894270302",
+    "in_reply_to_user_id": "1362636470079528967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042291885117694439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sizhe_bitcat 她多半就是痛经了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 235702,
+        "height": 1920,
+        "media_key": "13_2042290766526242816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042290766526242816/img/Mv-LJwj3-MXDji2F.jpg",
+        "public_metrics": {
+          "view_count": 5218162
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042290766526242816/pl/WAM0C9x-dap-CuiN.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042290766526242816/vid/avc1/1080x1920/HtkqisYb7paXVhgL.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042290766526242816/vid/avc1/320x568/vQ4buhHcBDT0AiAq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042290766526242816/vid/avc1/480x852/OixgsLZeL1C-GxTR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042290766526242816/vid/avc1/720x1280/AJGSZtSrFsBUilUb.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2042291885117694439",
+        "created_at": "2026-06-28T14:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071236679894270302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1362636470079528967",
+              "start": 0,
+              "username": "Sizhe_bitcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071236679894270302",
+        "in_reply_to_user_id": "1362636470079528967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042291885117694439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sizhe_bitcat 她多半就是痛经了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042290766526242816"
+          ]
+        },
+        "author_id": "1362636470079528967",
+        "conversation_id": "2042291885117694439",
+        "created_at": "2026-04-09T17:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042291885117694439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/io4ifZLO5j",
+              "end": 80,
+              "expanded_url": "https://x.com/Sizhe_bitcat/status/2042291885117694439/video/1",
+              "media_key": "13_2042290766526242816",
+              "start": 57,
+              "url": "https://t.co/io4ifZLO5j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042291885117694439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15407,
+          "impression_count": 8203927,
+          "like_count": 30395,
+          "quote_count": 193,
+          "reply_count": 983,
+          "retweet_count": 833
+        },
+        "reply_settings": "everyone",
+        "text": "以前我一点不信韩国女团塞玩具这个梗\n\n直到看到这个视频我开始有点半信半疑🫠\n\n因为姿势跟表情很难不让人产生联想🙊 https://t.co/io4ifZLO5j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 焦虑 165cm/40kg 地雷女 餐券女休学 现在做夜场营销",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "1525682758399299585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070170784270794752/Sm0ogbFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 705,
+          "like_count": 4330,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 688
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-19T05:33:57.000Z",
+        "description": "Web3 冒险家、社会观察家、gamefi 资深玩家，曾经几万爆赚A8,后退圈投资实体基本归零，回归web3再次起航。慢即是快、永不放弃。",
+        "id": "1362636470079528967",
+        "name": "Sizhe思哲",
+        "pinned_tweet_id": "2009377102483853471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971676890487496704/LrPYG7lH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71728,
+          "following_count": 18744,
+          "like_count": 28240,
+          "listed_count": 119,
+          "media_count": 3558,
+          "tweet_count": 24792
+        },
+        "url": "",
+        "username": "Sizhe_bitcat",
+        "verified": true
+      }
+    ]
+  }
+}

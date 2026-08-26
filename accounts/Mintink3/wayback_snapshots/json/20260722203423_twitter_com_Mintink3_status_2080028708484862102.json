@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2079735570839019918",
+    "created_at": "2026-07-22T20:34:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T21:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080028708484862102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2044236966254821377",
+          "start": 0,
+          "username": "QiuFu161"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080028708484862102",
+    "in_reply_to_user_id": "2044236966254821377",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079735570839019918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiuFu161 以前冰毒很便宜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2079735570839019918",
+        "created_at": "2026-07-22T20:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T21:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080028708484862102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2044236966254821377",
+              "start": 0,
+              "username": "QiuFu161"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080028708484862102",
+        "in_reply_to_user_id": "2044236966254821377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079735570839019918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiuFu161 以前冰毒很便宜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044236966254821377",
+        "conversation_id": "2079735570839019918",
+        "created_at": "2026-07-22T01:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T02:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079735570839019918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/catlogy110/sta…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/catlogy110/status/2078663232135541132",
+              "start": 28,
+              "url": "https://t.co/y506sa9gw5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079735570839019918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3088,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078663232135541132",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "18年的冰毒使用历史，那很耐活了🧊\n\n你家还挺有钱的🐴 https://t.co/y506sa9gw5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074830597709840384/kJeKJqLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 749,
+          "like_count": 5243,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 822
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T02:11:16.000Z",
+        "description": "ododod，冲刺冲刺冲刺//原推号@chuyinweilai114@06auser@06auser1\n//单推全球最伟大倒车帝总加速师庆丰包子铺主席、包共中央总书记、中央包委主席习近平//远离我吧",
+        "id": "2044236966254821377",
+        "name": "yice",
+        "pinned_tweet_id": "2076555415127835052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075301904578650112/x1XfixFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 123,
+          "like_count": 627,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "QiuFu161",
+        "verified": false
+      }
+    ]
+  }
+}

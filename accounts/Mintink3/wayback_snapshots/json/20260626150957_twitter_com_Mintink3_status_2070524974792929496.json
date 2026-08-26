@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070524961803145216"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2070524974792929496",
+    "created_at": "2026-06-26T15:09:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T16:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070524974792929496"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RL48Y96OG0",
+          "end": 39,
+          "expanded_url": "https://x.com/Mintink3/status/2070524974792929496/photo/1",
+          "media_key": "3_2070524961803145216",
+          "start": 16,
+          "url": "https://t.co/RL48Y96OG0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070524974792929496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想要很多钱 也想要很多爱 我 https://t.co/RL48Y96OG0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1921,
+        "media_key": "3_2070524961803145216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLv7e47bEAAAjXb.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070524961803145216"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2070524974792929496",
+        "created_at": "2026-06-26T15:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070524974792929496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RL48Y96OG0",
+              "end": 39,
+              "expanded_url": "https://x.com/Mintink3/status/2070524974792929496/photo/1",
+              "media_key": "3_2070524961803145216",
+              "start": 16,
+              "url": "https://t.co/RL48Y96OG0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070524974792929496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想要很多钱 也想要很多爱 我 https://t.co/RL48Y96OG0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 焦虑 165cm/40kg 地雷女 被校园霸凌 休学 现在做夜场营销",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "1525682758399299585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070170784270794752/Sm0ogbFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 698,
+          "like_count": 4253,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 686
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      }
+    ]
+  }
+}

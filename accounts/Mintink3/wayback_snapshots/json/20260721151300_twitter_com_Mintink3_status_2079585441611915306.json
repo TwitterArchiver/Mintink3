@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2079115693015044452",
+    "created_at": "2026-07-21T15:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T16:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079585441611915306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1327197298930028544",
+          "start": 0,
+          "username": "Psydrugswiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079585441611915306",
+    "in_reply_to_user_id": "1327197298930028544",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079115693015044452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Psydrugswiki RIP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2079115693015044452",
+        "created_at": "2026-07-21T15:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079585441611915306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1327197298930028544",
+              "start": 0,
+              "username": "Psydrugswiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079585441611915306",
+        "in_reply_to_user_id": "1327197298930028544",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079115693015044452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Psydrugswiki RIP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1327197298930028544",
+        "conversation_id": "2079115693015044452",
+        "created_at": "2026-07-20T08:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T09:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079115693015044452"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079115693015044452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 12686,
+          "like_count": 128,
+          "quote_count": 9,
+          "reply_count": 88,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "前pdw的wiki主krvy 于 2026 年7月20日，在静脉注射大量加巴喷丁后导致精神异常谵妄失去理智，在武汉不幸坠楼离世。他的骤然离去让我们深陷悲痛，万分惋惜。\n\n在此敬告各位，不要随意注射任何精神活性物质，并且记得远离窗边位置和锐器。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2078107599782953249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074830597709840384/kJeKJqLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 743,
+          "like_count": 5135,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 794
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-13T10:31:21.000Z",
+        "description": "精神活性物质指栏 Psydrugs Wiki官方账号，多人运营中，https://t.co/CB9yLA9IjF 专注于精神药物科普",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 56,
+                "expanded_url": "https://psydrugs.org",
+                "start": 33,
+                "url": "https://t.co/CB9yLA9IjF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "https://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/CB9yLA9IjF"
+              }
+            ]
+          }
+        },
+        "id": "1327197298930028544",
+        "location": "Kansai, Hyogo",
+        "name": "Psydrugs official",
+        "pinned_tweet_id": "2060449609210831206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015057185953263616/EoNq2pvq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1852,
+          "following_count": 241,
+          "like_count": 6288,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1350
+        },
+        "url": "https://t.co/CB9yLA9IjF",
+        "username": "Psydrugswiki",
+        "verified": false
+      }
+    ]
+  }
+}

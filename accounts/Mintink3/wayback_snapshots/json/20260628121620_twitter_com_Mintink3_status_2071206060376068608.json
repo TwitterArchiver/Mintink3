@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071012303453990912",
+        "3_2071012339621543936",
+        "3_2071012413755772928",
+        "3_2071012432630226944"
+      ],
+      "media_source_tweet_id": [
+        "2071012559805678030",
+        "2071012559805678030",
+        "2071012559805678030",
+        "2071012559805678030"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2071206060376068608",
+    "created_at": "2026-06-28T12:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T13:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071206060376068608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2042274348187217920",
+          "start": 3,
+          "username": "kurumikink"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GwE4wVRNyX",
+          "end": 44,
+          "expanded_url": "https://x.com/kurumikink/status/2071012559805678030/photo/1",
+          "media_key": "3_2071012303453990912",
+          "start": 21,
+          "url": "https://t.co/GwE4wVRNyX"
+        },
+        {
+          "display_url": "pic.x.com/GwE4wVRNyX",
+          "end": 44,
+          "expanded_url": "https://x.com/kurumikink/status/2071012559805678030/photo/1",
+          "media_key": "3_2071012339621543936",
+          "start": 21,
+          "url": "https://t.co/GwE4wVRNyX"
+        },
+        {
+          "display_url": "pic.x.com/GwE4wVRNyX",
+          "end": 44,
+          "expanded_url": "https://x.com/kurumikink/status/2071012559805678030/photo/1",
+          "media_key": "3_2071012413755772928",
+          "start": 21,
+          "url": "https://t.co/GwE4wVRNyX"
+        },
+        {
+          "display_url": "pic.x.com/GwE4wVRNyX",
+          "end": 44,
+          "expanded_url": "https://x.com/kurumikink/status/2071012559805678030/photo/1",
+          "media_key": "3_2071012432630226944",
+          "start": 21,
+          "url": "https://t.co/GwE4wVRNyX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071206060376068608",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1053
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071012559805678030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kurumikink: 🩸🥀⚔️ https://t.co/GwE4wVRNyX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2071012303453990912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL22t6DWsAAqEyU.jpg",
+        "width": 1919
+      },
+      {
+        "height": 1078,
+        "media_key": "3_2071012339621543936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL22wAyXwAADSUj.jpg",
+        "width": 1919
+      },
+      {
+        "height": 1078,
+        "media_key": "3_2071012413755772928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL220U9WUAArvho.jpg",
+        "width": 1919
+      },
+      {
+        "height": 1078,
+        "media_key": "3_2071012432630226944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL221bRXoAAtG-P.jpg",
+        "width": 1919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071012303453990912",
+            "3_2071012339621543936",
+            "3_2071012413755772928",
+            "3_2071012432630226944"
+          ],
+          "media_source_tweet_id": [
+            "2071012559805678030",
+            "2071012559805678030",
+            "2071012559805678030",
+            "2071012559805678030"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2071206060376068608",
+        "created_at": "2026-06-28T12:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071206060376068608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2042274348187217920",
+              "start": 3,
+              "username": "kurumikink"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GwE4wVRNyX",
+              "end": 44,
+              "expanded_url": "https://x.com/kurumikink/status/2071012559805678030/photo/1",
+              "media_key": "3_2071012303453990912",
+              "start": 21,
+              "url": "https://t.co/GwE4wVRNyX"
+            },
+            {
+              "display_url": "pic.x.com/GwE4wVRNyX",
+              "end": 44,
+              "expanded_url": "https://x.com/kurumikink/status/2071012559805678030/photo/1",
+              "media_key": "3_2071012339621543936",
+              "start": 21,
+              "url": "https://t.co/GwE4wVRNyX"
+            },
+            {
+              "display_url": "pic.x.com/GwE4wVRNyX",
+              "end": 44,
+              "expanded_url": "https://x.com/kurumikink/status/2071012559805678030/photo/1",
+              "media_key": "3_2071012413755772928",
+              "start": 21,
+              "url": "https://t.co/GwE4wVRNyX"
+            },
+            {
+              "display_url": "pic.x.com/GwE4wVRNyX",
+              "end": 44,
+              "expanded_url": "https://x.com/kurumikink/status/2071012559805678030/photo/1",
+              "media_key": "3_2071012432630226944",
+              "start": 21,
+              "url": "https://t.co/GwE4wVRNyX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071206060376068608",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1053
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071012559805678030",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kurumikink: 🩸🥀⚔️ https://t.co/GwE4wVRNyX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071012303453990912",
+            "3_2071012339621543936",
+            "3_2071012413755772928",
+            "3_2071012432630226944"
+          ]
+        },
+        "author_id": "2042274348187217920",
+        "conversation_id": "2071012559805678030",
+        "created_at": "2026-06-27T23:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T00:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071012559805678030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GwE4wVRNyX",
+              "end": 28,
+              "expanded_url": "https://x.com/kurumikink/status/2071012559805678030/photo/1",
+              "media_key": "3_2071012303453990912",
+              "start": 5,
+              "url": "https://t.co/GwE4wVRNyX"
+            },
+            {
+              "display_url": "pic.x.com/GwE4wVRNyX",
+              "end": 28,
+              "expanded_url": "https://x.com/kurumikink/status/2071012559805678030/photo/1",
+              "media_key": "3_2071012339621543936",
+              "start": 5,
+              "url": "https://t.co/GwE4wVRNyX"
+            },
+            {
+              "display_url": "pic.x.com/GwE4wVRNyX",
+              "end": 28,
+              "expanded_url": "https://x.com/kurumikink/status/2071012559805678030/photo/1",
+              "media_key": "3_2071012413755772928",
+              "start": 5,
+              "url": "https://t.co/GwE4wVRNyX"
+            },
+            {
+              "display_url": "pic.x.com/GwE4wVRNyX",
+              "end": 28,
+              "expanded_url": "https://x.com/kurumikink/status/2071012559805678030/photo/1",
+              "media_key": "3_2071012432630226944",
+              "start": 5,
+              "url": "https://t.co/GwE4wVRNyX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071012559805678030",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 908,
+          "impression_count": 62378,
+          "like_count": 6798,
+          "quote_count": 26,
+          "reply_count": 8,
+          "retweet_count": 1053
+        },
+        "reply_settings": "everyone",
+        "text": "🩸🥀⚔️ https://t.co/GwE4wVRNyX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 焦虑 165cm/40kg 地雷女 餐券女休学 现在做夜场营销",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "1525682758399299585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070170784270794752/Sm0ogbFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 703,
+          "like_count": 4320,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 685
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T16:12:46.000Z",
+        "description": "ᰔ tokisaki kurumi #1\n   & michica gokubara ૮₍ ´ ꒳ `₎ა",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kurumiswife/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kurumiswife/",
+                "start": 0,
+                "url": "https://t.co/ezbbX2U9jF"
+              }
+            ]
+          }
+        },
+        "id": "2042274348187217920",
+        "name": "astrid",
+        "pinned_tweet_id": "2070150358932873565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070987603487178752/w0_cmMYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 283,
+          "like_count": 1364,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 809
+        },
+        "url": "https://t.co/ezbbX2U9jF",
+        "username": "kurumikink",
+        "verified": false
+      }
+    ]
+  }
+}

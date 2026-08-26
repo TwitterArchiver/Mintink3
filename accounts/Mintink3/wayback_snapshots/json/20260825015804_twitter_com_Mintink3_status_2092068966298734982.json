@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2092068966298734982",
+    "created_at": "2026-08-25T01:58:04.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T02:58:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092068966298734982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1945331416528539649",
+          "start": 3,
+          "username": "bpmiea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092068966298734982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091833586920116236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bpmiea: 中推跨圈进入全民大买盐时代"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2092068966298734982",
+        "created_at": "2026-08-25T01:58:04.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T02:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092068966298734982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1945331416528539649",
+              "start": 3,
+              "username": "bpmiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092068966298734982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091833586920116236",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bpmiea: 中推跨圈进入全民大买盐时代"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945331416528539649",
+        "conversation_id": "2091833586920116236",
+        "created_at": "2026-08-24T10:22:46.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T11:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091833586920116236"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091833586920116236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3132,
+          "like_count": 70,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "中推跨圈进入全民大买盐时代"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2092068966298734982",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 1062,
+          "like_count": 9172,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1346
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-16T03:55:59.000Z",
+        "description": "反跨-No🏳️‍⚧️ | 2011 | HRT:26.1 | 自恨\n纯良女初中生 吸毒✕自残✕键政✕滥交✕\narchlinux | py/kotlin/nodejs\ngfwfucker 防火长城我操你妈\n日常和碎碎念，可能会有负面内容…\n同类互fo喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/l1qu1db0unce",
+                "end": 23,
+                "expanded_url": "https://t.me/l1qu1db0unce",
+                "start": 0,
+                "url": "https://t.co/Mlt6SoH9OF"
+              }
+            ]
+          }
+        },
+        "id": "1945331416528539649",
+        "is_identity_verified": false,
+        "location": "台灣 花蓮縣",
+        "most_recent_tweet_id": "2092034527006969923",
+        "name": "叶洛夜🍥𝓑.𝓜.",
+        "pinned_tweet_id": "2090823650073309627",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945331416528539649/1787422427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086111140371976192/HP6Eex1b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1244,
+          "following_count": 758,
+          "like_count": 1139,
+          "listed_count": 2,
+          "media_count": 231,
+          "tweet_count": 1501
+        },
+        "url": "https://t.co/Mlt6SoH9OF",
+        "username": "bpmiea",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

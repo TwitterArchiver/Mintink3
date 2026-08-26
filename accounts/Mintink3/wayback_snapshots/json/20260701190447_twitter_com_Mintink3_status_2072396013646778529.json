@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072070995255422976"
+      ],
+      "media_source_tweet_id": [
+        "2072071001446269200"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2072396013646778529",
+    "created_at": "2026-07-01T19:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T20:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072396013646778529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1425844293915250700",
+          "start": 3,
+          "username": "emoghoulgirl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eVqbrIWihI",
+          "end": 41,
+          "expanded_url": "https://x.com/emoghoulgirl/status/2072071001446269200/photo/1",
+          "media_key": "3_2072070995255422976",
+          "start": 18,
+          "url": "https://t.co/eVqbrIWihI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072396013646778529",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1215
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072071001446269200",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @emoghoulgirl: https://t.co/eVqbrIWihI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1205,
+        "media_key": "3_2072070995255422976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMF5l4WW8AAGAF4.jpg",
+        "width": 963
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072070995255422976"
+          ],
+          "media_source_tweet_id": [
+            "2072071001446269200"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2072396013646778529",
+        "created_at": "2026-07-01T19:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T20:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072396013646778529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1425844293915250700",
+              "start": 3,
+              "username": "emoghoulgirl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eVqbrIWihI",
+              "end": 41,
+              "expanded_url": "https://x.com/emoghoulgirl/status/2072071001446269200/photo/1",
+              "media_key": "3_2072070995255422976",
+              "start": 18,
+              "url": "https://t.co/eVqbrIWihI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072396013646778529",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1215
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072071001446269200",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @emoghoulgirl: https://t.co/eVqbrIWihI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072070995255422976"
+          ]
+        },
+        "author_id": "1425844293915250700",
+        "conversation_id": "2072071001446269200",
+        "created_at": "2026-06-30T21:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T22:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072071001446269200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eVqbrIWihI",
+              "end": 23,
+              "expanded_url": "https://x.com/emoghoulgirl/status/2072071001446269200/photo/1",
+              "media_key": "3_2072070995255422976",
+              "start": 0,
+              "url": "https://t.co/eVqbrIWihI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072071001446269200",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 607,
+          "impression_count": 77765,
+          "like_count": 10399,
+          "quote_count": 11,
+          "reply_count": 2,
+          "retweet_count": 1215
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/eVqbrIWihI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 焦虑 165cm/40kg 地雷女 餐券女休学 现在做夜场营销",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "1525682758399299585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070170784270794752/Sm0ogbFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 712,
+          "like_count": 4392,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 698
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-12T15:40:04.000Z",
+        "description": "",
+        "id": "1425844293915250700",
+        "location": "ghoul",
+        "name": "‎ sosoxd",
+        "pinned_tweet_id": "2070585898656301421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070892126670385152/9X3ig9x2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 72,
+          "like_count": 5075,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 599
+        },
+        "url": "",
+        "username": "emoghoulgirl",
+        "verified": false
+      }
+    ]
+  }
+}

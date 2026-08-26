@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088607821789282304"
+      ],
+      "media_source_tweet_id": [
+        "2088607885349843190"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2088628923345285467",
+    "created_at": "2026-08-15T14:08:34.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T15:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088628923345285467"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 25,
+          "tag": "제우스"
+        },
+        {
+          "end": 34,
+          "start": 30,
+          "tag": "최우제"
+        },
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "ZEUS"
+        },
+        {
+          "end": 47,
+          "start": 41,
+          "tag": "2160p"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1859165671126716416",
+          "start": 3,
+          "username": "t_bling_zeus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/goFWugd8Qf",
+          "end": 71,
+          "expanded_url": "https://x.com/t_bling_zeus/status/2088607885349843190/video/1",
+          "media_key": "13_2088607821789282304",
+          "start": 48,
+          "url": "https://t.co/goFWugd8Qf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088628923345285467",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "media_key": "13_2088607821789282304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 173
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088607885349843190",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @t_bling_zeus: 260815 #제우스 #최우제 #ZEUS #2160p https://t.co/goFWugd8Qf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3800,
+        "height": 2160,
+        "media_key": "13_2088607821789282304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088607821789282304/img/cOsMWd3AfHtfSuJS.jpg",
+        "public_metrics": {
+          "view_count": 1714
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088607821789282304/vid/avc1/2160x2160/TOiXRYdPx9XBrFKK.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088607821789282304/vid/avc1/320x320/m9KHc0cgxgp5roAR.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088607821789282304/vid/avc1/1080x1080/MLTQpSgz8qrNvqAH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088607821789282304/pl/Oulk9bFHBawwviO4.m3u8"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088607821789282304/vid/avc1/720x720/YZf6b7qbJnt9ICuZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088607821789282304/vid/avc1/540x540/njKiVsVSdfup9__E.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088607821789282304"
+          ],
+          "media_source_tweet_id": [
+            "2088607885349843190"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2088628923345285467",
+        "created_at": "2026-08-15T14:08:34.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T15:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088628923345285467"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "제우스"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "최우제"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "ZEUS"
+            },
+            {
+              "end": 47,
+              "start": 41,
+              "tag": "2160p"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1859165671126716416",
+              "start": 3,
+              "username": "t_bling_zeus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/goFWugd8Qf",
+              "end": 71,
+              "expanded_url": "https://x.com/t_bling_zeus/status/2088607885349843190/video/1",
+              "media_key": "13_2088607821789282304",
+              "start": 48,
+              "url": "https://t.co/goFWugd8Qf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088628923345285467",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "13_2088607821789282304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 173
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088607885349843190",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @t_bling_zeus: 260815 #제우스 #최우제 #ZEUS #2160p https://t.co/goFWugd8Qf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088607821789282304"
+          ]
+        },
+        "author_id": "1859165671126716416",
+        "conversation_id": "2088607885349843190",
+        "created_at": "2026-08-15T12:44:58.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T13:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088607885349843190"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "제우스"
+            },
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "최우제"
+            },
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "ZEUS"
+            },
+            {
+              "end": 29,
+              "start": 23,
+              "tag": "2160p"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/goFWugd8Qf",
+              "end": 53,
+              "expanded_url": "https://x.com/t_bling_zeus/status/2088607885349843190/video/1",
+              "media_key": "13_2088607821789282304",
+              "start": 30,
+              "url": "https://t.co/goFWugd8Qf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088607885349843190",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "13_2088607821789282304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 7146,
+          "like_count": 374,
+          "quote_count": 43,
+          "reply_count": 0,
+          "retweet_count": 173
+        },
+        "reply_settings": "following",
+        "text": "260815 #제우스 #최우제 #ZEUS #2160p https://t.co/goFWugd8Qf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2088628923345285467",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 952,
+          "like_count": 7543,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1166
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-20T09:23:42.000Z",
+        "description": "최우제를 응원하는 사람 | #ZEUS #제우스 #최우제 #HLE | logo crop, re-edit 🚫 / ~ 24 zeus photo 👉🏻 @t_bling_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 15,
+                "tag": "ZEUS"
+              },
+              {
+                "end": 25,
+                "start": 21,
+                "tag": "제우스"
+              },
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "최우제"
+              },
+              {
+                "end": 35,
+                "start": 31,
+                "tag": "HLE"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "t_bling_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/t.bling_zeus",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/t.bling_zeus",
+                "start": 0,
+                "url": "https://t.co/DhImQ8CNxy"
+              }
+            ]
+          }
+        },
+        "id": "1859165671126716416",
+        "is_identity_verified": false,
+        "location": "ZEUS",
+        "most_recent_tweet_id": "2088616825559110073",
+        "name": "𝙏.𝘽𝙇𝙄𝙉𝙂¹⁰",
+        "pinned_tweet_id": "1897819780578755060",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1859165671126716416/1732459856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870510167512825856/E73Mmucr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8875,
+          "following_count": 62,
+          "like_count": 2255,
+          "listed_count": 18,
+          "media_count": 1395,
+          "tweet_count": 2632
+        },
+        "url": "https://t.co/DhImQ8CNxy",
+        "username": "t_bling_zeus",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Apr 23 12:15:04 +0000 2022",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1517839471110025216,
+  "id_str": "1517839471110025216",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "und",
+  "place": null,
+  "quote_count": 0,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 23 12:06:05 +0000 2022",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            101,
+            105
+          ],
+          "text": "LPL"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/EqdS7LuqYN",
+          "expanded_url": "https://twitter.com/lplenglish/status/1517837210384490498/photo/1",
+          "id": 1517837204172808192,
+          "id_str": "1517837204172808192",
+          "indices": [
+            106,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/FRBw5TWXoAAPs7V.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FRBw5TWXoAAPs7V.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/EqdS7LuqYN"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/EqdS7LuqYN",
+          "expanded_url": "https://twitter.com/lplenglish/status/1517837210384490498/photo/1",
+          "id": 1517837204172808192,
+          "id_str": "1517837204172808192",
+          "indices": [
+            106,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/FRBw5TWXoAAPs7V.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FRBw5TWXoAAPs7V.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/EqdS7LuqYN"
+        },
+        {
+          "display_url": "pic.twitter.com/EqdS7LuqYN",
+          "expanded_url": "https://twitter.com/lplenglish/status/1517837210384490498/photo/1",
+          "id": 1517837206538399745,
+          "id_str": "1517837206538399745",
+          "indices": [
+            106,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/FRBw5cKXsAEJ9gM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FRBw5cKXsAEJ9gM.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/EqdS7LuqYN"
+        }
+      ]
+    },
+    "favorite_count": 36,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1517837210384490498,
+    "id_str": "1517837210384490498",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 1,
+    "reply_count": 1,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+    "text": "Rockets from downtown, Xiaohu put out huge damage enroute to earning the Man of the Rift for game 2! #LPL https://t.co/EqdS7LuqYN",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Dec 22 06:25:25 +0000 2017",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The official Twitter for the #LPL┃YouTube: LPL┃Twitch: LPL┃Instagram: lpl.official. Find schedule at: http://lolesports.com/schedule?leagu…",
+      "favourites_count": 2754,
+      "follow_request_sent": null,
+      "followers_count": 172387,
+      "following": null,
+      "friends_count": 184,
+      "geo_enabled": false,
+      "id": 944091487817539584,
+      "id_str": "944091487817539584",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 617,
+      "location": "Shanghai Hongqiao World IE Hub",
+      "name": "LPL",
+      "notifications": null,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/944091487817539584/1639452154",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1470595036731478019/LhaXW7m8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1470595036731478019/LhaXW7m8_normal.jpg",
+      "profile_link_color": "0A162D",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "lplenglish",
+      "statuses_count": 12361,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://twitch.tv/lpl",
+      "utc_offset": null,
+      "verified": true,
+      "withheld_in_countries": []
+    }
+  },
+  "quoted_status_id": 1517837210384490498,
+  "quoted_status_id_str": "1517837210384490498",
+  "quoted_status_permalink": {
+    "display": "twitter.com/lplenglish/sta…",
+    "expanded": "https://twitter.com/lplenglish/status/1517837210384490498",
+    "url": "https://t.co/7IpvEDhAKT"
+  },
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "👍",
+  "timestamp_ms": "1650716104663",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Mon Feb 14 00:17:01 +0000 2022",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "DWG(DK)-RNG-GENG（SSG）-SKT(T1)-NS-TL ^Team^\nKiin-Teddy-Umti-Deft-Rich-Clid^Single^\nBIGBANG 5 FOREVER",
+    "favourites_count": 1103,
+    "follow_request_sent": null,
+    "followers_count": 2,
+    "following": null,
+    "friends_count": 272,
+    "geo_enabled": false,
+    "id": 1493016356182056961,
+    "id_str": "1493016356182056961",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": "Quierschied, Deutschland",
+    "name": "Predawn",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1649350993",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1514299548679622657/C-bKxcrs_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1514299548679622657/C-bKxcrs_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "Mintink3",
+    "statuses_count": 459,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2077593307316883733",
+    "created_at": "2026-07-16T03:16:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T04:16:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077593307316883733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1916301557643034624",
+          "start": 3,
+          "username": "neet_sol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077593307316883733",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14304
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077311707060261269",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neet_sol: The economy is so bad that scam messages went from “you won the lottery” to “remote job available $18/hr”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2077593307316883733",
+        "created_at": "2026-07-16T03:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T04:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077593307316883733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1916301557643034624",
+              "start": 3,
+              "username": "neet_sol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077593307316883733",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14304
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077311707060261269",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neet_sol: The economy is so bad that scam messages went from “you won the lottery” to “remote job available $18/hr”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916301557643034624",
+        "conversation_id": "2077311707060261269",
+        "created_at": "2026-07-15T08:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077311707060261269"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077311707060261269",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4245,
+          "impression_count": 2395976,
+          "like_count": 174337,
+          "quote_count": 250,
+          "reply_count": 279,
+          "retweet_count": 14304
+        },
+        "reply_settings": "everyone",
+        "text": "The economy is so bad that scam messages went from “you won the lottery” to “remote job available $18/hr”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 地雷女 餐券女休学做夜场 欢迎互fo@我恨孤独有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "1525682758399299585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074830597709840384/kJeKJqLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 729,
+          "like_count": 4891,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 751
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T01:21:16.000Z",
+        "description": "Not in Employment, Education, or Training",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "neetcoin.xyz",
+                "end": 23,
+                "expanded_url": "http://neetcoin.xyz",
+                "start": 0,
+                "url": "https://t.co/A1uQvvyS7Z"
+              }
+            ]
+          }
+        },
+        "id": "1916301557643034624",
+        "name": "Neet",
+        "pinned_tweet_id": "1985048281949299177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985042800644075520/-906xY-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48791,
+          "following_count": 61,
+          "like_count": 19181,
+          "listed_count": 149,
+          "media_count": 2738,
+          "tweet_count": 6844
+        },
+        "url": "https://t.co/A1uQvvyS7Z",
+        "username": "neet_sol",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088232149724090368"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2088232157353500791",
+    "created_at": "2026-08-14T11:51:58.000Z",
+    "display_text_range": [
+      0,
+      130
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T12:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088232157353500791"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I3lLnGwNIU",
+          "end": 154,
+          "expanded_url": "https://x.com/Mintink3/status/2088232157353500791/photo/1",
+          "media_key": "3_2088232149724090368",
+          "start": 131,
+          "url": "https://t.co/I3lLnGwNIU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088232157353500791",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088232149724090368"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又是被鬼压床的一天 一睡觉就做特别真实的噩梦，梦到在这个房间里，从中央空调管道里爬出可怕的东西袭击我。我真的好困但我真的不敢睡，太真实了，我已经停用莱博雷生了三四天了，怎么还会这样，到底吃什么药能救我，我要不要去找个心理医生，但是心理医生好贵啊，真的会有用吗？ https://t.co/I3lLnGwNIU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2088232149724090368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrkE4Ta0AAR1CP.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088232149724090368"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2088232157353500791",
+        "created_at": "2026-08-14T11:51:58.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T12:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088232157353500791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I3lLnGwNIU",
+              "end": 154,
+              "expanded_url": "https://x.com/Mintink3/status/2088232157353500791/photo/1",
+              "media_key": "3_2088232149724090368",
+              "start": 131,
+              "url": "https://t.co/I3lLnGwNIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088232157353500791",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088232149724090368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又是被鬼压床的一天 一睡觉就做特别真实的噩梦，梦到在这个房间里，从中央空调管道里爬出可怕的东西袭击我。我真的好困但我真的不敢睡，太真实了，我已经停用莱博雷生了三四天了，怎么还会这样，到底吃什么药能救我，我要不要去找个心理医生，但是心理医生好贵啊，真的会有用吗？ https://t.co/I3lLnGwNIU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2088232157353500791",
+        "name": "Beatrice",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 931,
+          "like_count": 7283,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1130
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073904726135984129"
+      ],
+      "media_source_tweet_id": [
+        "2073904732955877530"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2074181393131991212",
+    "created_at": "2026-07-06T17:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T18:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074181393131991212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2067864410668900352",
+          "start": 3,
+          "username": "IlN9__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SaicAWYpXh",
+          "end": 38,
+          "expanded_url": "https://x.com/IlN9__/status/2073904732955877530/photo/1",
+          "media_key": "3_2073904726135984129",
+          "start": 15,
+          "url": "https://t.co/SaicAWYpXh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074181393131991212",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1964
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073904732955877530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IlN9__: me https://t.co/SaicAWYpXh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 545,
+        "media_key": "3_2073904726135984129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMf9XENW0AEiYpb.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073904726135984129"
+          ],
+          "media_source_tweet_id": [
+            "2073904732955877530"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2074181393131991212",
+        "created_at": "2026-07-06T17:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074181393131991212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2067864410668900352",
+              "start": 3,
+              "username": "IlN9__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SaicAWYpXh",
+              "end": 38,
+              "expanded_url": "https://x.com/IlN9__/status/2073904732955877530/photo/1",
+              "media_key": "3_2073904726135984129",
+              "start": 15,
+              "url": "https://t.co/SaicAWYpXh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074181393131991212",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1964
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073904732955877530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IlN9__: me https://t.co/SaicAWYpXh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073904726135984129"
+          ]
+        },
+        "author_id": "2067864410668900352",
+        "conversation_id": "2073904732955877530",
+        "created_at": "2026-07-05T22:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T23:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073904732955877530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SaicAWYpXh",
+              "end": 26,
+              "expanded_url": "https://x.com/IlN9__/status/2073904732955877530/photo/1",
+              "media_key": "3_2073904726135984129",
+              "start": 3,
+              "url": "https://t.co/SaicAWYpXh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073904732955877530",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 481,
+          "impression_count": 227477,
+          "like_count": 15571,
+          "quote_count": 108,
+          "reply_count": 27,
+          "retweet_count": 1964
+        },
+        "reply_settings": "everyone",
+        "text": "me https://t.co/SaicAWYpXh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 焦虑 165cm/40kg 地雷女 餐券女休学 现在做夜场营销",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "1525682758399299585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070170784270794752/Sm0ogbFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 713,
+          "like_count": 4534,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 716
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-19T07:00:33.000Z",
+        "description": "selective and private",
+        "id": "2067864410668900352",
+        "name": "ln",
+        "pinned_tweet_id": "2067869648909975635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067867084839661568/U4cBf548_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 13,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 133
+        },
+        "url": "",
+        "username": "IlN9__",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2089647455340319203",
+    "created_at": "2026-08-18T11:36:03.000Z",
+    "display_text_range": [
+      15,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T12:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089677704119607333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1625848011221008392",
+          "start": 0,
+          "username": "keaixianggugu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089677704119607333",
+    "in_reply_to_user_id": "1625848011221008392",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089647455340319203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keaixianggugu 😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2089647434653917184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_rRThaYAARmBn.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2089647455340319203",
+        "created_at": "2026-08-18T11:36:03.000Z",
+        "display_text_range": [
+          15,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089677704119607333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1625848011221008392",
+              "start": 0,
+              "username": "keaixianggugu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089677704119607333",
+        "in_reply_to_user_id": "1625848011221008392",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089647455340319203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keaixianggugu 😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089647434653917184"
+          ]
+        },
+        "author_id": "1625848011221008392",
+        "conversation_id": "2089647455340319203",
+        "created_at": "2026-08-18T09:35:51.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T10:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089647455340319203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aZYhFAVbM9",
+              "end": 32,
+              "expanded_url": "https://x.com/keaixianggugu/status/2089647455340319203/photo/1",
+              "media_key": "3_2089647434653917184",
+              "start": 9,
+              "url": "https://t.co/aZYhFAVbM9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089647455340319203",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089647434653917184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尝试激发读者兴趣 https://t.co/aZYhFAVbM9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2089677704119607333",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 988,
+          "like_count": 7747,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1206
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-15T13:22:42.000Z",
+        "description": "OD对我来说只是拿来解闷和助兴，不提供购药渠道。  不键政，不撕逼，专注自己的唐氏生活。欢迎互关，我人很和善欢迎闲聊~",
+        "id": "1625848011221008392",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2089647547166154995",
+        "name": "一只鸽子",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816713088034570242/x9lDEI6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 356,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1012
+        },
+        "url": "",
+        "username": "keaixianggugu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

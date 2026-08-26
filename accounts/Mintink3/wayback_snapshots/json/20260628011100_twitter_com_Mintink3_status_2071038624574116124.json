@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068439681797443584"
+      ],
+      "media_source_tweet_id": [
+        "2068439686872543331"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2071038624574116124",
+    "created_at": "2026-06-28T01:11:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T02:11:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071038624574116124"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 12,
+          "tag": "騎火"
+        },
+        {
+          "end": 24,
+          "start": 16,
+          "tag": "riflori"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1917217068929425408",
+          "start": 3,
+          "username": "fewch0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yAn5npppDv",
+          "end": 65,
+          "expanded_url": "https://x.com/fewch0/status/2068439686872543331/photo/1",
+          "media_key": "3_2068439681797443584",
+          "start": 42,
+          "url": "https://t.co/yAn5npppDv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071038624574116124",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 162
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068439686872543331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @fewch0: #騎火 #riflori ⚔️🧯 리처플로 온천 (♨️) https://t.co/yAn5npppDv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1891,
+        "media_key": "3_2068439681797443584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLSS7njb0AAXMOx.jpg",
+        "width": 2289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068439681797443584"
+          ],
+          "media_source_tweet_id": [
+            "2068439686872543331"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2071038624574116124",
+        "created_at": "2026-06-28T01:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T02:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071038624574116124"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "騎火"
+            },
+            {
+              "end": 24,
+              "start": 16,
+              "tag": "riflori"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1917217068929425408",
+              "start": 3,
+              "username": "fewch0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yAn5npppDv",
+              "end": 65,
+              "expanded_url": "https://x.com/fewch0/status/2068439686872543331/photo/1",
+              "media_key": "3_2068439681797443584",
+              "start": 42,
+              "url": "https://t.co/yAn5npppDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071038624574116124",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 162
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068439686872543331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @fewch0: #騎火 #riflori ⚔️🧯 리처플로 온천 (♨️) https://t.co/yAn5npppDv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068439681797443584"
+          ]
+        },
+        "author_id": "1917217068929425408",
+        "conversation_id": "2068439686872543331",
+        "created_at": "2026-06-20T21:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T22:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068439686872543331"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "騎火"
+            },
+            {
+              "end": 12,
+              "start": 4,
+              "tag": "riflori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yAn5npppDv",
+              "end": 53,
+              "expanded_url": "https://x.com/fewch0/status/2068439686872543331/photo/1",
+              "media_key": "3_2068439681797443584",
+              "start": 30,
+              "url": "https://t.co/yAn5npppDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068439686872543331",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 8625,
+          "like_count": 734,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 162
+        },
+        "reply_settings": "following",
+        "text": "#騎火 #riflori ⚔️🧯 리처플로 온천 (♨️) https://t.co/yAn5npppDv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 焦虑 165cm/40kg 地雷女 餐券女休学 现在做夜场营销",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "1525682758399299585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070170784270794752/Sm0ogbFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 703,
+          "like_count": 4302,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 678
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T13:59:55.000Z",
+        "description": "성인 🇰🇷 / ⚔️🧯 #riflori 리처플로가 하고 싶을 때 들어오는 계정              디엠 열어놨어요✉️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 12,
+                "tag": "riflori"
+              }
+            ]
+          }
+        },
+        "id": "1917217068929425408",
+        "location": "Do not save my drawing / AI❌️",
+        "name": "♠︎♠︎몇초컷이날지",
+        "pinned_tweet_id": "1935317982361858169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068636392062853120/eG6aNRVO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 35,
+          "like_count": 968,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 260
+        },
+        "url": "",
+        "username": "fewch0",
+        "verified": false
+      }
+    ]
+  }
+}

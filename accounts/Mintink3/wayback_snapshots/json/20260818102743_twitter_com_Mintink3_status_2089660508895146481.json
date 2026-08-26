@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2089398611331465495",
+    "created_at": "2026-08-18T10:27:43.000Z",
+    "display_text_range": [
+      13,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T11:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089660508895146481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1731664963276832768",
+          "start": 0,
+          "username": "needy4love0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089660508895146481",
+    "in_reply_to_user_id": "1731664963276832768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089520631226548482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@needy4love0 我们共友太多了 都是线下认识一起玩了三年的 拉黑了怕他有到处跟别人乱说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2089398611331465495",
+        "created_at": "2026-08-18T10:27:43.000Z",
+        "display_text_range": [
+          13,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089660508895146481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1731664963276832768",
+              "start": 0,
+              "username": "needy4love0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089660508895146481",
+        "in_reply_to_user_id": "1731664963276832768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089520631226548482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@needy4love0 我们共友太多了 都是线下认识一起玩了三年的 拉黑了怕他有到处跟别人乱说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731664963276832768",
+        "conversation_id": "2089398611331465495",
+        "created_at": "2026-08-18T01:11:54.000Z",
+        "display_text_range": [
+          10,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T02:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089520631226548482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089520631226548482",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089398611331465495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 跟他说什么，直接拉黑，不尊重别人隐私的人趁早远离，不然这种事情只会发生的越来越多"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2089660508895146481",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 985,
+          "like_count": 7726,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1202
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-04T13:21:34.000Z",
+        "description": "二旬老人| ISTP |散利痛梦女 \n废物/败类/无素质者/厌人症间歇性复发患者/无操作无意识无手法农玩家/软辅玩家/爱我请给我打钱/求地球ol无痛退游教程/求无痛摆脱哥布林建模教程/求无痛财富自由教程\n 0.0 这里什么都没有。不用进来。",
+        "id": "1731664963276832768",
+        "is_identity_verified": false,
+        "location": "🚪9999999999比特币 纯绿",
+        "most_recent_tweet_id": "2089656898182394347",
+        "name": "对乙酰氨基酚",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1731664963276832768/1781629698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066930767603855360/xxK1LNP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 39,
+          "like_count": 7164,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1458
+        },
+        "url": "",
+        "username": "needy4love0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

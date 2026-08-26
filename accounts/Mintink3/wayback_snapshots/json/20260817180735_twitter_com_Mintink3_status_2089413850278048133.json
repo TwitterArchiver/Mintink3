@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2089286778884923489",
+    "created_at": "2026-08-17T18:07:35.000Z",
+    "display_text_range": [
+      9,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T19:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089413850278048133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2065372497403674624",
+          "start": 0,
+          "username": "Huhio3i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089413850278048133",
+    "in_reply_to_user_id": "2065372497403674624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089286778884923489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huhio3i 这是哪一年 这么便宜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1494,
+        "media_key": "3_2089286768831164416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP6jPyoa8AAyvbH.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2089286778884923489",
+        "created_at": "2026-08-17T18:07:35.000Z",
+        "display_text_range": [
+          9,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T19:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089413850278048133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2065372497403674624",
+              "start": 0,
+              "username": "Huhio3i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089413850278048133",
+        "in_reply_to_user_id": "2065372497403674624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089286778884923489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huhio3i 这是哪一年 这么便宜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089286768831164416"
+          ]
+        },
+        "author_id": "2065372497403674624",
+        "conversation_id": "2089286778884923489",
+        "created_at": "2026-08-17T09:42:39.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T10:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089286778884923489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W8Z6TVFjlJ",
+              "end": 49,
+              "expanded_url": "https://x.com/Huhio3i/status/2089286778884923489/photo/1",
+              "media_key": "3_2089286768831164416",
+              "start": 26,
+              "url": "https://t.co/W8Z6TVFjlJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089286778884923489",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089286768831164416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 441,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这个号竟然还买过，还有一个号买了好多但是登不上了 https://t.co/W8Z6TVFjlJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2089413850278048133",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 955,
+          "like_count": 7605,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1180
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-12T09:57:06.000Z",
+        "description": "＝hh | 一号机@Huhiosc3x 被封了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Huhiosc3x"
+              }
+            ]
+          }
+        },
+        "id": "2065372497403674624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089404611610452362",
+        "name": "Huhio2.0",
+        "pinned_tweet_id": "2084933457319547111",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065372497403674624/1781258488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089275699601477632/o4MsCO0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 100,
+          "like_count": 312,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 256
+        },
+        "url": "",
+        "username": "Huhio3i",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

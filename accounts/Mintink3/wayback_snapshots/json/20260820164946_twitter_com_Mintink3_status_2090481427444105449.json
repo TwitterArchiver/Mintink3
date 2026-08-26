@@ -1,0 +1,517 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090458400295636993",
+        "3_2090458400278847489",
+        "3_2090458400266289153",
+        "3_2090458400270532608"
+      ],
+      "media_source_tweet_id": [
+        "2090458405727355250",
+        "2090458405727355250",
+        "2090458405727355250",
+        "2090458405727355250"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090481427444105449",
+    "created_at": "2026-08-20T16:49:46.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T17:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090481427444105449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1859165671126716416",
+          "start": 3,
+          "username": "t_bling_zeus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JCQP9HQuxw",
+          "end": 104,
+          "expanded_url": "https://x.com/t_bling_zeus/status/2090458405727355250/photo/1",
+          "media_key": "3_2090458400295636993",
+          "start": 81,
+          "url": "https://t.co/JCQP9HQuxw"
+        },
+        {
+          "display_url": "pic.x.com/JCQP9HQuxw",
+          "end": 104,
+          "expanded_url": "https://x.com/t_bling_zeus/status/2090458405727355250/photo/1",
+          "media_key": "3_2090458400278847489",
+          "start": 81,
+          "url": "https://t.co/JCQP9HQuxw"
+        },
+        {
+          "display_url": "pic.x.com/JCQP9HQuxw",
+          "end": 104,
+          "expanded_url": "https://x.com/t_bling_zeus/status/2090458405727355250/photo/1",
+          "media_key": "3_2090458400266289153",
+          "start": 81,
+          "url": "https://t.co/JCQP9HQuxw"
+        },
+        {
+          "display_url": "pic.x.com/JCQP9HQuxw",
+          "end": 104,
+          "expanded_url": "https://x.com/t_bling_zeus/status/2090458405727355250/photo/1",
+          "media_key": "3_2090458400270532608",
+          "start": 81,
+          "url": "https://t.co/JCQP9HQuxw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090481427444105449",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "3_2090458400295636993"
+      },
+      {
+        "media_key": "3_2090458400278847489"
+      },
+      {
+        "media_key": "3_2090458400266289153"
+      },
+      {
+        "media_key": "3_2090458400270532608"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090458405727355250",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @t_bling_zeus: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/JCQP9HQuxw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 432,
+        "media_key": "3_2090458400295636993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLM1t9aUAEMSYV.jpg",
+        "width": 778
+      },
+      {
+        "height": 593,
+        "media_key": "3_2090458400278847489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLM1t5aIAE66sM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 378,
+        "media_key": "3_2090458400266289153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLM1t2agAE-FIi.jpg",
+        "width": 695
+      },
+      {
+        "height": 553,
+        "media_key": "3_2090458400270532608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLM1t3bQAAIJ9F.jpg",
+        "width": 1019
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090458400295636993",
+            "3_2090458400278847489",
+            "3_2090458400266289153",
+            "3_2090458400270532608"
+          ],
+          "media_source_tweet_id": [
+            "2090458405727355250",
+            "2090458405727355250",
+            "2090458405727355250",
+            "2090458405727355250"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090481427444105449",
+        "created_at": "2026-08-20T16:49:46.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090481427444105449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1859165671126716416",
+              "start": 3,
+              "username": "t_bling_zeus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JCQP9HQuxw",
+              "end": 104,
+              "expanded_url": "https://x.com/t_bling_zeus/status/2090458405727355250/photo/1",
+              "media_key": "3_2090458400295636993",
+              "start": 81,
+              "url": "https://t.co/JCQP9HQuxw"
+            },
+            {
+              "display_url": "pic.x.com/JCQP9HQuxw",
+              "end": 104,
+              "expanded_url": "https://x.com/t_bling_zeus/status/2090458405727355250/photo/1",
+              "media_key": "3_2090458400278847489",
+              "start": 81,
+              "url": "https://t.co/JCQP9HQuxw"
+            },
+            {
+              "display_url": "pic.x.com/JCQP9HQuxw",
+              "end": 104,
+              "expanded_url": "https://x.com/t_bling_zeus/status/2090458405727355250/photo/1",
+              "media_key": "3_2090458400266289153",
+              "start": 81,
+              "url": "https://t.co/JCQP9HQuxw"
+            },
+            {
+              "display_url": "pic.x.com/JCQP9HQuxw",
+              "end": 104,
+              "expanded_url": "https://x.com/t_bling_zeus/status/2090458405727355250/photo/1",
+              "media_key": "3_2090458400270532608",
+              "start": 81,
+              "url": "https://t.co/JCQP9HQuxw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090481427444105449",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2090458400295636993"
+          },
+          {
+            "media_key": "3_2090458400278847489"
+          },
+          {
+            "media_key": "3_2090458400266289153"
+          },
+          {
+            "media_key": "3_2090458400270532608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090458405727355250",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @t_bling_zeus: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/JCQP9HQuxw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090458400295636993",
+            "3_2090458400278847489",
+            "3_2090458400266289153",
+            "3_2090458400270532608"
+          ]
+        },
+        "author_id": "1859165671126716416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090458405727355250",
+        "created_at": "2026-08-20T15:18:17.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T16:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090458405727355250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JCQP9HQuxw",
+              "end": 86,
+              "expanded_url": "https://x.com/t_bling_zeus/status/2090458405727355250/photo/1",
+              "media_key": "3_2090458400295636993",
+              "start": 63,
+              "url": "https://t.co/JCQP9HQuxw"
+            },
+            {
+              "display_url": "pic.x.com/JCQP9HQuxw",
+              "end": 86,
+              "expanded_url": "https://x.com/t_bling_zeus/status/2090458405727355250/photo/1",
+              "media_key": "3_2090458400278847489",
+              "start": 63,
+              "url": "https://t.co/JCQP9HQuxw"
+            },
+            {
+              "display_url": "pic.x.com/JCQP9HQuxw",
+              "end": 86,
+              "expanded_url": "https://x.com/t_bling_zeus/status/2090458405727355250/photo/1",
+              "media_key": "3_2090458400266289153",
+              "start": 63,
+              "url": "https://t.co/JCQP9HQuxw"
+            },
+            {
+              "display_url": "pic.x.com/JCQP9HQuxw",
+              "end": 86,
+              "expanded_url": "https://x.com/t_bling_zeus/status/2090458405727355250/photo/1",
+              "media_key": "3_2090458400270532608",
+              "start": 63,
+              "url": "https://t.co/JCQP9HQuxw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090458405727355250",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2090458400295636993"
+          },
+          {
+            "media_key": "3_2090458400278847489"
+          },
+          {
+            "media_key": "3_2090458400266289153"
+          },
+          {
+            "media_key": "3_2090458400270532608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1760,
+          "like_count": 83,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "reply_settings": "following",
+        "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/JCQP9HQuxw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2090481427444105449",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 1009,
+          "like_count": 8135,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 1241
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-20T09:23:42.000Z",
+        "description": "최우제를 응원하는 사람 | #ZEUS #제우스 #최우제 #HLE | logo crop, re-edit 🚫 / ~ 24 zeus photo 👉🏻 @t_bling_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 15,
+                "tag": "ZEUS"
+              },
+              {
+                "end": 25,
+                "start": 21,
+                "tag": "제우스"
+              },
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "최우제"
+              },
+              {
+                "end": 35,
+                "start": 31,
+                "tag": "HLE"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "t_bling_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/t.bling_zeus",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/t.bling_zeus",
+                "start": 0,
+                "url": "https://t.co/DhImQ8CNxy"
+              }
+            ]
+          }
+        },
+        "id": "1859165671126716416",
+        "is_identity_verified": false,
+        "location": "ZEUS",
+        "most_recent_tweet_id": "2090462879833268620",
+        "name": "𝙏.𝘽𝙇𝙄𝙉𝙂¹⁰",
+        "pinned_tweet_id": "1897819780578755060",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1859165671126716416/1732459856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870510167512825856/E73Mmucr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8902,
+          "following_count": 61,
+          "like_count": 2259,
+          "listed_count": 18,
+          "media_count": 1404,
+          "tweet_count": 2638
+        },
+        "url": "https://t.co/DhImQ8CNxy",
+        "username": "t_bling_zeus",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

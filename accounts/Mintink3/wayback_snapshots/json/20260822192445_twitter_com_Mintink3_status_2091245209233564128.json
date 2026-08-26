@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091245199792246784"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2091245209233564128",
+    "created_at": "2026-08-22T19:24:45.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T20:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091245209233564128"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pvxkwQ4Wpu",
+          "end": 68,
+          "expanded_url": "https://x.com/Mintink3/status/2091245209233564128/photo/1",
+          "media_key": "3_2091245199792246784",
+          "start": 45,
+          "url": "https://t.co/pvxkwQ4Wpu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091245209233564128",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091245199792246784"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1500ml黑啤➕125mg噻奈普汀➕0.8mg阿普唑仑👼\n已备好噻奈普汀的下机药纳洛酮 https://t.co/pvxkwQ4Wpu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2091245199792246784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQWYbefbkAAWJ1a.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091245199792246784"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2091245209233564128",
+        "created_at": "2026-08-22T19:24:45.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T20:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091245209233564128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pvxkwQ4Wpu",
+              "end": 68,
+              "expanded_url": "https://x.com/Mintink3/status/2091245209233564128/photo/1",
+              "media_key": "3_2091245199792246784",
+              "start": 45,
+              "url": "https://t.co/pvxkwQ4Wpu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091245209233564128",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091245199792246784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1500ml黑啤➕125mg噻奈普汀➕0.8mg阿普唑仑👼\n已备好噻奈普汀的下机药纳洛酮 https://t.co/pvxkwQ4Wpu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2091245209233564128",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 1032,
+          "like_count": 8560,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 1278
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

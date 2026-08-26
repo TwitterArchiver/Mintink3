@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091055254033022976"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2091055278854959217",
+    "created_at": "2026-08-22T06:50:03.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T07:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091055278854959217"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eKM7i7NcKg",
+          "end": 36,
+          "expanded_url": "https://x.com/Mintink3/status/2091055278854959217/video/1",
+          "media_key": "13_2091055254033022976",
+          "start": 13,
+          "url": "https://t.co/eKM7i7NcKg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091055278854959217",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2091055254033022976"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "出门见门槛哥了（纯绿的） https://t.co/eKM7i7NcKg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10586,
+        "height": 1280,
+        "media_key": "13_2091055254033022976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091055254033022976/img/MBfHnDlUIwJw9wbQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091055254033022976/vid/avc1/320x568/9EgBK0TjsHVxRp8P.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091055254033022976/vid/avc1/480x852/WaSzspMKJm50R_W1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091055254033022976/vid/avc1/720x1280/dDEVHff568FDYNuC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091055254033022976/pl/W6j8wsfkRiAj99DC.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091055254033022976"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2091055278854959217",
+        "created_at": "2026-08-22T06:50:03.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T07:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091055278854959217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eKM7i7NcKg",
+              "end": 36,
+              "expanded_url": "https://x.com/Mintink3/status/2091055278854959217/video/1",
+              "media_key": "13_2091055254033022976",
+              "start": 13,
+              "url": "https://t.co/eKM7i7NcKg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091055278854959217",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091055254033022976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出门见门槛哥了（纯绿的） https://t.co/eKM7i7NcKg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2091055278854959217",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 1020,
+          "like_count": 8445,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1268
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

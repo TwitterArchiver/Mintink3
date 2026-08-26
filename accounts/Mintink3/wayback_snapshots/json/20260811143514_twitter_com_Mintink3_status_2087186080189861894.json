@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087186055539961857"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2087186080189861894",
+    "created_at": "2026-08-11T14:35:14.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T15:35:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087186080189861894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2H3gZVeIMg",
+          "end": 39,
+          "expanded_url": "https://x.com/Mintink3/status/2087186080189861894/video/1",
+          "media_key": "13_2087186055539961857",
+          "start": 16,
+          "url": "https://t.co/2H3gZVeIMg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087186080189861894",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2087186055539961857"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上班上班😸喝酒喝酒🍻赚钱赚钱💰 https://t.co/2H3gZVeIMg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4806,
+        "height": 1920,
+        "media_key": "13_2087186055539961857",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087186055539961857/img/dIfqb-B4iNkO0EOu.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087186055539961857/vid/avc1/480x852/-XmyPo3uJ9XP36oP.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087186055539961857/vid/avc1/1080x1920/nVZ6BscbVSWMrHjf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087186055539961857/vid/avc1/720x1280/PKy5MJmOYUHnoaM9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087186055539961857/pl/_2B3Flg6P5FXcUhH.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087186055539961857/vid/avc1/320x568/8e8MUELNKY7b629J.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087186055539961857"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2087186080189861894",
+        "created_at": "2026-08-11T14:35:14.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087186080189861894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2H3gZVeIMg",
+              "end": 39,
+              "expanded_url": "https://x.com/Mintink3/status/2087186080189861894/video/1",
+              "media_key": "13_2087186055539961857",
+              "start": 16,
+              "url": "https://t.co/2H3gZVeIMg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087186080189861894",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087186055539961857"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上班上班😸喝酒喝酒🍻赚钱赚钱💰 https://t.co/2H3gZVeIMg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2087186080189861894",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 913,
+          "like_count": 7016,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1089
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

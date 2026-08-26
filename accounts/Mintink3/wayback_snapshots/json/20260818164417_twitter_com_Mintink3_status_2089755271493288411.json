@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2089755246482653185"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2089755271493288411",
+    "created_at": "2026-08-18T16:44:17.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T17:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089755271493288411"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HJmFPBjtpw",
+          "end": 44,
+          "expanded_url": "https://x.com/Mintink3/status/2089755271493288411/video/1",
+          "media_key": "13_2089755246482653185",
+          "start": 21,
+          "url": "https://t.co/HJmFPBjtpw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089755271493288411",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2089755246482653185"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🍻➡️住院➡️出院➡️🍻 \n已经陷入循环 https://t.co/HJmFPBjtpw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2433,
+        "height": 1920,
+        "media_key": "13_2089755246482653185",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089755246482653185/img/4S6Qm9PZfMbjnJfN.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089755246482653185/vid/avc1/480x852/BsuywPjLVKSXUJRV.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089755246482653185/vid/avc1/320x568/OPcYSqJoji7ZlCmC.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089755246482653185/vid/avc1/1080x1920/itveExZT1peNQCk5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089755246482653185/vid/avc1/720x1280/dryaNAKJBTsw2wWY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089755246482653185/pl/zH7PuJMqxqeK-ZHn.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089755246482653185"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2089755271493288411",
+        "created_at": "2026-08-18T16:44:17.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T17:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089755271493288411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HJmFPBjtpw",
+              "end": 44,
+              "expanded_url": "https://x.com/Mintink3/status/2089755271493288411/video/1",
+              "media_key": "13_2089755246482653185",
+              "start": 21,
+              "url": "https://t.co/HJmFPBjtpw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089755271493288411",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089755246482653185"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🍻➡️住院➡️出院➡️🍻 \n已经陷入循环 https://t.co/HJmFPBjtpw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2089755271493288411",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 997,
+          "like_count": 7844,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1211
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

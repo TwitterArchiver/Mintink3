@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2088276815936888874",
+    "created_at": "2026-08-14T15:35:26.000Z",
+    "display_text_range": [
+      7,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T16:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088288394602488232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2063973986523021312",
+          "start": 0,
+          "username": "yqtu7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088288394602488232",
+    "in_reply_to_user_id": "2063973986523021312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088285746662973774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yqtu7 我两千七百天了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2088276815936888874",
+        "created_at": "2026-08-14T15:35:26.000Z",
+        "display_text_range": [
+          7,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088288394602488232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2063973986523021312",
+              "start": 0,
+              "username": "yqtu7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088288394602488232",
+        "in_reply_to_user_id": "2063973986523021312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088285746662973774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yqtu7 我两千七百天了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063973986523021312",
+        "conversation_id": "2088276815936888874",
+        "created_at": "2026-08-14T15:24:55.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088285746662973774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088285746662973774",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088276815936888874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 阴阳师？还是个老资历"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我号有点问题关注了不显示不知道为什么😭重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2088288394602488232",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 9,
+          "like_count": 7376,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1148
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T13:20:35.000Z",
+        "description": "",
+        "id": "2063973986523021312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088287932734161206",
+        "name": "我的世界",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064031700041203712/5QfN_TxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 66,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 120
+        },
+        "url": "",
+        "username": "yqtu7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

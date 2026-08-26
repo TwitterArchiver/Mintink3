@@ -1,0 +1,559 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "G-Dragon (지드래곤) - member of Big Bang & solo artist",
+          "id": "889958630694322176",
+          "name": "G-Dragon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "G-Dragon (지드래곤) - member of Big Bang & solo artist",
+          "id": "889958630694322176",
+          "name": "G-Dragon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "G-Dragon (지드래곤) - member of Big Bang & solo artist",
+          "id": "889958630694322176",
+          "name": "G-Dragon"
+        }
+      }
+    ],
+    "conversation_id": "2089469866030121147",
+    "created_at": "2026-08-17T21:50:11.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T22:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089469866030121147"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/always_gd/stat…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/always_gd/status/2089376103236555045",
+          "start": 27,
+          "url": "https://t.co/UmDAjSgIin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089469866030121147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089376103236555045",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "祝我的此生挚爱生日快乐！是我从小学时候就爱到现在的人 https://t.co/UmDAjSgIin"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089376096815063040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP70fXTaoAA0zic.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "G-Dragon (지드래곤) - member of Big Bang & solo artist",
+              "id": "889958630694322176",
+              "name": "G-Dragon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "G-Dragon (지드래곤) - member of Big Bang & solo artist",
+              "id": "889958630694322176",
+              "name": "G-Dragon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "G-Dragon (지드래곤) - member of Big Bang & solo artist",
+              "id": "889958630694322176",
+              "name": "G-Dragon"
+            }
+          }
+        ],
+        "conversation_id": "2089469866030121147",
+        "created_at": "2026-08-17T21:50:11.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T22:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089469866030121147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/always_gd/stat…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/always_gd/status/2089376103236555045",
+              "start": 27,
+              "url": "https://t.co/UmDAjSgIin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089469866030121147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089376103236555045",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "祝我的此生挚爱生日快乐！是我从小学时候就爱到现在的人 https://t.co/UmDAjSgIin"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089376096815063040"
+          ]
+        },
+        "author_id": "373993596",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "G-Dragon (지드래곤) - member of Big Bang & solo artist",
+              "id": "889958630694322176",
+              "name": "G-Dragon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "G-Dragon (지드래곤) - member of Big Bang & solo artist",
+              "id": "889958630694322176",
+              "name": "G-Dragon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "G-Dragon (지드래곤) - member of Big Bang & solo artist",
+              "id": "889958630694322176",
+              "name": "G-Dragon"
+            }
+          }
+        ],
+        "conversation_id": "2089376103236555045",
+        "created_at": "2026-08-17T15:37:36.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T16:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089376103236555045"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 54,
+              "tag": "꽃잎하나_더해_권지용_사랑해"
+            },
+            {
+              "end": 85,
+              "start": 71,
+              "tag": "HappyGDay2026"
+            },
+            {
+              "end": 101,
+              "start": 92,
+              "tag": "AlwaysGD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LKzmBYItnL",
+              "end": 125,
+              "expanded_url": "https://x.com/always_gd/status/2089376103236555045/photo/1",
+              "media_key": "3_2089376096815063040",
+              "start": 102,
+              "url": "https://t.co/LKzmBYItnL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089376103236555045",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2089376096815063040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6729,
+          "like_count": 499,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 189
+        },
+        "reply_settings": "everyone",
+        "text": "★。＼｜／。★\n🅗🅐🅟🅟🅨 🅑🅘🅡🅣🅗🅓🅐🅨 \n ₊˚⊹♡ 𝗚-𝗗𝗥𝗔𝗚𝗢𝗡 ♡⊹˚₊\n ★。／｜＼。★\n\n#꽃잎하나_더해_권지용_사랑해\n#HappyGDay2026 \nwith #AlwaysGD https://t.co/LKzmBYItnL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2089469866030121147",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 973,
+          "like_count": 7715,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1198
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-09-15T14:37:43.000Z",
+        "description": "2008.08.01 ~ #BIGBANG #GDRAGON #권지용 Always-GD • 우린 언제나, 항상, 늘 여기 있을게 :) 권지용, 너의 길을 걸어라. 우린 항상 네 편이야!",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 13,
+                "tag": "BIGBANG"
+              },
+              {
+                "end": 30,
+                "start": 22,
+                "tag": "GDRAGON"
+              },
+              {
+                "end": 35,
+                "start": 31,
+                "tag": "권지용"
+              }
+            ]
+          }
+        },
+        "id": "373993596",
+        "is_identity_verified": false,
+        "location": "대한민국 서울",
+        "most_recent_tweet_id": "2089411054090797343",
+        "name": "Always-GD",
+        "pinned_tweet_id": "2087173282164314203",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/373993596/1517420490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045595631826448384/iDDNA80k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229215,
+          "following_count": 78,
+          "like_count": 7262,
+          "listed_count": 1117,
+          "media_count": 10295,
+          "tweet_count": 27847
+        },
+        "url": "",
+        "username": "always_gd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

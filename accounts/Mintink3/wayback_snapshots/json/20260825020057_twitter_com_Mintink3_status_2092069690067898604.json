@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091548783792521217"
+      ],
+      "media_source_tweet_id": [
+        "2091548812699656505"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2092069690067898604",
+    "created_at": "2026-08-25T02:00:57.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T03:00:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092069690067898604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1962084341271687168",
+          "start": 3,
+          "username": "axghost_77"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/flw0O7BlXo",
+          "end": 44,
+          "expanded_url": "https://x.com/axghost_77/status/2091548812699656505/video/1",
+          "media_key": "13_2091548783792521217",
+          "start": 21,
+          "url": "https://t.co/flw0O7BlXo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092069690067898604",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2091548783792521217"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091548812699656505",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @axghost_77: ちくとく https://t.co/flw0O7BlXo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11335,
+        "height": 1280,
+        "media_key": "13_2091548783792521217",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091548783792521217/img/lNRtw2kiGx8K1bPO.jpg",
+        "public_metrics": {
+          "view_count": 3042
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091548783792521217/vid/avc1/320x568/0_cG4DLfHoow9lbb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091548783792521217/vid/avc1/480x852/AAV7BqPyVKpDxU6a.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091548783792521217/vid/avc1/720x1280/TBI0aX3u8uQDP5FX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091548783792521217/pl/xGUgsuB_GdnW3ZxH.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091548783792521217"
+          ],
+          "media_source_tweet_id": [
+            "2091548812699656505"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2092069690067898604",
+        "created_at": "2026-08-25T02:00:57.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T03:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092069690067898604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1962084341271687168",
+              "start": 3,
+              "username": "axghost_77"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/flw0O7BlXo",
+              "end": 44,
+              "expanded_url": "https://x.com/axghost_77/status/2091548812699656505/video/1",
+              "media_key": "13_2091548783792521217",
+              "start": 21,
+              "url": "https://t.co/flw0O7BlXo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092069690067898604",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2091548783792521217"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091548812699656505",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @axghost_77: ちくとく https://t.co/flw0O7BlXo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091548783792521217"
+          ]
+        },
+        "author_id": "1962084341271687168",
+        "conversation_id": "2091548812699656505",
+        "created_at": "2026-08-23T15:31:10.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T16:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091548812699656505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/flw0O7BlXo",
+              "end": 28,
+              "expanded_url": "https://x.com/axghost_77/status/2091548812699656505/video/1",
+              "media_key": "13_2091548783792521217",
+              "start": 5,
+              "url": "https://t.co/flw0O7BlXo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091548812699656505",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2091548783792521217"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 13402,
+          "like_count": 1127,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "ちくとく https://t.co/flw0O7BlXo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2092069690067898604",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 1063,
+          "like_count": 9183,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1347
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-31T09:25:53.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ztjalg829?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ztjalg829?igsh=MTR6ZnMydTlrdTQzcw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/gPeoqTiqav"
+              }
+            ]
+          }
+        },
+        "id": "1962084341271687168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091588281150632008",
+        "name": "女",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962084341271687168/1783344280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080692116641218560/__szqLNM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 21,
+          "like_count": 1068,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 110
+        },
+        "url": "https://t.co/gPeoqTiqav",
+        "username": "axghost_77",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

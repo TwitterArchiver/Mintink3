@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089315243617128448",
+        "3_2089315243617046528",
+        "3_2089315243625435136",
+        "3_2089315243638075392"
+      ],
+      "media_source_tweet_id": [
+        "2089315251833712768",
+        "2089315251833712768",
+        "2089315251833712768",
+        "2089315251833712768"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2089440468656590978",
+    "created_at": "2026-08-17T19:53:22.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T20:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089440468656590978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1976193284268752897",
+          "start": 3,
+          "username": "r3idake_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ljmLnAZWA0",
+          "end": 52,
+          "expanded_url": "https://x.com/r3idake_/status/2089315251833712768/photo/1",
+          "media_key": "3_2089315243617128448",
+          "start": 29,
+          "url": "https://t.co/ljmLnAZWA0"
+        },
+        {
+          "display_url": "pic.x.com/ljmLnAZWA0",
+          "end": 52,
+          "expanded_url": "https://x.com/r3idake_/status/2089315251833712768/photo/1",
+          "media_key": "3_2089315243617046528",
+          "start": 29,
+          "url": "https://t.co/ljmLnAZWA0"
+        },
+        {
+          "display_url": "pic.x.com/ljmLnAZWA0",
+          "end": 52,
+          "expanded_url": "https://x.com/r3idake_/status/2089315251833712768/photo/1",
+          "media_key": "3_2089315243625435136",
+          "start": 29,
+          "url": "https://t.co/ljmLnAZWA0"
+        },
+        {
+          "display_url": "pic.x.com/ljmLnAZWA0",
+          "end": 52,
+          "expanded_url": "https://x.com/r3idake_/status/2089315251833712768/photo/1",
+          "media_key": "3_2089315243638075392",
+          "start": 29,
+          "url": "https://t.co/ljmLnAZWA0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089440468656590978",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2089315243617128448"
+      },
+      {
+        "media_key": "3_2089315243617046528"
+      },
+      {
+        "media_key": "3_2089315243625435136"
+      },
+      {
+        "media_key": "3_2089315243638075392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089315251833712768",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @r3idake_: 水着もロリタスタイで！！！♡ https://t.co/ljmLnAZWA0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089315243617128448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP69JPebkAAGnCM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089315243617046528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP69JPeaUAAgBiZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089315243625435136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP69JPgaUAAFpTH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089315243638075392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP69JPjbMAA3WtV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089315243617128448",
+            "3_2089315243617046528",
+            "3_2089315243625435136",
+            "3_2089315243638075392"
+          ],
+          "media_source_tweet_id": [
+            "2089315251833712768",
+            "2089315251833712768",
+            "2089315251833712768",
+            "2089315251833712768"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2089440468656590978",
+        "created_at": "2026-08-17T19:53:22.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T20:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089440468656590978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1976193284268752897",
+              "start": 3,
+              "username": "r3idake_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ljmLnAZWA0",
+              "end": 52,
+              "expanded_url": "https://x.com/r3idake_/status/2089315251833712768/photo/1",
+              "media_key": "3_2089315243617128448",
+              "start": 29,
+              "url": "https://t.co/ljmLnAZWA0"
+            },
+            {
+              "display_url": "pic.x.com/ljmLnAZWA0",
+              "end": 52,
+              "expanded_url": "https://x.com/r3idake_/status/2089315251833712768/photo/1",
+              "media_key": "3_2089315243617046528",
+              "start": 29,
+              "url": "https://t.co/ljmLnAZWA0"
+            },
+            {
+              "display_url": "pic.x.com/ljmLnAZWA0",
+              "end": 52,
+              "expanded_url": "https://x.com/r3idake_/status/2089315251833712768/photo/1",
+              "media_key": "3_2089315243625435136",
+              "start": 29,
+              "url": "https://t.co/ljmLnAZWA0"
+            },
+            {
+              "display_url": "pic.x.com/ljmLnAZWA0",
+              "end": 52,
+              "expanded_url": "https://x.com/r3idake_/status/2089315251833712768/photo/1",
+              "media_key": "3_2089315243638075392",
+              "start": 29,
+              "url": "https://t.co/ljmLnAZWA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089440468656590978",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089315243617128448"
+          },
+          {
+            "media_key": "3_2089315243617046528"
+          },
+          {
+            "media_key": "3_2089315243625435136"
+          },
+          {
+            "media_key": "3_2089315243638075392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089315251833712768",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @r3idake_: 水着もロリタスタイで！！！♡ https://t.co/ljmLnAZWA0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089315243617128448",
+            "3_2089315243617046528",
+            "3_2089315243625435136",
+            "3_2089315243638075392"
+          ]
+        },
+        "author_id": "1976193284268752897",
+        "conversation_id": "2089315251833712768",
+        "created_at": "2026-08-17T11:35:48.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T12:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089315251833712768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ljmLnAZWA0",
+              "end": 38,
+              "expanded_url": "https://x.com/r3idake_/status/2089315251833712768/photo/1",
+              "media_key": "3_2089315243617128448",
+              "start": 15,
+              "url": "https://t.co/ljmLnAZWA0"
+            },
+            {
+              "display_url": "pic.x.com/ljmLnAZWA0",
+              "end": 38,
+              "expanded_url": "https://x.com/r3idake_/status/2089315251833712768/photo/1",
+              "media_key": "3_2089315243617046528",
+              "start": 15,
+              "url": "https://t.co/ljmLnAZWA0"
+            },
+            {
+              "display_url": "pic.x.com/ljmLnAZWA0",
+              "end": 38,
+              "expanded_url": "https://x.com/r3idake_/status/2089315251833712768/photo/1",
+              "media_key": "3_2089315243625435136",
+              "start": 15,
+              "url": "https://t.co/ljmLnAZWA0"
+            },
+            {
+              "display_url": "pic.x.com/ljmLnAZWA0",
+              "end": 38,
+              "expanded_url": "https://x.com/r3idake_/status/2089315251833712768/photo/1",
+              "media_key": "3_2089315243638075392",
+              "start": 15,
+              "url": "https://t.co/ljmLnAZWA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089315251833712768",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089315243617128448"
+          },
+          {
+            "media_key": "3_2089315243617046528"
+          },
+          {
+            "media_key": "3_2089315243625435136"
+          },
+          {
+            "media_key": "3_2089315243638075392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 423,
+          "impression_count": 46864,
+          "like_count": 2232,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 49
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "水着もロリタスタイで！！！♡ https://t.co/ljmLnAZWA0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2089440468656590978",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 968,
+          "like_count": 7671,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1192
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-09T07:49:34.000Z",
+        "description": "作曲, 歌, Gothlolita",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/r3idake_?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/r3idake_?igsh=NHoyaHZkbnZua2U%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/DSd9ksWuDF"
+              }
+            ]
+          }
+        },
+        "id": "1976193284268752897",
+        "is_identity_verified": false,
+        "location": "대한민국",
+        "most_recent_tweet_id": "2089353138784579763",
+        "name": "れい",
+        "pinned_tweet_id": "2076375051046404500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976193284268752897/1766864127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005000700028485635/kdVn8s2t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1881,
+          "following_count": 131,
+          "like_count": 2402,
+          "listed_count": 6,
+          "media_count": 33,
+          "tweet_count": 211
+        },
+        "url": "https://t.co/DSd9ksWuDF",
+        "username": "r3idake_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

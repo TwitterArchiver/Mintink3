@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "733774105166548992",
+          "name": "Neymar "
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "733774105166548992",
+          "name": "Neymar "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733774105166548992",
+          "name": "Neymar "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "2084795185133662339",
+    "created_at": "2026-08-05T20:43:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T21:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085104402696978500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1467353976177897472",
+          "start": 0,
+          "username": "scuderiaslovely"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085104402696978500",
+    "in_reply_to_user_id": "1467353976177897472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084795185133662339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scuderiaslovely Neymar竟然不在榜单"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 111862,
+        "height": 1280,
+        "media_key": "13_2084794915175743489",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084794915175743489/img/y9KntOTdQNhGcQzN.jpg",
+        "public_metrics": {
+          "view_count": 677059
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084794915175743489/vid/avc1/320x568/XQKOweTEBwRnfp8R.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084794915175743489/vid/avc1/480x852/hbWc-ZnZsubajRNW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084794915175743489/vid/avc1/720x1280/0DhqlJ9slwJjnm-D.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084794915175743489/pl/vIq5rXYu2nQrCkHP.m3u8?v=166"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774105166548992",
+              "name": "Neymar "
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774105166548992",
+              "name": "Neymar "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774105166548992",
+              "name": "Neymar "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2084795185133662339",
+        "created_at": "2026-08-05T20:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T21:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085104402696978500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1467353976177897472",
+              "start": 0,
+              "username": "scuderiaslovely"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085104402696978500",
+        "in_reply_to_user_id": "1467353976177897472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084795185133662339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scuderiaslovely Neymar竟然不在榜单"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084794915175743489"
+          ]
+        },
+        "author_id": "1467353976177897472",
+        "conversation_id": "2084795185133662339",
+        "created_at": "2026-08-05T00:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T01:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084795185133662339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gzmdcMjg6V",
+              "end": 206,
+              "expanded_url": "https://x.com/scuderiaslovely/status/2084795185133662339/video/1",
+              "media_key": "13_2084794915175743489",
+              "start": 183,
+              "url": "https://t.co/gzmdcMjg6V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084795185133662339",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4460,
+          "impression_count": 859491,
+          "like_count": 12348,
+          "quote_count": 360,
+          "reply_count": 363,
+          "retweet_count": 470
+        },
+        "reply_settings": "everyone",
+        "text": "Ferran made a top 10 list of the most handsome footballers, and when the boy tells him he's in tenth place, he says it's all about the hair, only to end up saying he's number 1 😭🙂‍↔️ https://t.co/gzmdcMjg6V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 816,
+          "like_count": 6029,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 942
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T04:43:56.000Z",
+        "description": "#1 @Max33Verstappen  & @FerranTorres20 ‘s girl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "Max33Verstappen"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "FerranTorres20"
+              }
+            ]
+          }
+        },
+        "id": "1467353976177897472",
+        "location": "MV3 - FT7  🏹",
+        "name": "anita",
+        "pinned_tweet_id": "2079239605702857015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080870070591324160/XBd2lQsG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5570,
+          "following_count": 798,
+          "like_count": 331608,
+          "listed_count": 15,
+          "media_count": 6064,
+          "tweet_count": 15029
+        },
+        "url": "",
+        "username": "scuderiaslovely",
+        "verified": true
+      }
+    ]
+  }
+}

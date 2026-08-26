@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2088884522914050222",
+    "created_at": "2026-08-17T19:52:25.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T20:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089440231007379930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1756565863946432512",
+          "start": 0,
+          "username": "_081203_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089440231007379930",
+    "in_reply_to_user_id": "1756565863946432512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088884522914050222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_081203_ 你好 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2088884522914050222",
+        "created_at": "2026-08-17T19:52:25.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T20:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089440231007379930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1756565863946432512",
+              "start": 0,
+              "username": "_081203_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089440231007379930",
+        "in_reply_to_user_id": "1756565863946432512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088884522914050222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_081203_ 你好 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756565863946432512",
+        "conversation_id": "2088884522914050222",
+        "created_at": "2026-08-16T07:04:14.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088884522914050222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088884522914050222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 36490,
+          "like_count": 984,
+          "quote_count": 17,
+          "reply_count": 231,
+          "retweet_count": 168
+        },
+        "reply_settings": "everyone",
+        "text": "美女，我看你发推很久了，你每天发的推有一点逻辑吗？你是不是有那个精神分裂症"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2089440231007379930",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 967,
+          "like_count": 7661,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1191
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-11T06:28:41.000Z",
+        "description": "",
+        "id": "1756565863946432512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089393175060525315",
+        "name": "Peiiilsovucn1t",
+        "pinned_tweet_id": "2089370633419604003",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756565863946432512/1786995217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085788294844182528/b6aSiWuJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 183,
+          "like_count": 609,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 466
+        },
+        "url": "",
+        "username": "_081203_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

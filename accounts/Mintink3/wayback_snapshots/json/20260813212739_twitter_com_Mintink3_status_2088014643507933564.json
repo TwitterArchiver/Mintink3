@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2088011796888293379",
+    "created_at": "2026-08-13T21:27:39.000Z",
+    "display_text_range": [
+      16,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T22:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088014643507933564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1221123920562196480",
+          "start": 0,
+          "username": "AliBoroujerdi2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088014643507933564",
+    "in_reply_to_user_id": "1221123920562196480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088012270832107648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AliBoroujerdi2 因为国产阿普唑仑含量太少了，xanax能有2mg/t的，而国产的只有0.4mg/t，我只吃2t我是睡不着的，所以我会想办法尽可能开更多药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2088011796888293379",
+        "created_at": "2026-08-13T21:27:39.000Z",
+        "display_text_range": [
+          16,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T22:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088014643507933564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1221123920562196480",
+              "start": 0,
+              "username": "AliBoroujerdi2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088014643507933564",
+        "in_reply_to_user_id": "1221123920562196480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088012270832107648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AliBoroujerdi2 因为国产阿普唑仑含量太少了，xanax能有2mg/t的，而国产的只有0.4mg/t，我只吃2t我是睡不着的，所以我会想办法尽可能开更多药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1221123920562196480",
+        "conversation_id": "2088011796888293379",
+        "created_at": "2026-08-13T21:18:13.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T22:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088012270832107648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088012270832107648",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088011796888293379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 这个还是按医嘱来比较安全吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2088014643507933564",
+        "name": "Beatrice",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 928,
+          "like_count": 7251,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1126
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-01-25T17:34:03.000Z",
+        "description": "稳定连接每一天，我最近一直都靠它，下载入口👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fl1.me/2",
+                "end": 23,
+                "expanded_url": "https://fl1.me/2",
+                "start": 0,
+                "url": "https://t.co/5UbZ6IGPbT"
+              }
+            ]
+          }
+        },
+        "id": "1221123920562196480",
+        "is_identity_verified": false,
+        "location": "Tehran",
+        "most_recent_tweet_id": "2088012432761647382",
+        "name": "FoxLink银狐全球网络助手",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1221123920562196480/1581963087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084756641057247232/e36qyPkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 103,
+          "like_count": 268,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 73
+        },
+        "url": "https://t.co/5UbZ6IGPbT",
+        "username": "AliBoroujerdi2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

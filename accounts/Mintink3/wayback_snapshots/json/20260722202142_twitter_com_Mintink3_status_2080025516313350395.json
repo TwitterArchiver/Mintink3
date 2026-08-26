@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079716304005554176"
+      ],
+      "media_source_tweet_id": [
+        "2079716355046015030"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2080025516313350395",
+    "created_at": "2026-07-22T20:21:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T21:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080025516313350395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1535728201724571648",
+          "start": 3,
+          "username": "connellwaIdron"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0sGPzxC5pK",
+          "end": 107,
+          "expanded_url": "https://x.com/connellwaIdron/status/2079716355046015030/video/1",
+          "media_key": "13_2079716304005554176",
+          "start": 84,
+          "url": "https://t.co/0sGPzxC5pK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080025516313350395",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 308
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079716355046015030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @connellwaIdron: the way he put his whole TONGUE on that trophy... ferran please https://t.co/0sGPzxC5pK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5514,
+        "height": 1024,
+        "media_key": "13_2079716304005554176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079716304005554176/img/Lv1r7PisPg1ZHUQm.jpg",
+        "public_metrics": {
+          "view_count": 32000
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079716304005554176/vid/avc1/320x568/q7XW3orjhpT8iPb9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079716304005554176/vid/avc1/480x852/UDtrDVjnovexPOOQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079716304005554176/vid/avc1/576x1024/3oHfXLfeiz8GANbh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079716304005554176/pl/b65vSn5CuBEjw7yX.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079716304005554176"
+          ]
+        },
+        "author_id": "1535728201724571648",
+        "conversation_id": "2079716355046015030",
+        "created_at": "2026-07-21T23:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T00:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079716355046015030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0sGPzxC5pK",
+              "end": 87,
+              "expanded_url": "https://x.com/connellwaIdron/status/2079716355046015030/video/1",
+              "media_key": "13_2079716304005554176",
+              "start": 64,
+              "url": "https://t.co/0sGPzxC5pK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079716355046015030",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1050,
+          "impression_count": 64729,
+          "like_count": 5408,
+          "quote_count": 89,
+          "reply_count": 18,
+          "retweet_count": 308
+        },
+        "reply_settings": "everyone",
+        "text": "the way he put his whole TONGUE on that trophy... ferran please https://t.co/0sGPzxC5pK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079716304005554176"
+          ],
+          "media_source_tweet_id": [
+            "2079716355046015030"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2080025516313350395",
+        "created_at": "2026-07-22T20:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T21:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080025516313350395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1535728201724571648",
+              "start": 3,
+              "username": "connellwaIdron"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0sGPzxC5pK",
+              "end": 107,
+              "expanded_url": "https://x.com/connellwaIdron/status/2079716355046015030/video/1",
+              "media_key": "13_2079716304005554176",
+              "start": 84,
+              "url": "https://t.co/0sGPzxC5pK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080025516313350395",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 308
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079716355046015030",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @connellwaIdron: the way he put his whole TONGUE on that trophy... ferran please https://t.co/0sGPzxC5pK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074830597709840384/kJeKJqLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 749,
+          "like_count": 5234,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 819
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T20:58:58.000Z",
+        "description": "𝐣𝐨𝐡𝐧𝐧𝐲 𝐬𝐚𝐱𝐛𝐲: “i don't just want you here for the work. i want you here for me. stay.” | ♡ https://t.co/Wg7H8xhXWq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "srlzd.com/u/foxmuIder",
+                "end": 114,
+                "expanded_url": "https://srlzd.com/u/foxmuIder",
+                "start": 91,
+                "url": "https://t.co/Wg7H8xhXWq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/3Ad9F",
+                "end": 23,
+                "expanded_url": "https://boxd.it/3Ad9F",
+                "start": 0,
+                "url": "https://t.co/ativJvoLxr"
+              }
+            ]
+          }
+        },
+        "id": "1535728201724571648",
+        "location": "winterfell",
+        "name": "vitor",
+        "pinned_tweet_id": "2079015166977446122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029577236404400128/4H9OXPNH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17523,
+          "following_count": 2825,
+          "like_count": 324997,
+          "listed_count": 30,
+          "media_count": 7468,
+          "tweet_count": 25185
+        },
+        "url": "https://t.co/ativJvoLxr",
+        "username": "connellwaIdron",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2086549097931297201",
+    "created_at": "2026-08-09T20:28:20.000Z",
+    "display_text_range": [
+      17,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T21:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086550164794454143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1710365419306127360",
+          "start": 0,
+          "username": "RaquelBarr87553"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086550164794454143",
+    "in_reply_to_user_id": "1710365419306127360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086549732969890276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RaquelBarr87553 我打算去附近便利店买点吃的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2086549097931297201",
+        "created_at": "2026-08-09T20:28:20.000Z",
+        "display_text_range": [
+          17,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T21:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086550164794454143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1710365419306127360",
+              "start": 0,
+              "username": "RaquelBarr87553"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086550164794454143",
+        "in_reply_to_user_id": "1710365419306127360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086549732969890276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RaquelBarr87553 我打算去附近便利店买点吃的了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710365419306127360",
+        "conversation_id": "2086549097931297201",
+        "created_at": "2026-08-09T20:26:37.000Z",
+        "display_text_range": [
+          10,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T21:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086549732969890276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086549732969890276",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086549097931297201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 可能buff拉满了吧，凌晨四点加上台风天（）楼下没有便利店吗？搞点别的填填肚子罢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2086550164794454143",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 892,
+          "like_count": 6726,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1038
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-06T18:45:21.000Z",
+        "description": "叫我流浪猫就好～4000+的无敌之人/全国漂泊中——感谢你的喜欢～我有九十九个理由抱怨现实，但我的朋友，你永远不会是其中之一！",
+        "id": "1710365419306127360",
+        "is_identity_verified": false,
+        "location": "在你的心里",
+        "most_recent_tweet_id": "2086549732969890276",
+        "name": "捨て猫",
+        "pinned_tweet_id": "2085177125401952613",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1710365419306127360/1768257368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082092424302825472/mLL_9SK-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 184,
+          "like_count": 648,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 156
+        },
+        "url": "",
+        "username": "RaquelBarr87553",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

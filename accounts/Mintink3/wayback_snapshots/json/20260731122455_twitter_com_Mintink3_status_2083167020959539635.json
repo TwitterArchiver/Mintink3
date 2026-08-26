@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2082816091911508074",
+    "created_at": "2026-07-31T12:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T13:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083167020959539635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1826397809303535616",
+          "start": 0,
+          "username": "owerwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083167020959539635",
+    "in_reply_to_user_id": "1826397809303535616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082816091911508074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@owerwe 为什么我这边要94"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082816083736866816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOemMWObMAACZHo.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2082816091911508074",
+        "created_at": "2026-07-31T12:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083167020959539635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1826397809303535616",
+              "start": 0,
+              "username": "owerwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083167020959539635",
+        "in_reply_to_user_id": "1826397809303535616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082816091911508074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@owerwe 为什么我这边要94"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082816083736866816"
+          ]
+        },
+        "author_id": "1826397809303535616",
+        "conversation_id": "2082816091911508074",
+        "created_at": "2026-07-30T13:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082816091911508074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0KWX6wlKr7",
+              "end": 31,
+              "expanded_url": "https://x.com/owerwe/status/2082816091911508074/photo/1",
+              "media_key": "3_2082816083736866816",
+              "start": 8,
+              "url": "https://t.co/0KWX6wlKr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082816091911508074",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3124,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "劲爆优惠wdf https://t.co/0KWX6wlKr7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 749,
+          "like_count": 5488,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 868
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T23:15:59.000Z",
+        "description": "INFJ/od💊/双相/纹身/穿孔/请多多关注我吧 互fo请私信｜查成分 🚪188基础🚪 333有图包 520电子宠物💗",
+        "id": "1826397809303535616",
+        "location": "私信除过门线下咨询不回可视频验证20r",
+        "name": "おとわྀིྀི",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082295472052719616/DbLasm8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 69,
+          "like_count": 1036,
+          "listed_count": 5,
+          "media_count": 114,
+          "tweet_count": 533
+        },
+        "url": "",
+        "username": "owerwe",
+        "verified": false
+      }
+    ]
+  }
+}

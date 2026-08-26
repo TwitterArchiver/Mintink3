@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2090720688944673095",
+    "created_at": "2026-08-21T16:36:53.000Z",
+    "display_text_range": [
+      10,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T17:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090840574912008367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1840708439544352768",
+          "start": 0,
+          "username": "seiunn04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090840574912008367",
+    "in_reply_to_user_id": "1840708439544352768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090813933858767018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seiunn04 医生给我开的每天3t阿普…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2090720688944673095",
+        "created_at": "2026-08-21T16:36:53.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T17:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090840574912008367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840708439544352768",
+              "start": 0,
+              "username": "seiunn04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090840574912008367",
+        "in_reply_to_user_id": "1840708439544352768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090813933858767018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seiunn04 医生给我开的每天3t阿普…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840708439544352768",
+        "conversation_id": "2090720688944673095",
+        "created_at": "2026-08-21T14:51:01.000Z",
+        "display_text_range": [
+          10,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090813933858767018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090813933858767018",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090813768863539517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 阿普在我们这边不开 容易上瘾\n基本上是急性稳定状态的 之后会换别的更温和的药"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2090840574912008367",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 1021,
+          "like_count": 8371,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 1262
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T11:01:10.000Z",
+        "description": "雨上がりの一番星",
+        "id": "1840708439544352768",
+        "is_identity_verified": false,
+        "location": "Atlanta, GA",
+        "most_recent_tweet_id": "2090830615268515861",
+        "name": "测地线上的魔法使",
+        "pinned_tweet_id": "2088444177163993598",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840708439544352768/1749275719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087958218798452736/Kp1e6fc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 1438,
+          "like_count": 18634,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 3776
+        },
+        "url": "",
+        "username": "seiunn04",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

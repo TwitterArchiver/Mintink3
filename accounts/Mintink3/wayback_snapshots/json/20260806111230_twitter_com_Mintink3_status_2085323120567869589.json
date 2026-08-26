@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2085323120567869589",
+    "created_at": "2026-08-06T11:12:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T12:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085323120567869589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1562567960245731329",
+          "start": 3,
+          "username": "Iam_randy07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085323120567869589",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 195
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084982190752903650",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Iam_randy07: Marijuana is dangerous.\nI knew a guy that started smoking pot when he was 13, he died when he was 87. \nLet that be a lesso…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2085323120567869589",
+        "created_at": "2026-08-06T11:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085323120567869589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1562567960245731329",
+              "start": 3,
+              "username": "Iam_randy07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085323120567869589",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 195
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084982190752903650",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Iam_randy07: Marijuana is dangerous.\nI knew a guy that started smoking pot when he was 13, he died when he was 87. \nLet that be a lesso…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1562567960245731329",
+        "conversation_id": "2084982190752903650",
+        "created_at": "2026-08-05T12:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084982190752903650"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084982190752903650",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 54580,
+          "like_count": 2354,
+          "quote_count": 3,
+          "reply_count": 37,
+          "retweet_count": 195
+        },
+        "reply_settings": "everyone",
+        "text": "Marijuana is dangerous.\nI knew a guy that started smoking pot when he was 13, he died when he was 87. \nLet that be a lesson."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 826,
+          "like_count": 6209,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 963
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-24T22:30:54.000Z",
+        "description": "Up in the clouds 9⛅️☘️, far from the crowds  @Jake07Y @fw_andyyy @OGsDontFold",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "Jake07Y"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "fw_andyyy"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "OGsDontFold"
+              }
+            ]
+          }
+        },
+        "id": "1562567960245731329",
+        "name": "𝓡𝓪𝓷𝓭𝔂🪐🪄",
+        "pinned_tweet_id": "2085319791963734379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027065717057568768/IckQuB-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3107,
+          "following_count": 954,
+          "like_count": 61115,
+          "listed_count": 5,
+          "media_count": 192,
+          "tweet_count": 55703
+        },
+        "url": "",
+        "username": "Iam_randy07",
+        "verified": true
+      }
+    ]
+  }
+}

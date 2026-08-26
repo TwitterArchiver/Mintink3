@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2089088612126326810",
+    "created_at": "2026-08-17T18:16:20.000Z",
+    "display_text_range": [
+      13,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T19:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089416051876614571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1668424604086579200",
+          "start": 0,
+          "username": "yansu964322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089416051876614571",
+    "in_reply_to_user_id": "1668424604086579200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089143041047273558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yansu964322 他只是自我感动 并且道德绑架我罢了 我真实生日他都不记得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2089088612126326810",
+        "created_at": "2026-08-17T18:16:20.000Z",
+        "display_text_range": [
+          13,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T19:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089416051876614571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1668424604086579200",
+              "start": 0,
+              "username": "yansu964322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089416051876614571",
+        "in_reply_to_user_id": "1668424604086579200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089143041047273558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yansu964322 他只是自我感动 并且道德绑架我罢了 我真实生日他都不记得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668424604086579200",
+        "conversation_id": "2089088612126326810",
+        "created_at": "2026-08-17T00:11:30.000Z",
+        "display_text_range": [
+          10,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T01:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089143041047273558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089143041047273558",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089088612126326810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 我觉得如果要庆祝生日，得问别人意见吧？毕竟在很多不熟的人面前做这种事情，真的很让人很无语"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2089416051876614571",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 955,
+          "like_count": 7633,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1186
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T01:07:06.000Z",
+        "description": "平和主義愛好家   Someone  who become a doctor but don't wanna become a doctor！ENFP may be I can speak both Chinese,German.",
+        "id": "1668424604086579200",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2089337026156040489",
+        "name": "すさん",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770438297636188160/YBcz_04I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 43,
+          "like_count": 1559,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1452
+        },
+        "url": "",
+        "username": "yansu964322",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

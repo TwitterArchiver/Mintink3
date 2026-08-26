@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2090704564924367040",
+    "created_at": "2026-08-21T09:24:50.000Z",
+    "display_text_range": [
+      11,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T10:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090731845185093697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1747805105200480256",
+          "start": 0,
+          "username": "Laier0418"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090731845185093697",
+    "in_reply_to_user_id": "1747805105200480256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090704564924367040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Laier0418 我做过鼻子 没有鼻毛 普通鼻吸还是可以的 除了棉花糖那种太辣了 吸两次就流鼻血"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2090704564924367040",
+        "created_at": "2026-08-21T09:24:50.000Z",
+        "display_text_range": [
+          11,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090731845185093697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747805105200480256",
+              "start": 0,
+              "username": "Laier0418"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090731845185093697",
+        "in_reply_to_user_id": "1747805105200480256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090704564924367040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Laier0418 我做过鼻子 没有鼻毛 普通鼻吸还是可以的 除了棉花糖那种太辣了 吸两次就流鼻血"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747805105200480256",
+        "conversation_id": "2090704564924367040",
+        "created_at": "2026-08-21T07:36:26.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T08:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090704564924367040"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090704564924367040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": ".. 也不是很理解什么💊都鼻吸的 \n只有做过鼻子的才能懂鼻腔干净的重要性\n像魔了的野人一样 我之前打k每次都会用生理盐水清理鼻腔但是因为东南亚天气太干燥 \n我的鼻子里面还是有很大一块结痂 扣下来就流血的那种 后面就不打了只喝水 \n...od圈神人是真的多"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2090731845185093697",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 1020,
+          "like_count": 8329,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1253
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-18T02:16:32.000Z",
+        "description": "Entp♈未成年不要关注 \n依托米酯笑气氯胺酮已戒断/双相7年患者目前停了大部分药/努力想做正常人但是总是想o/怀念在🇰🇭的日子/向往的城市是自由的泰兰德和马来西亚/蹲过3天戒毒所😅至今不能考驾照之人",
+        "id": "1747805105200480256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090731630742946147",
+        "name": "Vavvst",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1747805105200480256/1787073574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089764101484638208/EKEtH1Ns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 54,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "Laier0418",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2080022288918036496",
+    "created_at": "2026-07-22T20:08:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T21:08:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080022288918036496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041875296618737666",
+          "start": 3,
+          "username": "Yaoguoez0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080022288918036496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079874106556899512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yaoguoez0: 我真想魂穿别人五分钟看看我自己到底长啥样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2080022288918036496",
+        "created_at": "2026-07-22T20:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T21:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080022288918036496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041875296618737666",
+              "start": 3,
+              "username": "Yaoguoez0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080022288918036496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079874106556899512",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yaoguoez0: 我真想魂穿别人五分钟看看我自己到底长啥样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041875296618737666",
+        "conversation_id": "2079874106556899512",
+        "created_at": "2026-07-22T10:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T11:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079874106556899512"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079874106556899512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 72840,
+          "like_count": 1417,
+          "quote_count": 8,
+          "reply_count": 157,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "我真想魂穿别人五分钟看看我自己到底长啥样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074830597709840384/kJeKJqLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 748,
+          "like_count": 5206,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 813
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T13:46:49.000Z",
+        "description": "",
+        "id": "2041875296618737666",
+        "name": "秋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059541309598404608/oaDPmpsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 54,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 362
+        },
+        "url": "",
+        "username": "Yaoguoez0",
+        "verified": false
+      }
+    ]
+  }
+}

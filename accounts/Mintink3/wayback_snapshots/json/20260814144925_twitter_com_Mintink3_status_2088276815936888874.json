@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088276796697677825",
+        "3_2088276796714418176",
+        "13_2088276796731232256",
+        "3_2088276796722786304"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2088276815936888874",
+    "created_at": "2026-08-14T14:49:25.000Z",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T15:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088276815936888874"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9TrTqMO9Du",
+          "end": 140,
+          "expanded_url": "https://x.com/Mintink3/status/2088276815936888874/video/1",
+          "media_key": "3_2088276796697677825",
+          "start": 117,
+          "url": "https://t.co/9TrTqMO9Du"
+        },
+        {
+          "display_url": "pic.x.com/9TrTqMO9Du",
+          "end": 140,
+          "expanded_url": "https://x.com/Mintink3/status/2088276815936888874/video/1",
+          "media_key": "3_2088276796714418176",
+          "start": 117,
+          "url": "https://t.co/9TrTqMO9Du"
+        },
+        {
+          "display_url": "pic.x.com/9TrTqMO9Du",
+          "end": 140,
+          "expanded_url": "https://x.com/Mintink3/status/2088276815936888874/video/1",
+          "media_key": "13_2088276796731232256",
+          "start": 117,
+          "url": "https://t.co/9TrTqMO9Du"
+        },
+        {
+          "display_url": "pic.x.com/9TrTqMO9Du",
+          "end": 140,
+          "expanded_url": "https://x.com/Mintink3/status/2088276815936888874/video/1",
+          "media_key": "3_2088276796722786304",
+          "start": 117,
+          "url": "https://t.co/9TrTqMO9Du"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088276815936888874",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088276796697677825"
+      },
+      {
+        "media_key": "3_2088276796714418176"
+      },
+      {
+        "media_key": "13_2088276796731232256"
+      },
+      {
+        "media_key": "3_2088276796722786304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不知不觉这么多fo了，写个新置顶吧。\n\n你好，我是Beatrice，生理心理女，双性恋，LGBT友好。可以叫我贝阿朵莉切\n\np1我属性，p2p3我脸，p4谢谢你的赞助！\n\n我是互关全肯定的，我看到互关就赞，我很温良，不参与任何吵架。 https://t.co/9TrTqMO9Du"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088276796697677825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsMrrPbEAEhoNn.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088276796714418176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsMrrTagAAhiJk.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 5131,
+        "height": 1280,
+        "media_key": "13_2088276796731232256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088276796731232256/img/nmo0dGw24cp_TnHQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088276796731232256/vid/avc1/320x568/jk-PLw9PnFwqBIwg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088276796731232256/vid/avc1/480x852/-drt-bUpapCE6U84.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088276796731232256/vid/avc1/720x1280/2iKX936zYA_IkuBb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088276796731232256/pl/EmFWuEqlRXMqX1pY.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2088276796722786304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsMrrVaMAAmDnA.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088276796697677825",
+            "3_2088276796714418176",
+            "13_2088276796731232256",
+            "3_2088276796722786304"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2088276815936888874",
+        "created_at": "2026-08-14T14:49:25.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088276815936888874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9TrTqMO9Du",
+              "end": 140,
+              "expanded_url": "https://x.com/Mintink3/status/2088276815936888874/video/1",
+              "media_key": "3_2088276796697677825",
+              "start": 117,
+              "url": "https://t.co/9TrTqMO9Du"
+            },
+            {
+              "display_url": "pic.x.com/9TrTqMO9Du",
+              "end": 140,
+              "expanded_url": "https://x.com/Mintink3/status/2088276815936888874/video/1",
+              "media_key": "3_2088276796714418176",
+              "start": 117,
+              "url": "https://t.co/9TrTqMO9Du"
+            },
+            {
+              "display_url": "pic.x.com/9TrTqMO9Du",
+              "end": 140,
+              "expanded_url": "https://x.com/Mintink3/status/2088276815936888874/video/1",
+              "media_key": "13_2088276796731232256",
+              "start": 117,
+              "url": "https://t.co/9TrTqMO9Du"
+            },
+            {
+              "display_url": "pic.x.com/9TrTqMO9Du",
+              "end": 140,
+              "expanded_url": "https://x.com/Mintink3/status/2088276815936888874/video/1",
+              "media_key": "3_2088276796722786304",
+              "start": 117,
+              "url": "https://t.co/9TrTqMO9Du"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088276815936888874",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088276796697677825"
+          },
+          {
+            "media_key": "3_2088276796714418176"
+          },
+          {
+            "media_key": "13_2088276796731232256"
+          },
+          {
+            "media_key": "3_2088276796722786304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知不觉这么多fo了，写个新置顶吧。\n\n你好，我是Beatrice，生理心理女，双性恋，LGBT友好。可以叫我贝阿朵莉切\n\np1我属性，p2p3我脸，p4谢谢你的赞助！\n\n我是互关全肯定的，我看到互关就赞，我很温良，不参与任何吵架。 https://t.co/9TrTqMO9Du"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2088276815936888874",
+        "name": "Beatrice",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 0,
+          "like_count": 7371,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1142
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

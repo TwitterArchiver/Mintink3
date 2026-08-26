@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070127663176687616"
+      ],
+      "media_source_tweet_id": [
+        "2070127667446477196"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2074182236333875607",
+    "created_at": "2026-07-06T17:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T18:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074182236333875607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1322936189381349379",
+          "start": 3,
+          "username": "hx_xux"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dgCaA4o7wn",
+          "end": 60,
+          "expanded_url": "https://x.com/hx_xux/status/2070127667446477196/photo/1",
+          "media_key": "3_2070127663176687616",
+          "start": 37,
+          "url": "https://t.co/dgCaA4o7wn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074182236333875607",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070127667446477196",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hx_xux: おやすみなさい、全ての夢がさよならであるように。 https://t.co/dgCaA4o7wn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2070127663176687616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqSJENbIAA2I72.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070127663176687616"
+          ],
+          "media_source_tweet_id": [
+            "2070127667446477196"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2074182236333875607",
+        "created_at": "2026-07-06T17:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074182236333875607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1322936189381349379",
+              "start": 3,
+              "username": "hx_xux"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dgCaA4o7wn",
+              "end": 60,
+              "expanded_url": "https://x.com/hx_xux/status/2070127667446477196/photo/1",
+              "media_key": "3_2070127663176687616",
+              "start": 37,
+              "url": "https://t.co/dgCaA4o7wn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074182236333875607",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070127667446477196",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hx_xux: おやすみなさい、全ての夢がさよならであるように。 https://t.co/dgCaA4o7wn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070127663176687616"
+          ]
+        },
+        "author_id": "1322936189381349379",
+        "conversation_id": "2070127667446477196",
+        "created_at": "2026-06-25T12:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070127667446477196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dgCaA4o7wn",
+              "end": 48,
+              "expanded_url": "https://x.com/hx_xux/status/2070127667446477196/photo/1",
+              "media_key": "3_2070127663176687616",
+              "start": 25,
+              "url": "https://t.co/dgCaA4o7wn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070127667446477196",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 14129,
+          "like_count": 598,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "おやすみなさい、全ての夢がさよならであるように。 https://t.co/dgCaA4o7wn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 焦虑 165cm/40kg 地雷女 餐券女休学 现在做夜场营销",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "1525682758399299585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070170784270794752/Sm0ogbFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 713,
+          "like_count": 4542,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 717
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-01T16:19:11.000Z",
+        "description": "心地良ヰ悪夢ヲ魅ｾマセｳ。 PRODUCE:@Sanctum404 SUB:@hx_snxz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Sanctum404"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "username": "hx_snxz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/hx_xux",
+                "end": 23,
+                "expanded_url": "https://lit.link/hx_xux",
+                "start": 0,
+                "url": "https://t.co/G85HNGigsz"
+              }
+            ]
+          }
+        },
+        "id": "1322936189381349379",
+        "location": " #酔教信者 🌫⚖️",
+        "name": "酔狂【Sanctum:404】",
+        "pinned_tweet_id": "2053104368938062002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998726331916533760/Hy-OKaIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19047,
+          "following_count": 415,
+          "like_count": 29258,
+          "listed_count": 85,
+          "media_count": 456,
+          "tweet_count": 5174
+        },
+        "url": "https://t.co/G85HNGigsz",
+        "username": "hx_xux",
+        "verified": false
+      }
+    ]
+  }
+}

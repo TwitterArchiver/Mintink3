@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085455628378718208"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2085455639376224703",
+    "created_at": "2026-08-06T19:59:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T20:59:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085455639376224703"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/V0TP3nUCRi",
+          "end": 54,
+          "expanded_url": "https://x.com/Mintink3/status/2085455639376224703/photo/1",
+          "media_key": "3_2085455628378718208",
+          "start": 31,
+          "url": "https://t.co/V0TP3nUCRi"
+        },
+        {
+          "display_url": "x.com/mintink3/statu…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/mintink3/status/2085379326988714329",
+          "start": 55,
+          "url": "https://t.co/yJr2HZWI8i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085455639376224703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085379326988714329",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "拾得艾斯西酞普兰一盒 他只吃了两颗就丢了  还不是仿制药 😋 https://t.co/V0TP3nUCRi https://t.co/yJr2HZWI8i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085455628378718208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPEG2ERaQAABT2B.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085379319698960384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDBcUSaMAAV9bt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085455628378718208"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2085455639376224703",
+        "created_at": "2026-08-06T19:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T20:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085455639376224703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V0TP3nUCRi",
+              "end": 54,
+              "expanded_url": "https://x.com/Mintink3/status/2085455639376224703/photo/1",
+              "media_key": "3_2085455628378718208",
+              "start": 31,
+              "url": "https://t.co/V0TP3nUCRi"
+            },
+            {
+              "display_url": "x.com/mintink3/statu…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/mintink3/status/2085379326988714329",
+              "start": 55,
+              "url": "https://t.co/yJr2HZWI8i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085455639376224703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085379326988714329",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拾得艾斯西酞普兰一盒 他只吃了两颗就丢了  还不是仿制药 😋 https://t.co/V0TP3nUCRi https://t.co/yJr2HZWI8i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085379319698960384"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2085379326988714329",
+        "created_at": "2026-08-06T14:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085379326988714329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YLBRDCBewA",
+              "end": 139,
+              "expanded_url": "https://x.com/Mintink3/status/2085379326988714329/photo/1",
+              "media_key": "3_2085379319698960384",
+              "start": 116,
+              "url": "https://t.co/YLBRDCBewA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085379326988714329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4253,
+          "like_count": 48,
+          "quote_count": 4,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我发现小区的有害垃圾桶里的药盒子里面都不是空的 ，而且这些药基本都没有过期 \n！如果我想省点钱 ，可以直接回收里面的舍曲林 奥美拉挫 （抗胃酸）左西替利嗪（治疗过敏）甚至还有阿普唑仑  我打算等晚点再去翻翻，底下说不定还有更好的药 https://t.co/YLBRDCBewA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 839,
+          "like_count": 6312,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 972
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,578 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2086696735506890941",
+    "created_at": "2026-08-10T06:10:45.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T07:10:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086696735506890941"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 40,
+          "tag": "GenshinImpact"
+        },
+        {
+          "end": 63,
+          "start": 56,
+          "tag": "Furina"
+        },
+        {
+          "end": 68,
+          "start": 64,
+          "tag": "芙宁娜"
+        },
+        {
+          "end": 74,
+          "start": 69,
+          "tag": "芙卡洛斯"
+        },
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "原神"
+        },
+        {
+          "end": 94,
+          "start": 79,
+          "tag": "Genshin_Impact"
+        },
+        {
+          "end": 103,
+          "start": 95,
+          "tag": "genshin"
+        },
+        {
+          "end": 113,
+          "start": 104,
+          "tag": "Focalors"
+        },
+        {
+          "end": 127,
+          "start": 114,
+          "tag": "GothicLolita"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1079976045476864006",
+          "start": 3,
+          "username": "_Yukiri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086696735506890941",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 168
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084513492036730986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Yukiri: Summer Rhythm Devil Furina\n#GenshinImpact  #Furina #芙宁娜 #芙卡洛斯 #原神 #Genshin_Impact #genshin #Focalors #GothicLolita https://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084513481290858496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2t943awAA2fFb.jpg",
+        "width": 1493
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2086696735506890941",
+        "created_at": "2026-08-10T06:10:45.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T07:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086696735506890941"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 40,
+              "tag": "GenshinImpact"
+            },
+            {
+              "end": 63,
+              "start": 56,
+              "tag": "Furina"
+            },
+            {
+              "end": 68,
+              "start": 64,
+              "tag": "芙宁娜"
+            },
+            {
+              "end": 74,
+              "start": 69,
+              "tag": "芙卡洛斯"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "原神"
+            },
+            {
+              "end": 94,
+              "start": 79,
+              "tag": "Genshin_Impact"
+            },
+            {
+              "end": 103,
+              "start": 95,
+              "tag": "genshin"
+            },
+            {
+              "end": 113,
+              "start": 104,
+              "tag": "Focalors"
+            },
+            {
+              "end": 127,
+              "start": 114,
+              "tag": "GothicLolita"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1079976045476864006",
+              "start": 3,
+              "username": "_Yukiri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086696735506890941",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 168
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084513492036730986",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Yukiri: Summer Rhythm Devil Furina\n#GenshinImpact  #Furina #芙宁娜 #芙卡洛斯 #原神 #Genshin_Impact #genshin #Focalors #GothicLolita https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084513481290858496"
+          ]
+        },
+        "author_id": "1079976045476864006",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2084513492036730986",
+        "created_at": "2026-08-04T05:35:19.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-04T06:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084513492036730986"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 27,
+              "tag": "GenshinImpact"
+            },
+            {
+              "end": 50,
+              "start": 43,
+              "tag": "Furina"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "芙宁娜"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "芙卡洛斯"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "原神"
+            },
+            {
+              "end": 81,
+              "start": 66,
+              "tag": "Genshin_Impact"
+            },
+            {
+              "end": 90,
+              "start": 82,
+              "tag": "genshin"
+            },
+            {
+              "end": 100,
+              "start": 91,
+              "tag": "Focalors"
+            },
+            {
+              "end": 114,
+              "start": 101,
+              "tag": "GothicLolita"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vY8Tj5CKpo",
+              "end": 138,
+              "expanded_url": "https://x.com/_Yukiri/status/2084513492036730986/photo/1",
+              "media_key": "3_2084513481290858496",
+              "start": 115,
+              "url": "https://t.co/vY8Tj5CKpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084513492036730986",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2084513481290858496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 209,
+          "impression_count": 12993,
+          "like_count": 1794,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 168
+        },
+        "reply_settings": "everyone",
+        "text": "Summer Rhythm Devil Furina\n#GenshinImpact  #Furina #芙宁娜 #芙卡洛斯 #原神 #Genshin_Impact #genshin #Focalors #GothicLolita https://t.co/vY8Tj5CKpo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2086696735506890941",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 895,
+          "like_count": 6810,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1059
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-01-01T05:42:09.000Z",
+        "description": "画师 全平台同名\n感谢喜欢我的画ฅ(•ㅅ•❄)ฅ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/12897530",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/12897530",
+                "start": 0,
+                "url": "https://t.co/QnS2oHaaSs"
+              }
+            ]
+          }
+        },
+        "id": "1079976045476864006",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2084513492036730986",
+        "name": "雪理Yukiri",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079976045476864006/1685176748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662377741642235913/6RhH5Akf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21804,
+          "following_count": 699,
+          "like_count": 443,
+          "listed_count": 165,
+          "media_count": 140,
+          "tweet_count": 206
+        },
+        "url": "https://t.co/QnS2oHaaSs",
+        "username": "_Yukiri",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

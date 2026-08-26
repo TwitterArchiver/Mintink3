@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073319003402260480"
+      ],
+      "media_source_tweet_id": [
+        "2073319009488097525"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2073488197607440696",
+    "created_at": "2026-07-04T19:24:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T20:24:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073488197607440696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1715938799023464448",
+          "start": 3,
+          "username": "flpzw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uGzmKY8Jsg",
+          "end": 38,
+          "expanded_url": "https://x.com/flpzw/status/2073319009488097525/photo/1",
+          "media_key": "3_2073319003402260480",
+          "start": 15,
+          "url": "https://t.co/uGzmKY8Jsg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073488197607440696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 128
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073319009488097525",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @flpzw: にゃん https://t.co/uGzmKY8Jsg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073319003402260480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXopg_b0AAU6xP.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073319003402260480"
+          ],
+          "media_source_tweet_id": [
+            "2073319009488097525"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2073488197607440696",
+        "created_at": "2026-07-04T19:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T20:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073488197607440696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1715938799023464448",
+              "start": 3,
+              "username": "flpzw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uGzmKY8Jsg",
+              "end": 38,
+              "expanded_url": "https://x.com/flpzw/status/2073319009488097525/photo/1",
+              "media_key": "3_2073319003402260480",
+              "start": 15,
+              "url": "https://t.co/uGzmKY8Jsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073488197607440696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073319009488097525",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @flpzw: にゃん https://t.co/uGzmKY8Jsg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073319003402260480"
+          ]
+        },
+        "author_id": "1715938799023464448",
+        "conversation_id": "2073319009488097525",
+        "created_at": "2026-07-04T08:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T09:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073319009488097525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uGzmKY8Jsg",
+              "end": 27,
+              "expanded_url": "https://x.com/flpzw/status/2073319009488097525/photo/1",
+              "media_key": "3_2073319003402260480",
+              "start": 4,
+              "url": "https://t.co/uGzmKY8Jsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073319009488097525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 436,
+          "impression_count": 83394,
+          "like_count": 9286,
+          "quote_count": 17,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "reply_settings": "following",
+        "text": "にゃん https://t.co/uGzmKY8Jsg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 焦虑 165cm/40kg 地雷女 餐券女休学 现在做夜场营销",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "1525682758399299585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070170784270794752/Sm0ogbFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 709,
+          "like_count": 4406,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 700
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-22T03:51:37.000Z",
+        "description": "🗝@nfq0z♡リットリンクに別垢貼ってます♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 1,
+                "username": "nfq0z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/flpzw",
+                "end": 23,
+                "expanded_url": "https://lit.link/flpzw",
+                "start": 0,
+                "url": "https://t.co/nU6x96THQC"
+              }
+            ]
+          }
+        },
+        "id": "1715938799023464448",
+        "name": "にゅ",
+        "pinned_tweet_id": "2072215906554691779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943217381687373824/cYkLApXt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14762,
+          "following_count": 62,
+          "like_count": 1093,
+          "listed_count": 27,
+          "media_count": 39,
+          "tweet_count": 78
+        },
+        "url": "https://t.co/nU6x96THQC",
+        "username": "flpzw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2070177081674313799",
+    "created_at": "2026-06-25T16:07:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T17:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070177081674313799"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070177081674313799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "住院以来我的体重已不足40kg，我因为od了14t美金刚 2t思诺思 4t右佐匹克隆 6t普瑞巴林4t西酞普兰住院的第四天 。我每天挂六七袋水，血管都萎缩了，两只手轮流开留置针和抽血，因为长期od导致血管萎缩血管太细，左手甚至开了五个洞，每天打针也是非常痛苦，钾钙钠镁一起打痛死我了，我再也不吃美金刚了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2070177081674313799",
+        "created_at": "2026-06-25T16:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T17:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070177081674313799"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070177081674313799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "住院以来我的体重已不足40kg，我因为od了14t美金刚 2t思诺思 4t右佐匹克隆 6t普瑞巴林4t西酞普兰住院的第四天 。我每天挂六七袋水，血管都萎缩了，两只手轮流开留置针和抽血，因为长期od导致血管萎缩血管太细，左手甚至开了五个洞，每天打针也是非常痛苦，钾钙钠镁一起打痛死我了，我再也不吃美金刚了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 休学 夜场营销",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "1525682758399299585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070170784270794752/Sm0ogbFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 699,
+          "like_count": 4195,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 672
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      }
+    ]
+  }
+}

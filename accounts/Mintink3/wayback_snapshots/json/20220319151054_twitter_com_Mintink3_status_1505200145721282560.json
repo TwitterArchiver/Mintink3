@@ -1,0 +1,203 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Mar 19 15:10:54 +0000 2022",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/1…",
+        "expanded_url": "https://twitter.com/i/web/status/1505200145721282560",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/BeAd3cZF7B"
+      }
+    ],
+    "user_mentions": []
+  },
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      180
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            160,
+            167
+          ],
+          "text": "RNGWIN"
+        },
+        {
+          "indices": [
+            168,
+            175
+          ],
+          "text": "xiaohu"
+        },
+        {
+          "indices": [
+            176,
+            180
+          ],
+          "text": "李元浩"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/hahOgzyDWn",
+          "expanded_url": "https://twitter.com/Mintink3/status/1505200145721282560/photo/1",
+          "id": 1505200118613491712,
+          "id_str": "1505200118613491712",
+          "indices": [
+            181,
+            204
+          ],
+          "media_url": "http://pbs.twimg.com/media/FOOLiHHVQAAtkpR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FOOLiHHVQAAtkpR.jpg",
+          "sizes": {
+            "large": {
+              "h": 737,
+              "resize": "fit",
+              "w": 1310
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/hahOgzyDWn"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/hahOgzyDWn",
+          "expanded_url": "https://twitter.com/Mintink3/status/1505200145721282560/photo/1",
+          "id": 1505200118613491712,
+          "id_str": "1505200118613491712",
+          "indices": [
+            181,
+            204
+          ],
+          "media_url": "http://pbs.twimg.com/media/FOOLiHHVQAAtkpR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FOOLiHHVQAAtkpR.jpg",
+          "sizes": {
+            "large": {
+              "h": 737,
+              "resize": "fit",
+              "w": 1310
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/hahOgzyDWn"
+        }
+      ]
+    },
+    "full_text": "Congratulations to Xiaohu for his 2500 kill in LPL!🎉\n1 kill - Xerath\n500 kill - Varus\n1000 kill - Taliyah\n1500 kill - Zoe \n2000 kill - Gnar\n2500 kill - Orianna\n#RNGWIN\n#xiaohu\n#李元浩 https://t.co/hahOgzyDWn"
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1505200145721282560,
+  "id_str": "1505200145721282560",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "Congratulations to Xiaohu for his 2500 kill in LPL!🎉\n1 kill - Xerath\n500 kill - Varus\n1000 kill - Taliyah\n1500 kill… https://t.co/BeAd3cZF7B",
+  "timestamp_ms": "1647702654663",
+  "truncated": true,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Mon Feb 14 00:17:01 +0000 2022",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "gumayusi❤️faker❤️xiaohu❤️chovy❤️clid❤️rich❤️2021DK\nBIGBANG",
+    "favourites_count": 341,
+    "follow_request_sent": null,
+    "followers_count": 1,
+    "following": null,
+    "friends_count": 165,
+    "geo_enabled": false,
+    "id": 1493016356182056961,
+    "id_str": "1493016356182056961",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "Mintink",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1644805845",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1493049450993893376/nVUUfNSv_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1493049450993893376/nVUUfNSv_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "Mintink3",
+    "statuses_count": 151,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

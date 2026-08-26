@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2083907249010012322",
+    "created_at": "2026-08-02T13:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083907249010012322"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mintink3/statu…",
+          "end": 152,
+          "expanded_url": "https://twitter.com/mintink3/status/2083884445170585711",
+          "start": 129,
+          "url": "https://t.co/G7BF4Higq4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083907249010012322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083884445170585711",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "医生说我是晒太阳晒过敏的😂\n我三点不涂防晒跑出去骑行一小时\n然后就开始很痒起疹子 脸也痒 脸都晒红了\n医生说我免疫力低 长期不晒太阳 突然晒太阳又出汗过敏了  还有点胆碱性寻麻疹\n我以前在学校跑步也是很痒 我之前一直以为是我校服过敏 之前校医都给我涂炉甘石 https://t.co/G7BF4Higq4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2083884438266712065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtx2w_aEAEskQO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2083884438220570624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtx2w0aAAAmnCb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2083907249010012322",
+        "created_at": "2026-08-02T13:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083907249010012322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mintink3/statu…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/mintink3/status/2083884445170585711",
+              "start": 129,
+              "url": "https://t.co/G7BF4Higq4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083907249010012322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083884445170585711",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "医生说我是晒太阳晒过敏的😂\n我三点不涂防晒跑出去骑行一小时\n然后就开始很痒起疹子 脸也痒 脸都晒红了\n医生说我免疫力低 长期不晒太阳 突然晒太阳又出汗过敏了  还有点胆碱性寻麻疹\n我以前在学校跑步也是很痒 我之前一直以为是我校服过敏 之前校医都给我涂炉甘石 https://t.co/G7BF4Higq4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083884438266712065",
+            "3_2083884438220570624"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083884445170585711",
+        "created_at": "2026-08-02T11:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083884445170585711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I4oDDQDmXT",
+              "end": 164,
+              "expanded_url": "https://x.com/Mintink3/status/2083884445170585711/photo/1",
+              "media_key": "3_2083884438266712065",
+              "start": 141,
+              "url": "https://t.co/I4oDDQDmXT"
+            },
+            {
+              "display_url": "pic.x.com/I4oDDQDmXT",
+              "end": 164,
+              "expanded_url": "https://x.com/Mintink3/status/2083884445170585711/photo/1",
+              "media_key": "3_2083884438220570624",
+              "start": 141,
+              "url": "https://t.co/I4oDDQDmXT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083884445170585711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是什么 我不知道跟od有没有关系\n我昨天只吃了阿普 文拉法辛 天麻素和一点加巴\n我跑了两公里就浑身痒然后就发现了小红点\n痒 是平面的小红点没有凸起 \n我可以确认不是艾滋梅毒等性病 我一个月前住院刚做了四项检查 今年我亲过嘴睡过的就一个人 而且是很久之前了 他也经常做检查没有性病 https://t.co/I4oDDQDmXT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 783,
+          "like_count": 5806,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 905
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      }
+    ]
+  }
+}

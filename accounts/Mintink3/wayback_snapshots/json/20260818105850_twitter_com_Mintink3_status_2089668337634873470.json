@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2089627685580685631",
+    "created_at": "2026-08-18T10:58:50.000Z",
+    "display_text_range": [
+      11,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T11:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089668337634873470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1961527547344424962",
+          "start": 0,
+          "username": "shuyo0722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089668337634873470",
+    "in_reply_to_user_id": "1961527547344424962",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089661749767376979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuyo0722 阿迪外套实在是太百搭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2089627685580685631",
+        "created_at": "2026-08-18T10:58:50.000Z",
+        "display_text_range": [
+          11,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089668337634873470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1961527547344424962",
+              "start": 0,
+              "username": "shuyo0722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089668337634873470",
+        "in_reply_to_user_id": "1961527547344424962",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089661749767376979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuyo0722 阿迪外套实在是太百搭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961527547344424962",
+        "conversation_id": "2089627685580685631",
+        "created_at": "2026-08-18T10:32:39.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089661749767376979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089661749767376979",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089627685580685631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 这个外套好萌"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2089668337634873470",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 987,
+          "like_count": 7739,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1205
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-29T20:33:16.000Z",
+        "description": "我最近真的很想死，是真的想去死了",
+        "id": "1961527547344424962",
+        "is_identity_verified": false,
+        "location": "7.2km",
+        "most_recent_tweet_id": "2089664288336294383",
+        "name": "施迤_shuyo@無言購読アカウント",
+        "pinned_tweet_id": "2089018385338446140",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1961527547344424962/1756501394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087678105272176641/U3eW2GJQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 45,
+          "like_count": 4143,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1987
+        },
+        "url": "",
+        "username": "shuyo0722",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

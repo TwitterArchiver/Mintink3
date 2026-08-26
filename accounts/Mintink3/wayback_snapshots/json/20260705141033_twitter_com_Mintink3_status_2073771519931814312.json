@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073771505645961216"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2073771519931814312",
+    "created_at": "2026-07-05T14:10:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:10:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073771519931814312"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 14,
+          "tag": "地雷系"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h0C45VJmuw",
+          "end": 42,
+          "expanded_url": "https://x.com/Mintink3/status/2073771519931814312/photo/1",
+          "media_key": "3_2073771505645961216",
+          "start": 19,
+          "url": "https://t.co/h0C45VJmuw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073771519931814312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我宣布紫色魔爪是最好喝的 \n#地雷系 https://t.co/h0C45VJmuw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073771505645961216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeEMnNawAAWOmM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073771505645961216"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2073771519931814312",
+        "created_at": "2026-07-05T14:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073771519931814312"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "地雷系"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h0C45VJmuw",
+              "end": 42,
+              "expanded_url": "https://x.com/Mintink3/status/2073771519931814312/photo/1",
+              "media_key": "3_2073771505645961216",
+              "start": 19,
+              "url": "https://t.co/h0C45VJmuw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073771519931814312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我宣布紫色魔爪是最好喝的 \n#地雷系 https://t.co/h0C45VJmuw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 焦虑 165cm/40kg 地雷女 餐券女休学 现在做夜场营销",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "1525682758399299585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070170784270794752/Sm0ogbFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 710,
+          "like_count": 4421,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 707
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      }
+    ]
+  }
+}

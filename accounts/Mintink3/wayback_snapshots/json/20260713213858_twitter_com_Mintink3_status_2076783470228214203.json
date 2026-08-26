@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076783453102891008"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2076783470228214203",
+    "created_at": "2026-07-13T21:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T22:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076783470228214203"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 9,
+          "tag": "drugtwt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sJlIzUTVU2",
+          "end": 41,
+          "expanded_url": "https://x.com/Mintink3/status/2076783470228214203/video/1",
+          "media_key": "13_2076783453102891008",
+          "start": 18,
+          "url": "https://t.co/sJlIzUTVU2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076783470228214203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "替来他明重度依赖 #drugtwt https://t.co/sJlIzUTVU2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4944,
+        "height": 1280,
+        "media_key": "13_2076783453102891008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076783453102891008/img/UQyWxdm-Uh9uwuXx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076783453102891008/vid/avc1/320x568/0JfamqSGPOzNdNKg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076783453102891008/vid/avc1/480x852/FkK-aQf6F4o_L6vK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076783453102891008/vid/avc1/720x1280/WBCyh-rChGXkYWXx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076783453102891008/pl/PNlm8y57yVfdZZ1I.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076783453102891008"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2076783470228214203",
+        "created_at": "2026-07-13T21:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T22:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076783470228214203"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 9,
+              "tag": "drugtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sJlIzUTVU2",
+              "end": 41,
+              "expanded_url": "https://x.com/Mintink3/status/2076783470228214203/video/1",
+              "media_key": "13_2076783453102891008",
+              "start": 18,
+              "url": "https://t.co/sJlIzUTVU2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076783470228214203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "替来他明重度依赖 #drugtwt https://t.co/sJlIzUTVU2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 地雷女 餐券女休学 现在做夜场营销",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "1525682758399299585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074830597709840384/kJeKJqLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 723,
+          "like_count": 4792,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 737
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2085721867420049408"
+      ],
+      "media_source_tweet_id": [
+        "2085721885937901683"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2085758518171447562",
+    "created_at": "2026-08-07T16:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T17:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085758518171447562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1880402332141121536",
+          "start": 3,
+          "username": "04_anira"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ufowhJu3k0",
+          "end": 60,
+          "expanded_url": "https://x.com/04_anira/status/2085721885937901683/video/1",
+          "media_key": "13_2085721867420049408",
+          "start": 37,
+          "url": "https://t.co/ufowhJu3k0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085758518171447562",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 152
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085721885937901683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @04_anira: Who’s this divvvaaaaaa https://t.co/ufowhJu3k0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2188,
+        "height": 1280,
+        "media_key": "13_2085721867420049408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085721867420049408/img/G_KBO8_8ut1Y_uDJ.jpg",
+        "public_metrics": {
+          "view_count": 6761
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085721867420049408/vid/avc1/320x594/OV-qU0IJD1ZAaihl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085721867420049408/vid/avc1/480x892/0ZamyBZIkfPB7mUh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085721867420049408/vid/avc1/688x1280/tlKgpPCSYqvddHzq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085721867420049408/pl/x-Yin-ej20kgaGCH.m3u8"
+          }
+        ],
+        "width": 688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085721867420049408"
+          ]
+        },
+        "author_id": "1880402332141121536",
+        "conversation_id": "2085721885937901683",
+        "created_at": "2026-08-07T13:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085721885937901683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ufowhJu3k0",
+              "end": 46,
+              "expanded_url": "https://x.com/04_anira/status/2085721885937901683/video/1",
+              "media_key": "13_2085721867420049408",
+              "start": 23,
+              "url": "https://t.co/ufowhJu3k0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085721885937901683",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 254,
+          "impression_count": 14253,
+          "like_count": 2196,
+          "quote_count": 20,
+          "reply_count": 4,
+          "retweet_count": 152
+        },
+        "reply_settings": "everyone",
+        "text": "Who’s this divvvaaaaaa https://t.co/ufowhJu3k0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085721867420049408"
+          ],
+          "media_source_tweet_id": [
+            "2085721885937901683"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2085758518171447562",
+        "created_at": "2026-08-07T16:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085758518171447562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880402332141121536",
+              "start": 3,
+              "username": "04_anira"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ufowhJu3k0",
+              "end": 60,
+              "expanded_url": "https://x.com/04_anira/status/2085721885937901683/video/1",
+              "media_key": "13_2085721867420049408",
+              "start": 37,
+              "url": "https://t.co/ufowhJu3k0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085758518171447562",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 152
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085721885937901683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @04_anira: Who’s this divvvaaaaaa https://t.co/ufowhJu3k0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 856,
+          "like_count": 6432,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 983
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T23:50:44.000Z",
+        "description": "They all warned us about times like this\nThey say the road gets hard and you get \nWhen you're led by blind faith\nblind faith……..",
+        "id": "1880402332141121536",
+        "location": "Iraq",
+        "name": "E ANIRA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078994677802450944/8MUHxL0B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 43,
+          "like_count": 363,
+          "listed_count": 1,
+          "media_count": 557,
+          "tweet_count": 1790
+        },
+        "url": "",
+        "username": "04_anira",
+        "verified": false
+      }
+    ]
+  }
+}

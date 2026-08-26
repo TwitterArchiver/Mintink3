@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2090181906612801692",
+    "created_at": "2026-08-19T21:21:33.000Z",
+    "display_text_range": [
+      11,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T22:21:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090187438182597040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1815253637985443840",
+          "start": 0,
+          "username": "HASUMI117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090187438182597040",
+    "in_reply_to_user_id": "1815253637985443840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090187025374982646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HASUMI117 没有的  不过客户都会给吉利的数字"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2090181906612801692",
+        "created_at": "2026-08-19T21:21:33.000Z",
+        "display_text_range": [
+          11,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T22:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090187438182597040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1815253637985443840",
+              "start": 0,
+              "username": "HASUMI117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090187438182597040",
+        "in_reply_to_user_id": "1815253637985443840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090187025374982646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HASUMI117 没有的  不过客户都会给吉利的数字"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815253637985443840",
+        "conversation_id": "2090181906612801692",
+        "created_at": "2026-08-19T21:19:55.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T22:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090187025374982646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090187025374982646",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090181906612801692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 七夕有加班费吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2090187438182597040",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 997,
+          "like_count": 7899,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1223
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-22T05:13:01.000Z",
+        "description": "isfj-t｜天蝎座\n欢迎大家留言：https://t.co/YcwUUBK7pZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hasumi33027",
+                "end": 41,
+                "expanded_url": "https://ngl.link/hasumi33027",
+                "start": 18,
+                "url": "https://t.co/YcwUUBK7pZ"
+              }
+            ]
+          }
+        },
+        "id": "1815253637985443840",
+        "is_identity_verified": false,
+        "location": "北京朝阳区",
+        "most_recent_tweet_id": "2090187025374982646",
+        "name": "HASUMI",
+        "pinned_tweet_id": "1815740856013574421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1815253637985443840/1721638123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821856172485570561/tZFR-wb__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 1471,
+          "like_count": 4219,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 1847
+        },
+        "url": "",
+        "username": "HASUMI117",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

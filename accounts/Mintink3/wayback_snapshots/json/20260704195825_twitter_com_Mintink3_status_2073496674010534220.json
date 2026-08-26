@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1760268489095626752"
+      ],
+      "media_source_tweet_id": [
+        "1760268493981876366"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2073496674010534220",
+    "created_at": "2026-07-04T19:58:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T20:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073496674010534220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2239804027",
+          "start": 3,
+          "username": "neko_pushio"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hXMCSIYJuS",
+          "end": 46,
+          "expanded_url": "https://x.com/neko_pushio/status/1760268493981876366/photo/1",
+          "media_key": "3_1760268489095626752",
+          "start": 23,
+          "url": "https://t.co/hXMCSIYJuS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073496674010534220",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1244
+    },
+    "referenced_tweets": [
+      {
+        "id": "1760268493981876366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neko_pushio: 地雷系男子 https://t.co/hXMCSIYJuS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1760268489095626752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GG263VHbwAAFJkx.jpg",
+        "width": 1428
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1760268489095626752"
+          ],
+          "media_source_tweet_id": [
+            "1760268493981876366"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2073496674010534220",
+        "created_at": "2026-07-04T19:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T20:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073496674010534220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2239804027",
+              "start": 3,
+              "username": "neko_pushio"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hXMCSIYJuS",
+              "end": 46,
+              "expanded_url": "https://x.com/neko_pushio/status/1760268493981876366/photo/1",
+              "media_key": "3_1760268489095626752",
+              "start": 23,
+              "url": "https://t.co/hXMCSIYJuS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073496674010534220",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1244
+        },
+        "referenced_tweets": [
+          {
+            "id": "1760268493981876366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neko_pushio: 地雷系男子 https://t.co/hXMCSIYJuS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1760268489095626752"
+          ]
+        },
+        "author_id": "2239804027",
+        "conversation_id": "1760268493981876366",
+        "created_at": "2024-02-21T11:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-02-21T12:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1760268493981876366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hXMCSIYJuS",
+              "end": 29,
+              "expanded_url": "https://x.com/neko_pushio/status/1760268493981876366/photo/1",
+              "media_key": "3_1760268489095626752",
+              "start": 6,
+              "url": "https://t.co/hXMCSIYJuS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1760268493981876366",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1589,
+          "impression_count": 545885,
+          "like_count": 11246,
+          "quote_count": 57,
+          "reply_count": 19,
+          "retweet_count": 1244
+        },
+        "reply_settings": "everyone",
+        "text": "地雷系男子 https://t.co/hXMCSIYJuS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 焦虑 165cm/40kg 地雷女 餐券女休学 现在做夜场营销",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "1525682758399299585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070170784270794752/Sm0ogbFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 709,
+          "like_count": 4420,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 705
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-10T21:40:05.000Z",
+        "description": "フリーランスイラストレーター ラノベ挿絵等(MF文庫J/電撃文庫) 仕事実績はハイライトにて　FANBOX→ https://t.co/kcfrTG4WNL 2027年1月〜のお仕事受付中✉️(現在個人様🆖)nekopushi.contact@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pushiobox.fanbox.cc",
+                "end": 78,
+                "expanded_url": "https://pushiobox.fanbox.cc",
+                "start": 55,
+                "url": "https://t.co/kcfrTG4WNL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/7692188",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/7692188",
+                "start": 0,
+                "url": "https://t.co/8PWDPzwUaF"
+              }
+            ]
+          }
+        },
+        "id": "2239804027",
+        "name": "猫屋敷ぷしお",
+        "pinned_tweet_id": "2065388781637947545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064380282476941312/cW63pigZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214818,
+          "following_count": 699,
+          "like_count": 47193,
+          "listed_count": 1839,
+          "media_count": 5649,
+          "tweet_count": 166099
+        },
+        "url": "https://t.co/8PWDPzwUaF",
+        "username": "neko_pushio",
+        "verified": true
+      }
+    ]
+  }
+}

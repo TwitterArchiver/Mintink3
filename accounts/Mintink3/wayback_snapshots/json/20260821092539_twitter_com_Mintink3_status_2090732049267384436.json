@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2090730621249470625",
+    "created_at": "2026-08-21T09:25:39.000Z",
+    "display_text_range": [
+      11,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T10:25:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090732049267384436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1747805105200480256",
+          "start": 0,
+          "username": "Laier0418"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090732049267384436",
+    "in_reply_to_user_id": "1747805105200480256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090730621249470625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Laier0418 我抽替来不发情 依然性冷淡 但是会脑壳疼 后脑勺疼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2090730621249470625",
+        "created_at": "2026-08-21T09:25:39.000Z",
+        "display_text_range": [
+          11,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090732049267384436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747805105200480256",
+              "start": 0,
+              "username": "Laier0418"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090732049267384436",
+        "in_reply_to_user_id": "1747805105200480256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090730621249470625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Laier0418 我抽替来不发情 依然性冷淡 但是会脑壳疼 后脑勺疼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747805105200480256",
+        "conversation_id": "2090730621249470625",
+        "created_at": "2026-08-21T09:19:58.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090730621249470625"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090730621249470625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "电子烟这些我不太建议大家去接触 \n我之前在🇰🇭抽的是纯依托 抽的时候很美好 \n但是我抽了一段时间我发现我会突然僵直 比如在酒店的走廊里直接直挺挺的摔倒 走几步好好的就摔倒了 \n这种情况在戒断之后就缓解了，但是\n替来那种我更不建议 \n那个抽完会发情 \n😅更伤脑子一些 认识抽这个的基本都在吃甲钴胺"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2090732049267384436",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 1020,
+          "like_count": 8330,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1254
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-18T02:16:32.000Z",
+        "description": "Entp♈未成年不要关注 \n依托米酯笑气氯胺酮已戒断/双相7年患者目前停了大部分药/努力想做正常人但是总是想o/怀念在🇰🇭的日子/向往的城市是自由的泰兰德和马来西亚/蹲过3天戒毒所😅至今不能考驾照之人",
+        "id": "1747805105200480256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090731630742946147",
+        "name": "Vavvst",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1747805105200480256/1787073574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089764101484638208/EKEtH1Ns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 54,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "Laier0418",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

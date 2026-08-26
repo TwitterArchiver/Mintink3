@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089775864770895872"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2089775872152920093",
+    "created_at": "2026-08-18T18:06:08.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T19:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089775872152920093"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q5MyLD5AAq",
+          "end": 83,
+          "expanded_url": "https://x.com/Mintink3/status/2089775872152920093/photo/1",
+          "media_key": "3_2089775864770895872",
+          "start": 60,
+          "url": "https://t.co/Q5MyLD5AAq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089775872152920093",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089775864770895872"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我愿意把我天天爆单的好运共享给所有跟我一样可爱的地陪陪酒女\n六月七月我闲的发慌 怎么这个月突然爆单了 天天三场都约满了 https://t.co/Q5MyLD5AAq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089775864770895872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBgE6_aoAALe-q.jpg",
+        "width": 688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089775864770895872"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2089775872152920093",
+        "created_at": "2026-08-18T18:06:08.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T19:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089775872152920093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q5MyLD5AAq",
+              "end": 83,
+              "expanded_url": "https://x.com/Mintink3/status/2089775872152920093/photo/1",
+              "media_key": "3_2089775864770895872",
+              "start": 60,
+              "url": "https://t.co/Q5MyLD5AAq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089775872152920093",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089775864770895872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我愿意把我天天爆单的好运共享给所有跟我一样可爱的地陪陪酒女\n六月七月我闲的发慌 怎么这个月突然爆单了 天天三场都约满了 https://t.co/Q5MyLD5AAq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2089775872152920093",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 997,
+          "like_count": 7843,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1213
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

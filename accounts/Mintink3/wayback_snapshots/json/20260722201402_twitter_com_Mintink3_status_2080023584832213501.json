@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079737394224390144"
+      ],
+      "media_source_tweet_id": [
+        "2079737409105727938"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2080023584832213501",
+    "created_at": "2026-07-22T20:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T21:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080023584832213501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1996001379706605568",
+          "start": 3,
+          "username": "priinceferran"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OXoQkVhRYN",
+          "end": 62,
+          "expanded_url": "https://x.com/luvferrii7/status/2079737409105727938/video/1",
+          "media_key": "13_2079737394224390144",
+          "start": 39,
+          "url": "https://t.co/OXoQkVhRYN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080023584832213501",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 978
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079751423592419394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @priinceferran: who else hard asf 👀 https://t.co/OXoQkVhRYN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3866,
+        "height": 550,
+        "media_key": "13_2079737394224390144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079737394224390144/img/WIoRQlBubU-qdU1-.jpg",
+        "public_metrics": {
+          "view_count": 213776
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079737394224390144/vid/avc1/278x270/cO-L36bbpyf1xljF.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079737394224390144/vid/avc1/372x360/ihUT9tqvLdFJZGWf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079737394224390144/vid/avc1/570x550/Y58NkBGuvLt61O5I.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079737394224390144/pl/YcDCKxMvs2ZTeg4C.m3u8"
+          }
+        ],
+        "width": 570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079737394224390144"
+          ]
+        },
+        "author_id": "1510779128626262031",
+        "conversation_id": "2079737409105727938",
+        "created_at": "2026-07-22T01:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T02:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079737409105727938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RbG3c29uim",
+              "end": 39,
+              "expanded_url": "https://x.com/luvferrii7/status/2079737409105727938/video/1",
+              "media_key": "13_2079737394224390144",
+              "start": 16,
+              "url": "https://t.co/RbG3c29uim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079737409105727938",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 252621,
+          "like_count": 362,
+          "quote_count": 25,
+          "reply_count": 10,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "Freaky Ferran 😛 https://t.co/RbG3c29uim"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079737394224390144"
+          ],
+          "media_source_tweet_id": [
+            "2079737409105727938"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2080023584832213501",
+        "created_at": "2026-07-22T20:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T21:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080023584832213501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1996001379706605568",
+              "start": 3,
+              "username": "priinceferran"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OXoQkVhRYN",
+              "end": 62,
+              "expanded_url": "https://x.com/luvferrii7/status/2079737409105727938/video/1",
+              "media_key": "13_2079737394224390144",
+              "start": 39,
+              "url": "https://t.co/OXoQkVhRYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080023584832213501",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 978
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079751423592419394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @priinceferran: who else hard asf 👀 https://t.co/OXoQkVhRYN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079737394224390144"
+          ],
+          "media_source_tweet_id": [
+            "2079737409105727938"
+          ]
+        },
+        "author_id": "1996001379706605568",
+        "conversation_id": "2079751423592419394",
+        "created_at": "2026-07-22T02:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T03:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079751423592419394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OXoQkVhRYN",
+              "end": 43,
+              "expanded_url": "https://x.com/luvferrii7/status/2079737409105727938/video/1",
+              "media_key": "13_2079737394224390144",
+              "start": 20,
+              "url": "https://t.co/OXoQkVhRYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079751423592419394",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4561,
+          "impression_count": 385560,
+          "like_count": 20612,
+          "quote_count": 534,
+          "reply_count": 104,
+          "retweet_count": 978
+        },
+        "reply_settings": "everyone",
+        "text": "who else hard asf 👀 https://t.co/OXoQkVhRYN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074830597709840384/kJeKJqLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 749,
+          "like_count": 5225,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 815
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-02T23:40:11.000Z",
+        "description": "SPAIN WC ‘26 CHAMPS !! \ni run the fedri cuck chair",
+        "id": "1996001379706605568",
+        "location": "she/her - eng/esp",
+        "name": "˖ ֹ੭୧ mia ⊹ ࣪ ⑅ 🇪🇸",
+        "pinned_tweet_id": "2071337134615650604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078989553088565248/qzN_0Imf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 90,
+          "like_count": 3292,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 580
+        },
+        "url": "",
+        "username": "priinceferran",
+        "verified": false
+      }
+    ]
+  }
+}

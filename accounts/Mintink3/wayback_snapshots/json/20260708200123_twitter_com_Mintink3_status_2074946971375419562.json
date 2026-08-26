@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074297741661052928"
+      ],
+      "media_source_tweet_id": [
+        "2074298172953018626"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2074946971375419562",
+    "created_at": "2026-07-08T20:01:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T21:01:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074946971375419562"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 46,
+          "tag": "NEEDY_pic"
+        },
+        {
+          "end": 71,
+          "start": 57,
+          "tag": "超てんちゃん生誕祭2026"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1813630943808409600",
+          "start": 3,
+          "username": "chotenchansuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uLQAHShbUe",
+          "end": 95,
+          "expanded_url": "https://x.com/chotenchansuki/status/2074298172953018626/photo/1",
+          "media_key": "3_2074297741661052928",
+          "start": 72,
+          "url": "https://t.co/uLQAHShbUe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074946971375419562",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 304
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074298172953018626",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chotenchansuki: happy birthday ᜊ( ᴗ͈ˬᴗ͈)ᜊ\n#NEEDY_pic\n#超てんちゃん生誕祭2026 https://t.co/uLQAHShbUe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1671,
+        "media_key": "3_2074297741661052928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMlizlIaIAArOkQ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074297741661052928"
+          ],
+          "media_source_tweet_id": [
+            "2074298172953018626"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2074946971375419562",
+        "created_at": "2026-07-08T20:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T21:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074946971375419562"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 46,
+              "tag": "NEEDY_pic"
+            },
+            {
+              "end": 71,
+              "start": 57,
+              "tag": "超てんちゃん生誕祭2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1813630943808409600",
+              "start": 3,
+              "username": "chotenchansuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uLQAHShbUe",
+              "end": 95,
+              "expanded_url": "https://x.com/chotenchansuki/status/2074298172953018626/photo/1",
+              "media_key": "3_2074297741661052928",
+              "start": 72,
+              "url": "https://t.co/uLQAHShbUe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074946971375419562",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 304
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074298172953018626",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chotenchansuki: happy birthday ᜊ( ᴗ͈ˬᴗ͈)ᜊ\n#NEEDY_pic\n#超てんちゃん生誕祭2026 https://t.co/uLQAHShbUe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074297741661052928"
+          ]
+        },
+        "author_id": "1813630943808409600",
+        "conversation_id": "2074298172953018626",
+        "created_at": "2026-07-07T01:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T02:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074298172953018626"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 26,
+              "tag": "NEEDY_pic"
+            },
+            {
+              "end": 51,
+              "start": 37,
+              "tag": "超てんちゃん生誕祭2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uLQAHShbUe",
+              "end": 75,
+              "expanded_url": "https://x.com/chotenchansuki/status/2074298172953018626/photo/1",
+              "media_key": "3_2074297741661052928",
+              "start": 52,
+              "url": "https://t.co/uLQAHShbUe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074298172953018626",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 12067,
+          "like_count": 1857,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 304
+        },
+        "reply_settings": "everyone",
+        "text": "happy birthday ᜊ( ᴗ͈ˬᴗ͈)ᜊ\n#NEEDY_pic\n#超てんちゃん生誕祭2026 https://t.co/uLQAHShbUe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 睡眠账号165cm/40kg 地雷女 餐券女休学 现在做夜场营销",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "1525682758399299585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074830597709840384/kJeKJqLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 716,
+          "like_count": 4664,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 730
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T17:45:05.000Z",
+        "description": "",
+        "id": "1813630943808409600",
+        "name": "🥺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074298801943355392/mxZ70nil_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 0,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "chotenchansuki",
+        "verified": false
+      }
+    ]
+  }
+}

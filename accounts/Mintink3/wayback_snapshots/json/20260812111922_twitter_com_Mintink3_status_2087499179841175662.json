@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2087318567549313389",
+    "created_at": "2026-08-12T11:19:22.000Z",
+    "display_text_range": [
+      10,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T12:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087499179841175662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1647786811203391488",
+          "start": 0,
+          "username": "metorch2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087499179841175662",
+    "in_reply_to_user_id": "1647786811203391488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087468902414721457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@metorch2 坐公交太慢了 我打车过去都花了两小时🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2087318567549313389",
+        "created_at": "2026-08-12T11:19:22.000Z",
+        "display_text_range": [
+          10,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T12:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087499179841175662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647786811203391488",
+              "start": 0,
+              "username": "metorch2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087499179841175662",
+        "in_reply_to_user_id": "1647786811203391488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087468902414721457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@metorch2 坐公交太慢了 我打车过去都花了两小时🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647786811203391488",
+        "conversation_id": "2087318567549313389",
+        "created_at": "2026-08-12T09:19:04.000Z",
+        "display_text_range": [
+          10,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T10:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087468902414721457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087468902414721457",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087318567549313389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 坐个公交慢慢悠悠过去，路上还能睡会儿"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2087499179841175662",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 922,
+          "like_count": 7186,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1109
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-17T02:19:34.000Z",
+        "description": "喜欢vibecoding的憨憨眼镜宅男一枚\n健身增肌中，别推我美食了\n欢迎互fo",
+        "id": "1647786811203391488",
+        "is_identity_verified": false,
+        "location": "西安",
+        "most_recent_tweet_id": "2087468902414721457",
+        "name": "别偷吃我蛋白粉了",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647786811203391488/1785398894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647787032633282561/UeJ8pg1Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 44,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 282
+        },
+        "url": "",
+        "username": "metorch2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

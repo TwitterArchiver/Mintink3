@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073865563542020097"
+      ],
+      "media_source_tweet_id": [
+        "2073865572329087419"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2074179586666230197",
+    "created_at": "2026-07-06T17:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T18:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074179586666230197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1356072233052086285",
+          "start": 3,
+          "username": "Cualqui67240085"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zRny4HmSQn",
+          "end": 44,
+          "expanded_url": "https://x.com/Cualqui67240085/status/2073865572329087419/photo/1",
+          "media_key": "3_2073865563542020097",
+          "start": 21,
+          "url": "https://t.co/zRny4HmSQn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074179586666230197",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1056
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073865572329087419",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cualqui67240085: https://t.co/zRny4HmSQn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2073865563542020097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMfZvgLWYAEa4A4.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073865563542020097"
+          ],
+          "media_source_tweet_id": [
+            "2073865572329087419"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2074179586666230197",
+        "created_at": "2026-07-06T17:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074179586666230197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1356072233052086285",
+              "start": 3,
+              "username": "Cualqui67240085"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zRny4HmSQn",
+              "end": 44,
+              "expanded_url": "https://x.com/Cualqui67240085/status/2073865572329087419/photo/1",
+              "media_key": "3_2073865563542020097",
+              "start": 21,
+              "url": "https://t.co/zRny4HmSQn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074179586666230197",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1056
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073865572329087419",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cualqui67240085: https://t.co/zRny4HmSQn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073865563542020097"
+          ]
+        },
+        "author_id": "1356072233052086285",
+        "conversation_id": "2073865572329087419",
+        "created_at": "2026-07-05T20:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T21:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073865572329087419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zRny4HmSQn",
+              "end": 23,
+              "expanded_url": "https://x.com/Cualqui67240085/status/2073865572329087419/photo/1",
+              "media_key": "3_2073865563542020097",
+              "start": 0,
+              "url": "https://t.co/zRny4HmSQn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073865572329087419",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 408,
+          "impression_count": 66419,
+          "like_count": 9404,
+          "quote_count": 29,
+          "reply_count": 3,
+          "retweet_count": 1056
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zRny4HmSQn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 焦虑 165cm/40kg 地雷女 餐券女休学 现在做夜场营销",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "1525682758399299585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070170784270794752/Sm0ogbFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 713,
+          "like_count": 4514,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 715
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-01T02:50:10.000Z",
+        "description": "Escriban al DM con confianza, me gusta hablar",
+        "id": "1356072233052086285",
+        "location": "calalini island",
+        "name": "Aubrey paisa",
+        "pinned_tweet_id": "2072371145983111335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072819974251364352/uW7Np2y-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 407,
+          "like_count": 12571,
+          "listed_count": 1,
+          "media_count": 3562,
+          "tweet_count": 14940
+        },
+        "url": "",
+        "username": "Cualqui67240085",
+        "verified": false
+      }
+    ]
+  }
+}

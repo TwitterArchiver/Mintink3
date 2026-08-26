@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2071142125539049606",
+    "created_at": "2026-06-28T08:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T09:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071144567039270958"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071144567039270958",
+    "in_reply_to_user_id": "1493016356182056961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071142125539049606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "dpt试了一点点因为鼻子太痛了所以就停止了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071142115871252480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4sx-_bYAAF6I8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2071142125539049606",
+        "created_at": "2026-06-28T08:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071144567039270958"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071144567039270958",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071142125539049606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "dpt试了一点点因为鼻子太痛了所以就停止了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071142115871252480"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2071142125539049606",
+        "created_at": "2026-06-28T08:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071142125539049606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NVCJ3lHtN8",
+              "end": 174,
+              "expanded_url": "https://x.com/Mintink3/status/2071142125539049606/photo/1",
+              "media_key": "3_2071142115871252480",
+              "start": 151,
+              "url": "https://t.co/NVCJ3lHtN8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071142125539049606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "住院五天回到家我不得不感叹我真是命大真是医学奇迹 我服用了8t普瑞 7t思诺思 7t右佐匹克隆 14t美金刚 20t咽炎片（里面有罂粟壳和麻黄碱）3t布洛芬？？（我外幻断片了不知道为什么吃了这个）若干dxm 一点dpt（非常少）竟然没死 就是被强制住院了五天 还被医院报晶了（好在没有通知家长没被关） https://t.co/NVCJ3lHtN8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 焦虑 165cm/40kg 地雷女 餐券女休学 现在做夜场营销",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "1525682758399299585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070170784270794752/Sm0ogbFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 703,
+          "like_count": 4311,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 682
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      }
+    ]
+  }
+}

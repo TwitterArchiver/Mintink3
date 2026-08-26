@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226166627966976",
+          "name": "Paris Saint-Germain"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226255836598272",
+          "name": "FC Barcelona"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226166627966976",
+          "name": "Paris Saint-Germain"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226255836598272",
+          "name": "FC Barcelona"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226255836598272",
+          "name": "FC Barcelona"
+        }
+      }
+    ],
+    "conversation_id": "2083633060541759798",
+    "created_at": "2026-08-01T19:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T20:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083633060541759798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1018438930138583040",
+          "start": 3,
+          "username": "frikiqueen23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083633060541759798",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083594917696180231",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @frikiqueen23: Cada día dicen una cosa distinta. Ayer mismo el entrenador dijo que contaba con él. Ya no sé a quién creerme… Cómo van a…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226166627966976",
+              "name": "Paris Saint-Germain"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226255836598272",
+              "name": "FC Barcelona"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226166627966976",
+              "name": "Paris Saint-Germain"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226255836598272",
+              "name": "FC Barcelona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226255836598272",
+              "name": "FC Barcelona"
+            }
+          }
+        ],
+        "conversation_id": "2083633060541759798",
+        "created_at": "2026-08-01T19:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T20:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083633060541759798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1018438930138583040",
+              "start": 3,
+              "username": "frikiqueen23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083633060541759798",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083594917696180231",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @frikiqueen23: Cada día dicen una cosa distinta. Ayer mismo el entrenador dijo que contaba con él. Ya no sé a quién creerme… Cómo van a…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1018438930138583040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226166627966976",
+              "name": "Paris Saint-Germain"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226255836598272",
+              "name": "FC Barcelona"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226166627966976",
+              "name": "Paris Saint-Germain"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226255836598272",
+              "name": "FC Barcelona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226255836598272",
+              "name": "FC Barcelona"
+            }
+          }
+        ],
+        "conversation_id": "2083594917696180231",
+        "created_at": "2026-08-01T16:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083594917696180231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/barcatimes/sta…",
+              "end": 302,
+              "expanded_url": "https://twitter.com/barcatimes/status/2083590521339936789",
+              "start": 279,
+              "url": "https://t.co/vkToxWxDZO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083594917696180231",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {},
+          "text": "Cada día dicen una cosa distinta. Ayer mismo el entrenador dijo que contaba con él. Ya no sé a quién creerme… Cómo van a estar las negociaciones paralizadas si Ferran lleva 10 días borracho?? En qué momento ha negociado?? Que esa criatura no está en parajes de decidir nada, que su cuerpo es más alcohol que agua. Me va a dar algo."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 6321,
+          "like_count": 204,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083590521339936789",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Cada día dicen una cosa distinta. Ayer mismo el entrenador dijo que contaba con él. Ya no sé a quién creerme… Cómo van a estar las negociaciones paralizadas si Ferran lleva 10 días borracho?? En qué momento ha negociado?? Que esa criatura no está en parajes de decidir nada, que https://t.co/vkToxWxDZO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 779,
+          "like_count": 5742,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 893
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-15T10:15:37.000Z",
+        "description": "Opino de todo sin saber de nada. Bibliófila, cinéfila, melómana y shipper a partes iguales.✨ALMA NEGRA, PELO DE COLORES🌙",
+        "id": "1018438930138583040",
+        "location": "Granada, España",
+        "name": "🌸MAA🪐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080718902435143680/7GqzPvZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3049,
+          "following_count": 731,
+          "like_count": 85277,
+          "listed_count": 6,
+          "media_count": 19029,
+          "tweet_count": 106076
+        },
+        "url": "",
+        "username": "frikiqueen23",
+        "verified": true
+      }
+    ]
+  }
+}

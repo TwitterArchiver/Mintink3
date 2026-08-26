@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090447761523253248"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2090447777562276160",
+    "created_at": "2026-08-20T14:36:03.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T15:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090447777562276160"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/urJt2vYkaP",
+          "end": 36,
+          "expanded_url": "https://x.com/Mintink3/status/2090447777562276160/photo/1",
+          "media_key": "3_2090447761523253248",
+          "start": 13,
+          "url": "https://t.co/urJt2vYkaP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090447777562276160",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090447761523253248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拍了半小时构图依旧是一坨 https://t.co/urJt2vYkaP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090447761523253248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLDKdcaoAAeakU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090447761523253248"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2090447777562276160",
+        "created_at": "2026-08-20T14:36:03.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090447777562276160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/urJt2vYkaP",
+              "end": 36,
+              "expanded_url": "https://x.com/Mintink3/status/2090447777562276160/photo/1",
+              "media_key": "3_2090447761523253248",
+              "start": 13,
+              "url": "https://t.co/urJt2vYkaP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090447777562276160",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090447761523253248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拍了半小时构图依旧是一坨 https://t.co/urJt2vYkaP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2090447777562276160",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 1006,
+          "like_count": 8038,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1229
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

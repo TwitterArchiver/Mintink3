@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070336623074770944"
+      ],
+      "media_source_tweet_id": [
+        "2070336702112244067"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2070507810207801705",
+    "created_at": "2026-06-26T14:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T15:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070507810207801705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1964446286662553601",
+          "start": 3,
+          "username": "chibikki__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cKW49leZtK",
+          "end": 46,
+          "expanded_url": "https://x.com/chibikki__/status/2070336702112244067/photo/1",
+          "media_key": "3_2070336623074770944",
+          "start": 23,
+          "url": "https://t.co/cKW49leZtK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070507810207801705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1843
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070336702112244067",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chibikki__: 放課後の活動 https://t.co/cKW49leZtK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1680,
+        "media_key": "3_2070336623074770944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtQMIfagAAm6jZ.png",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070336623074770944"
+          ],
+          "media_source_tweet_id": [
+            "2070336702112244067"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2070507810207801705",
+        "created_at": "2026-06-26T14:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T15:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070507810207801705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1964446286662553601",
+              "start": 3,
+              "username": "chibikki__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cKW49leZtK",
+              "end": 46,
+              "expanded_url": "https://x.com/chibikki__/status/2070336702112244067/photo/1",
+              "media_key": "3_2070336623074770944",
+              "start": 23,
+              "url": "https://t.co/cKW49leZtK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070507810207801705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1843
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070336702112244067",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chibikki__: 放課後の活動 https://t.co/cKW49leZtK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070336623074770944"
+          ]
+        },
+        "author_id": "1964446286662553601",
+        "conversation_id": "2070336702112244067",
+        "created_at": "2026-06-26T02:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070336702112244067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cKW49leZtK",
+              "end": 30,
+              "expanded_url": "https://x.com/chibikki__/status/2070336702112244067/photo/1",
+              "media_key": "3_2070336623074770944",
+              "start": 7,
+              "url": "https://t.co/cKW49leZtK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070336702112244067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2736,
+          "impression_count": 588945,
+          "like_count": 30056,
+          "quote_count": 55,
+          "reply_count": 36,
+          "retweet_count": 1840
+        },
+        "reply_settings": "everyone",
+        "text": "放課後の活動 https://t.co/cKW49leZtK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 焦虑 165cm/40kg 地雷女 被校园霸凌 休学 现在做夜场营销",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "1525682758399299585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070170784270794752/Sm0ogbFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 698,
+          "like_count": 4248,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 684
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T21:51:25.000Z",
+        "description": "糖質高めなドット絵｜work📧: chibikki.work@gmail.com｜Don’t use my pictures without permission ｜https://t.co/M0xP3CTqqd ｜ 🖌️: https://t.co/zvl7gZfRyW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "potofu.me/chibikki",
+                "end": 106,
+                "expanded_url": "https://potofu.me/chibikki",
+                "start": 83,
+                "url": "https://t.co/M0xP3CTqqd"
+              },
+              {
+                "display_url": "vgen.co/chibikki",
+                "end": 136,
+                "expanded_url": "http://vgen.co/chibikki",
+                "start": 113,
+                "url": "https://t.co/zvl7gZfRyW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/chibikki",
+                "end": 23,
+                "expanded_url": "https://patreon.com/chibikki",
+                "start": 0,
+                "url": "https://t.co/wb5r8wpPIr"
+              }
+            ]
+          }
+        },
+        "id": "1964446286662553601",
+        "location": "GMT+07:00",
+        "name": "chibikki。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039427034808721408/ClZSghBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15294,
+          "following_count": 217,
+          "like_count": 2572,
+          "listed_count": 71,
+          "media_count": 124,
+          "tweet_count": 277
+        },
+        "url": "https://t.co/wb5r8wpPIr",
+        "username": "chibikki__",
+        "verified": false
+      }
+    ]
+  }
+}

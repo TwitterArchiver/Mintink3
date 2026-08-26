@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2089398611331465495",
+    "created_at": "2026-08-18T10:25:21.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T11:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089659910367871050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2048935238680879104",
+          "start": 0,
+          "username": "zen_lab_club"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089659910367871050",
+    "in_reply_to_user_id": "2048935238680879104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089646196180631963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zen_lab_club 说的太对了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2089398611331465495",
+        "created_at": "2026-08-18T10:25:21.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089659910367871050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2048935238680879104",
+              "start": 0,
+              "username": "zen_lab_club"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089659910367871050",
+        "in_reply_to_user_id": "2048935238680879104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089646196180631963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zen_lab_club 说的太对了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048935238680879104",
+        "conversation_id": "2089398611331465495",
+        "created_at": "2026-08-18T09:30:51.000Z",
+        "display_text_range": [
+          10,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T10:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089646196180631963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089646196180631963",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089398611331465495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 最恶心的不是别人知道你嗑药，是有人一旦知道，就把这件事当成万能甩锅理由。地址自己发错了，张口就是“你嗑药嗑的”，当着别人面反复讲，既甩锅又羞辱人。你都明确说了没嗑、没发错，还追着骂一天，这已经不是开玩笑了，是拿你的隐私当武器。换谁陪客户受一天气，回来还被这么搞，都得炸。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2089659910367871050",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 984,
+          "like_count": 7724,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1201
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-28T01:20:30.000Z",
+        "description": "名稱ZEN 實驗室\n官网 https://t.co/XTh60qY8rI\nTG群组 https://t.co/PwxqVnq4T6\nTG通知频道 https://t.co/aFMETpJWK4\n\n广告或合作请私信，我们出价很合理\n#researchchemical",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 132,
+                "start": 115,
+                "tag": "researchchemical"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ZENLAB.ONL",
+                "end": 36,
+                "expanded_url": "https://ZENLAB.ONL",
+                "start": 13,
+                "url": "https://t.co/XTh60qY8rI"
+              },
+              {
+                "display_url": "t.me/zen4499",
+                "end": 65,
+                "expanded_url": "https://t.me/zen4499",
+                "start": 42,
+                "url": "https://t.co/PwxqVnq4T6"
+              },
+              {
+                "display_url": "t.me/zenlab",
+                "end": 96,
+                "expanded_url": "https://t.me/zenlab",
+                "start": 73,
+                "url": "https://t.co/aFMETpJWK4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zenlab.onl",
+                "end": 23,
+                "expanded_url": "http://zenlab.onl",
+                "start": 0,
+                "url": "https://t.co/xsfO6qJblV"
+              }
+            ]
+          }
+        },
+        "id": "2048935238680879104",
+        "is_identity_verified": false,
+        "location": "👉天国👈",
+        "most_recent_tweet_id": "2089646196180631963",
+        "name": "ZEN LAB - zen化学实验室",
+        "pinned_tweet_id": "2089267307897827380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048935238680879104/1777341588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048944953661997056/N2sohKBV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 52,
+          "like_count": 554,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 238
+        },
+        "url": "https://t.co/xsfO6qJblV",
+        "username": "zen_lab_club",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

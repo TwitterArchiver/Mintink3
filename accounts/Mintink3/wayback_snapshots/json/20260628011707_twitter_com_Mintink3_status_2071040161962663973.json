@@ -1,0 +1,564 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068986010395176960"
+      ],
+      "media_source_tweet_id": [
+        "2068986015050863080"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1560348702857867264",
+          "name": "Zenless Zone Zero"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898252936970260",
+          "name": "Free-to-play games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1560348702857867264",
+          "name": "Zenless Zone Zero"
+        }
+      }
+    ],
+    "conversation_id": "2071040161962663973",
+    "created_at": "2026-06-28T01:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T02:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071040161962663973"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 27,
+          "tag": "Ramiel"
+        },
+        {
+          "end": 42,
+          "start": 35,
+          "tag": "zzzero"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2019417873400344576",
+          "start": 3,
+          "username": "pinkgal0022"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gZfeYpRpGm",
+          "end": 66,
+          "expanded_url": "https://x.com/pinkgal0022/status/2068986015050863080/photo/1",
+          "media_key": "3_2068986010395176960",
+          "start": 43,
+          "url": "https://t.co/gZfeYpRpGm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071040161962663973",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 292
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068986015050863080",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pinkgal0022: Ramiel🖤\n\n #Ramiel #zzzero https://t.co/gZfeYpRpGm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2360,
+        "media_key": "3_2068986010395176960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaD0ILbcAAzkFW.jpg",
+        "width": 1532
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068986010395176960"
+          ],
+          "media_source_tweet_id": [
+            "2068986015050863080"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          }
+        ],
+        "conversation_id": "2071040161962663973",
+        "created_at": "2026-06-28T01:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T02:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071040161962663973"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 27,
+              "tag": "Ramiel"
+            },
+            {
+              "end": 42,
+              "start": 35,
+              "tag": "zzzero"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2019417873400344576",
+              "start": 3,
+              "username": "pinkgal0022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gZfeYpRpGm",
+              "end": 66,
+              "expanded_url": "https://x.com/pinkgal0022/status/2068986015050863080/photo/1",
+              "media_key": "3_2068986010395176960",
+              "start": 43,
+              "url": "https://t.co/gZfeYpRpGm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071040161962663973",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 292
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068986015050863080",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pinkgal0022: Ramiel🖤\n\n #Ramiel #zzzero https://t.co/gZfeYpRpGm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068986010395176960"
+          ]
+        },
+        "author_id": "2019417873400344576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          }
+        ],
+        "conversation_id": "2068986015050863080",
+        "created_at": "2026-06-22T09:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068986015050863080"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 10,
+              "tag": "Ramiel"
+            },
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "zzzero"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gZfeYpRpGm",
+              "end": 49,
+              "expanded_url": "https://x.com/pinkgal0022/status/2068986015050863080/photo/1",
+              "media_key": "3_2068986010395176960",
+              "start": 26,
+              "url": "https://t.co/gZfeYpRpGm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068986015050863080",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 313,
+          "impression_count": 12195,
+          "like_count": 1505,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 292
+        },
+        "reply_settings": "everyone",
+        "text": "Ramiel🖤\n\n #Ramiel #zzzero https://t.co/gZfeYpRpGm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 焦虑 165cm/40kg 地雷女 餐券女休学 现在做夜场营销",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "1525682758399299585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070170784270794752/Sm0ogbFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 703,
+          "like_count": 4309,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 680
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T14:29:10.000Z",
+        "description": "絵を描きます/💤/💫🚂",
+        "id": "2019417873400344576",
+        "location": "All rights reserved",
+        "name": "はな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068511564454641664/NeqfD96B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2922,
+          "following_count": 2,
+          "like_count": 9,
+          "listed_count": 12,
+          "media_count": 3,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "pinkgal0022",
+        "verified": false
+      }
+    ]
+  }
+}

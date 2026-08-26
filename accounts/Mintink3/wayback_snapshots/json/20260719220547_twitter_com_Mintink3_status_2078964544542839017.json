@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078880864440549376"
+      ],
+      "media_source_tweet_id": [
+        "2078880870845268038"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2078964544542839017",
+    "created_at": "2026-07-19T22:05:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T23:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078964544542839017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1322466841978089472",
+          "start": 3,
+          "username": "OTP_LoL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UZILU3DAEM",
+          "end": 55,
+          "expanded_url": "https://x.com/OTP_LoL/status/2078880870845268038/photo/1",
+          "media_key": "3_2078880864440549376",
+          "start": 32,
+          "url": "https://t.co/UZILU3DAEM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078964544542839017",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 108
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078880870845268038",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OTP_LoL: Happy Showmaker 😁👍 https://t.co/UZILU3DAEM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078880864440549376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmrIb9WAAAB8TM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078880864440549376"
+          ]
+        },
+        "author_id": "1322466841978089472",
+        "conversation_id": "2078880870845268038",
+        "created_at": "2026-07-19T16:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078880870845268038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UZILU3DAEM",
+              "end": 42,
+              "expanded_url": "https://x.com/OTP_LoL/status/2078880870845268038/photo/1",
+              "media_key": "3_2078880864440549376",
+              "start": 19,
+              "url": "https://t.co/UZILU3DAEM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078880870845268038",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 23459,
+          "like_count": 1098,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "Happy Showmaker 😁👍 https://t.co/UZILU3DAEM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078880864440549376"
+          ],
+          "media_source_tweet_id": [
+            "2078880870845268038"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2078964544542839017",
+        "created_at": "2026-07-19T22:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T23:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078964544542839017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1322466841978089472",
+              "start": 3,
+              "username": "OTP_LoL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UZILU3DAEM",
+              "end": 55,
+              "expanded_url": "https://x.com/OTP_LoL/status/2078880870845268038/photo/1",
+              "media_key": "3_2078880864440549376",
+              "start": 32,
+              "url": "https://t.co/UZILU3DAEM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078964544542839017",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078880870845268038",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OTP_LoL: Happy Showmaker 😁👍 https://t.co/UZILU3DAEM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2078107599782953249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074830597709840384/kJeKJqLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 740,
+          "like_count": 5063,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 776
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-31T09:14:12.000Z",
+        "description": "On commente et diffuse du League of Legends sur Twitch depuis 2011 | Tous nos liens: https://t.co/ZshUfb1eDN | La boutique: https://t.co/ovjbnecZEP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/OTP_LoL",
+                "end": 108,
+                "expanded_url": "http://linktr.ee/OTP_LoL",
+                "start": 85,
+                "url": "https://t.co/ZshUfb1eDN"
+              },
+              {
+                "display_url": "shop.otp.tv",
+                "end": 147,
+                "expanded_url": "http://shop.otp.tv",
+                "start": 124,
+                "url": "https://t.co/ovjbnecZEP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/otplol_",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/otplol_",
+                "start": 0,
+                "url": "https://t.co/2G9dyVa2M3"
+              }
+            ]
+          }
+        },
+        "id": "1322466841978089472",
+        "name": "OTP LoL",
+        "pinned_tweet_id": "2076637767468040483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077163194238275584/EK3a1bnB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242805,
+          "following_count": 238,
+          "like_count": 6022,
+          "listed_count": 307,
+          "media_count": 27326,
+          "tweet_count": 34565
+        },
+        "url": "https://t.co/2G9dyVa2M3",
+        "username": "OTP_LoL",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070567274247864320",
+        "3_2070567292140703744"
+      ],
+      "media_source_tweet_id": [
+        "2070567929049985029",
+        "2070567929049985029"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2071038819349184878",
+    "created_at": "2026-06-28T01:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T02:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071038819349184878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1882951465783685120",
+          "start": 3,
+          "username": "rrck__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7bExo7v3Ws",
+          "end": 47,
+          "expanded_url": "https://x.com/rrck__/status/2070567929049985029/photo/1",
+          "media_key": "3_2070567274247864320",
+          "start": 24,
+          "url": "https://t.co/7bExo7v3Ws"
+        },
+        {
+          "display_url": "pic.x.com/7bExo7v3Ws",
+          "end": 47,
+          "expanded_url": "https://x.com/rrck__/status/2070567929049985029/photo/1",
+          "media_key": "3_2070567292140703744",
+          "start": 24,
+          "url": "https://t.co/7bExo7v3Ws"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071038819349184878",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1584
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070567929049985029",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rrck__: become zero https://t.co/7bExo7v3Ws"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_2070567274247864320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwh9zEXwAAe6TX.jpg",
+        "width": 2480
+      },
+      {
+        "height": 3508,
+        "media_key": "3_2070567292140703744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwh-1uW0AAmCXx.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070567274247864320",
+            "3_2070567292140703744"
+          ],
+          "media_source_tweet_id": [
+            "2070567929049985029",
+            "2070567929049985029"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2071038819349184878",
+        "created_at": "2026-06-28T01:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T02:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071038819349184878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1882951465783685120",
+              "start": 3,
+              "username": "rrck__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7bExo7v3Ws",
+              "end": 47,
+              "expanded_url": "https://x.com/rrck__/status/2070567929049985029/photo/1",
+              "media_key": "3_2070567274247864320",
+              "start": 24,
+              "url": "https://t.co/7bExo7v3Ws"
+            },
+            {
+              "display_url": "pic.x.com/7bExo7v3Ws",
+              "end": 47,
+              "expanded_url": "https://x.com/rrck__/status/2070567929049985029/photo/1",
+              "media_key": "3_2070567292140703744",
+              "start": 24,
+              "url": "https://t.co/7bExo7v3Ws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071038819349184878",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1584
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070567929049985029",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rrck__: become zero https://t.co/7bExo7v3Ws"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070567274247864320",
+            "3_2070567292140703744"
+          ]
+        },
+        "author_id": "1882951465783685120",
+        "conversation_id": "2070567929049985029",
+        "created_at": "2026-06-26T18:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T19:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070567929049985029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7bExo7v3Ws",
+              "end": 35,
+              "expanded_url": "https://x.com/rrck__/status/2070567929049985029/photo/1",
+              "media_key": "3_2070567274247864320",
+              "start": 12,
+              "url": "https://t.co/7bExo7v3Ws"
+            },
+            {
+              "display_url": "pic.x.com/7bExo7v3Ws",
+              "end": 35,
+              "expanded_url": "https://x.com/rrck__/status/2070567929049985029/photo/1",
+              "media_key": "3_2070567292140703744",
+              "start": 12,
+              "url": "https://t.co/7bExo7v3Ws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070567929049985029",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1115,
+          "impression_count": 88207,
+          "like_count": 10672,
+          "quote_count": 19,
+          "reply_count": 17,
+          "retweet_count": 1584
+        },
+        "reply_settings": "everyone",
+        "text": "become zero https://t.co/7bExo7v3Ws"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 焦虑 165cm/40kg 地雷女 餐券女休学 现在做夜场营销",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "1525682758399299585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070170784270794752/Sm0ogbFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 703,
+          "like_count": 4303,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 679
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T00:40:36.000Z",
+        "description": "kiis | kaisagi only🌹🧩 ENG/日本語\n\nhttps://t.co/InlNhOjlIT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/rrck",
+                "end": 54,
+                "expanded_url": "https://lit.link/en/rrck",
+                "start": 31,
+                "url": "https://t.co/InlNhOjlIT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/5lkajehvh…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/5lkajehvhravtxm0/",
+                "start": 0,
+                "url": "https://t.co/xXVHgywvVV"
+              }
+            ]
+          }
+        },
+        "id": "1882951465783685120",
+        "name": "rrck",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069607124594733056/wAm0dKf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17188,
+          "following_count": 342,
+          "like_count": 56010,
+          "listed_count": 21,
+          "media_count": 105,
+          "tweet_count": 1552
+        },
+        "url": "https://t.co/xXVHgywvVV",
+        "username": "rrck__",
+        "verified": false
+      }
+    ]
+  }
+}

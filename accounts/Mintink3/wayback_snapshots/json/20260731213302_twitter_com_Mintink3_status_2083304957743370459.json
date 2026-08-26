@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083304950122377216",
+        "3_2083304950164320256",
+        "3_2083304950164242432"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2083304957743370459",
+    "created_at": "2026-07-31T21:33:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T22:33:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083304957743370459"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yoyczsq3RC",
+          "end": 48,
+          "expanded_url": "https://x.com/Mintink3/status/2083304957743370459/photo/1",
+          "media_key": "3_2083304950122377216",
+          "start": 25,
+          "url": "https://t.co/Yoyczsq3RC"
+        },
+        {
+          "display_url": "pic.x.com/Yoyczsq3RC",
+          "end": 48,
+          "expanded_url": "https://x.com/Mintink3/status/2083304957743370459/photo/1",
+          "media_key": "3_2083304950164320256",
+          "start": 25,
+          "url": "https://t.co/Yoyczsq3RC"
+        },
+        {
+          "display_url": "pic.x.com/Yoyczsq3RC",
+          "end": 48,
+          "expanded_url": "https://x.com/Mintink3/status/2083304957743370459/photo/1",
+          "media_key": "3_2083304950164242432",
+          "start": 25,
+          "url": "https://t.co/Yoyczsq3RC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083304957743370459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这就是说要我在夜场混不下去的人吗？\n原来是梅毒蛆 https://t.co/Yoyczsq3RC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 208,
+        "media_key": "3_2083304950122377216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOli0HbbcAASDlU.jpg",
+        "width": 864
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083304950164320256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOli0HlbcAAURHy.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083304950164242432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOli0HlaQAAaDiC.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083304950122377216",
+            "3_2083304950164320256",
+            "3_2083304950164242432"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2083304957743370459",
+        "created_at": "2026-07-31T21:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T22:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083304957743370459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yoyczsq3RC",
+              "end": 48,
+              "expanded_url": "https://x.com/Mintink3/status/2083304957743370459/photo/1",
+              "media_key": "3_2083304950122377216",
+              "start": 25,
+              "url": "https://t.co/Yoyczsq3RC"
+            },
+            {
+              "display_url": "pic.x.com/Yoyczsq3RC",
+              "end": 48,
+              "expanded_url": "https://x.com/Mintink3/status/2083304957743370459/photo/1",
+              "media_key": "3_2083304950164320256",
+              "start": 25,
+              "url": "https://t.co/Yoyczsq3RC"
+            },
+            {
+              "display_url": "pic.x.com/Yoyczsq3RC",
+              "end": 48,
+              "expanded_url": "https://x.com/Mintink3/status/2083304957743370459/photo/1",
+              "media_key": "3_2083304950164242432",
+              "start": 25,
+              "url": "https://t.co/Yoyczsq3RC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083304957743370459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这就是说要我在夜场混不下去的人吗？\n原来是梅毒蛆 https://t.co/Yoyczsq3RC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 762,
+          "like_count": 5599,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 884
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086640367257145344"
+      ],
+      "media_source_tweet_id": [
+        "2086640375666758027"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2086894262042681394",
+    "created_at": "2026-08-10T19:15:39.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T20:15:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086894262042681394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1810287810869620736",
+          "start": 3,
+          "username": "hitomicuren1dle"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tYaohpXmb8",
+          "end": 44,
+          "expanded_url": "https://x.com/hitomicuren1dle/status/2086640375666758027/photo/1",
+          "media_key": "3_2086640367257145344",
+          "start": 21,
+          "url": "https://t.co/tYaohpXmb8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086894262042681394",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2086640367257145344"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086640375666758027",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @hitomicuren1dle: https://t.co/tYaohpXmb8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086640367257145344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPU8W8haUAAzPus.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086640367257145344"
+          ]
+        },
+        "author_id": "1810287810869620736",
+        "conversation_id": "2086640375666758027",
+        "created_at": "2026-08-10T02:26:48.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T03:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086640375666758027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tYaohpXmb8",
+              "end": 23,
+              "expanded_url": "https://x.com/hitomicuren1dle/status/2086640375666758027/photo/1",
+              "media_key": "3_2086640367257145344",
+              "start": 0,
+              "url": "https://t.co/tYaohpXmb8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086640375666758027",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086640367257145344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 9521,
+          "like_count": 752,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/tYaohpXmb8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086640367257145344"
+          ],
+          "media_source_tweet_id": [
+            "2086640375666758027"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2086894262042681394",
+        "created_at": "2026-08-10T19:15:39.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T20:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086894262042681394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1810287810869620736",
+              "start": 3,
+              "username": "hitomicuren1dle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tYaohpXmb8",
+              "end": 44,
+              "expanded_url": "https://x.com/hitomicuren1dle/status/2086640375666758027/photo/1",
+              "media_key": "3_2086640367257145344",
+              "start": 21,
+              "url": "https://t.co/tYaohpXmb8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086894262042681394",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086640367257145344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086640375666758027",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @hitomicuren1dle: https://t.co/tYaohpXmb8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2086894262042681394",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 905,
+          "like_count": 6908,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1076
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-08T12:20:36.000Z",
+        "description": "链接里是我在其他平台的账号 除此之外都不是本人 请注意辨别",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/61119218ZSYbE",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/61119218ZSYbE",
+                "start": 0,
+                "url": "https://t.co/Nlbm2oJpRe"
+              }
+            ]
+          }
+        },
+        "id": "1810287810869620736",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086712949021016077",
+        "name": "瞳",
+        "pinned_tweet_id": "2050115304932680109",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1810287810869620736/1721669601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014800460520292352/CPpdO9ZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6306,
+          "following_count": 77,
+          "like_count": 1997,
+          "listed_count": 17,
+          "media_count": 129,
+          "tweet_count": 260
+        },
+        "url": "https://t.co/Nlbm2oJpRe",
+        "username": "hitomicuren1dle",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

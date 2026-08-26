@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2086588366913777773",
+    "created_at": "2026-08-09T23:42:35.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T00:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086599052695875770"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2086599052695875770",
+    "in_reply_to_user_id": "1493016356182056961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086588366913777773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他并不是故意发给我的，是因为只要登录了那个链接，账号就会自动发送给互关这个链接，以此来病毒式传播"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086588357199683584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPUNDj9aYAAHQ5J.jpg",
+        "width": 1067
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086588357203963904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPUNDj-bsAAG3WJ.jpg",
+        "width": 1082
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2086588366913777773",
+        "created_at": "2026-08-09T23:42:35.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T00:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086599052695875770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086599052695875770",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086588366913777773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他并不是故意发给我的，是因为只要登录了那个链接，账号就会自动发送给互关这个链接，以此来病毒式传播"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086588357199683584",
+            "3_2086588357203963904"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2086588366913777773",
+        "created_at": "2026-08-09T23:00:08.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T00:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086588366913777773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y9whgcSAWL",
+              "end": 145,
+              "expanded_url": "https://x.com/Mintink3/status/2086588366913777773/photo/1",
+              "media_key": "3_2086588357199683584",
+              "start": 122,
+              "url": "https://t.co/y9whgcSAWL"
+            },
+            {
+              "display_url": "pic.x.com/y9whgcSAWL",
+              "end": 145,
+              "expanded_url": "https://x.com/Mintink3/status/2086588366913777773/photo/1",
+              "media_key": "3_2086588357203963904",
+              "start": 122,
+              "url": "https://t.co/y9whgcSAWL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086588366913777773",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086588357199683584"
+          },
+          {
+            "media_key": "3_2086588357203963904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互关给我发了个链接 我点开点了登录了\n然后他才跟我说他刚被这个链接坑的被封号了🤯\n还好我网卡没登录上去 不然我也要被误伤了\n大家警惕点陌生链接，点确认/登录！在陌生链接使用你的常用软件登录的有可能是镜像网站或者镜像app，从而导致个人信息泄露 https://t.co/y9whgcSAWL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2086599052695875770",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 893,
+          "like_count": 6765,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1046
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

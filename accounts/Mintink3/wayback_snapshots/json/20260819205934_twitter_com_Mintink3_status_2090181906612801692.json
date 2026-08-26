@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090181893061046272"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2090181906612801692",
+    "created_at": "2026-08-19T20:59:34.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T21:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090181906612801692"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vGCzcDmtNp",
+          "end": 51,
+          "expanded_url": "https://x.com/Mintink3/status/2090181906612801692/video/1",
+          "media_key": "13_2090181893061046272",
+          "start": 28,
+          "url": "https://t.co/vGCzcDmtNp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090181906612801692",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2090181893061046272"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "战至黎明 第四场了\n别人过七夕谈恋爱 我狠狠上班赚钱啊 https://t.co/vGCzcDmtNp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3598,
+        "height": 1280,
+        "media_key": "13_2090181893061046272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090181893061046272/img/sHCjW0CGzvh5Yanr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090181893061046272/vid/avc1/320x568/IzQU3eEzwZp-eYfg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090181893061046272/vid/avc1/480x852/pO41qP9Gly2QopGr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090181893061046272/vid/avc1/720x1280/8BYs9umM4JvQB1Zr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090181893061046272/pl/289gnFlMmPnnd-ZL.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090181893061046272"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2090181906612801692",
+        "created_at": "2026-08-19T20:59:34.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T21:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090181906612801692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vGCzcDmtNp",
+              "end": 51,
+              "expanded_url": "https://x.com/Mintink3/status/2090181906612801692/video/1",
+              "media_key": "13_2090181893061046272",
+              "start": 28,
+              "url": "https://t.co/vGCzcDmtNp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090181906612801692",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090181893061046272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "战至黎明 第四场了\n别人过七夕谈恋爱 我狠狠上班赚钱啊 https://t.co/vGCzcDmtNp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2090181906612801692",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 986,
+          "like_count": 7858,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1219
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079473728899985408"
+      ],
+      "media_source_tweet_id": [
+        "2079899257054888227"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2080391240051576980",
+    "created_at": "2026-07-23T20:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T21:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080391240051576980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2006510473630593027",
+          "start": 3,
+          "username": "xprincess2u"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BOvWLxWMUm",
+          "end": 40,
+          "expanded_url": "https://x.com/xprincess2u/status/2079899257054888227/photo/1",
+          "media_key": "3_2079473728899985408",
+          "start": 17,
+          "url": "https://t.co/BOvWLxWMUm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080391240051576980",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8770
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079899257054888227",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xprincess2u: https://t.co/BOvWLxWMUm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 514,
+        "media_key": "3_2079473728899985408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvGVsLXMAAxNzO.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079473728899985408"
+          ]
+        },
+        "author_id": "2006510473630593027",
+        "conversation_id": "2079899257054888227",
+        "created_at": "2026-07-22T12:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079899257054888227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BOvWLxWMUm",
+              "end": 23,
+              "expanded_url": "https://x.com/xprincess2u/status/2079899257054888227/photo/1",
+              "media_key": "3_2079473728899985408",
+              "start": 0,
+              "url": "https://t.co/BOvWLxWMUm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079899257054888227",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 748,
+          "impression_count": 389208,
+          "like_count": 27596,
+          "quote_count": 62,
+          "reply_count": 50,
+          "retweet_count": 8770
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BOvWLxWMUm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079473728899985408"
+          ],
+          "media_source_tweet_id": [
+            "2079899257054888227"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2080391240051576980",
+        "created_at": "2026-07-23T20:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T21:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080391240051576980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2006510473630593027",
+              "start": 3,
+              "username": "xprincess2u"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BOvWLxWMUm",
+              "end": 40,
+              "expanded_url": "https://x.com/xprincess2u/status/2079899257054888227/photo/1",
+              "media_key": "3_2079473728899985408",
+              "start": 17,
+              "url": "https://t.co/BOvWLxWMUm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080391240051576980",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8770
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079899257054888227",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xprincess2u: https://t.co/BOvWLxWMUm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074830597709840384/kJeKJqLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 748,
+          "like_count": 5285,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 828
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-31T23:39:18.000Z",
+        "description": "Gym, anime, videogames and music enthusiast 😁",
+        "id": "2006510473630593027",
+        "name": "ᶻ 𝗓 𐰁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053832390959579136/pauAh5S__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11304,
+          "following_count": 9040,
+          "like_count": 14361,
+          "listed_count": 24,
+          "media_count": 1119,
+          "tweet_count": 2072
+        },
+        "url": "",
+        "username": "xprincess2u",
+        "verified": true
+      }
+    ]
+  }
+}

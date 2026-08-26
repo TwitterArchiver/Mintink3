@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2067655315815100839",
+    "created_at": "2026-06-28T16:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T17:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071273300135977264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879125730581450753",
+          "start": 0,
+          "username": "dxmpopper2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071273300135977264",
+    "in_reply_to_user_id": "1879125730581450753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067655315815100839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dxmpopper2006 苯海拉明非常恶心 不要吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2067655315815100839",
+        "created_at": "2026-06-28T16:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071273300135977264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879125730581450753",
+              "start": 0,
+              "username": "dxmpopper2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071273300135977264",
+        "in_reply_to_user_id": "1879125730581450753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067655315815100839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dxmpopper2006 苯海拉明非常恶心 不要吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879125730581450753",
+        "conversation_id": "2067655315815100839",
+        "created_at": "2026-06-18T17:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067655315815100839"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 30,
+              "tag": "drugtwt"
+            },
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "右美沙芬"
+            },
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "dxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067655315815100839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1677,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买了6盒愈美静候中 一直在纠结要不要买苯海拉明我到底啥毛病 #drugtwt #右美沙芬 #dxm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 焦虑 165cm/40kg 地雷女 餐券女休学 现在做夜场营销",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "1525682758399299585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070170784270794752/Sm0ogbFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 705,
+          "like_count": 4333,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 689
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T11:17:50.000Z",
+        "description": "⋆⭒˚ ｡⋆₊ ⊹ ⋆\nhe/him🏳️‍🌈/English/中文\n重焦B 睡眠障碍B 休学B\n我喜欢喝酒嗑药欢迎互关 #drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 60,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1879125730581450753",
+        "name": "dex",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066508132898226177/6uhT7gE5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 78,
+          "like_count": 454,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 187
+        },
+        "url": "",
+        "username": "dxmpopper2006",
+        "verified": false
+      }
+    ]
+  }
+}

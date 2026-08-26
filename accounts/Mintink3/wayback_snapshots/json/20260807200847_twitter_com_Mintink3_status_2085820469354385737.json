@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2085818307979161677",
+    "created_at": "2026-08-07T20:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T21:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085820469354385737"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085820469354385737",
+    "in_reply_to_user_id": "1493016356182056961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085819105337380930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一直在给这个可怜的女生道歉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085819098102181888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPJRaygbMAAaLDh.jpg",
+        "width": 742
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085819098093723648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPJRayeaIAAH--T.jpg",
+        "width": 742
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085819098081218560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPJRaybbUAArTzZ.jpg",
+        "width": 742
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085819098085408768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPJRaycbQAA_3gS.jpg",
+        "width": 742
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2085818307979161677",
+        "created_at": "2026-08-07T20:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T21:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085820469354385737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085820469354385737",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085819105337380930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直在给这个可怜的女生道歉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085819098102181888",
+            "3_2085819098093723648",
+            "3_2085819098081218560",
+            "3_2085819098085408768"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2085818307979161677",
+        "created_at": "2026-08-07T20:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T21:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085819105337380930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pi7LH8RZMS",
+              "end": 88,
+              "expanded_url": "https://x.com/Mintink3/status/2085819105337380930/photo/1",
+              "media_key": "3_2085819098102181888",
+              "start": 65,
+              "url": "https://t.co/Pi7LH8RZMS"
+            },
+            {
+              "display_url": "pic.x.com/Pi7LH8RZMS",
+              "end": 88,
+              "expanded_url": "https://x.com/Mintink3/status/2085819105337380930/photo/1",
+              "media_key": "3_2085819098093723648",
+              "start": 65,
+              "url": "https://t.co/Pi7LH8RZMS"
+            },
+            {
+              "display_url": "pic.x.com/Pi7LH8RZMS",
+              "end": 88,
+              "expanded_url": "https://x.com/Mintink3/status/2085819105337380930/photo/1",
+              "media_key": "3_2085819098081218560",
+              "start": 65,
+              "url": "https://t.co/Pi7LH8RZMS"
+            },
+            {
+              "display_url": "pic.x.com/Pi7LH8RZMS",
+              "end": 88,
+              "expanded_url": "https://x.com/Mintink3/status/2085819105337380930/photo/1",
+              "media_key": "3_2085819098085408768",
+              "start": 65,
+              "url": "https://t.co/Pi7LH8RZMS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085819105337380930",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085818307979161677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "起因是我给图上那位的客户介绍女孩子，然后本来说好的绿单，他客户强制猥亵女孩子，亲嘴亲胸抠下面，女孩子破防了，他只愿意赔偿500元 https://t.co/Pi7LH8RZMS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 860,
+          "like_count": 6442,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1000
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      }
+    ]
+  }
+}

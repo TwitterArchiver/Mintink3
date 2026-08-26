@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2085038450831724547"
+      ],
+      "media_source_tweet_id": [
+        "2085038603667968461"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2085759377320079415",
+    "created_at": "2026-08-07T16:06:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T17:06:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085759377320079415"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 25,
+          "tag": "제우스"
+        },
+        {
+          "end": 34,
+          "start": 30,
+          "tag": "최우제"
+        },
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "ZEUS"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1859165671126716416",
+          "start": 3,
+          "username": "t_bling_zeus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O1I4dWxZTq",
+          "end": 127,
+          "expanded_url": "https://x.com/t_bling_zeus/status/2085038603667968461/video/1",
+          "media_key": "13_2085038450831724547",
+          "start": 104,
+          "url": "https://t.co/O1I4dWxZTq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085759377320079415",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085038603667968461",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @t_bling_zeus: 260806 #제우스 #최우제 #ZEUS\n많은 팬들이 응원하고 있을테니, 그 기운을\n받아서 이렇게 행복해도 되나 싶을만큼\n그보다 더 내 선수가 행복했으면 https://t.co/O1I4dWxZTq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12050,
+        "height": 2160,
+        "media_key": "13_2085038450831724547",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085038450831724547/img/ryuof9tfsVx_2P8U.jpg",
+        "public_metrics": {
+          "view_count": 1412
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085038450831724547/vid/avc1/540x540/XVdHfqklMyO9kQ0h.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085038450831724547/vid/avc1/1080x1080/InhMmWhwgLvJEzzU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085038450831724547/pl/rOCtA7F-ROrI7l6R.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085038450831724547/vid/avc1/2160x2160/I-Un195jQzfGt3qt.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085038450831724547/vid/avc1/720x720/6uyPzA3_reD-O2e0.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085038450831724547/vid/avc1/320x320/Vy1hFMVAhYm6IWP3.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085038450831724547"
+          ]
+        },
+        "author_id": "1859165671126716416",
+        "conversation_id": "2085038603667968461",
+        "created_at": "2026-08-05T16:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T17:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085038603667968461"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "제우스"
+            },
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "최우제"
+            },
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "ZEUS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O1I4dWxZTq",
+              "end": 109,
+              "expanded_url": "https://x.com/t_bling_zeus/status/2085038603667968461/video/1",
+              "media_key": "13_2085038450831724547",
+              "start": 86,
+              "url": "https://t.co/O1I4dWxZTq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085038603667968461",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4844,
+          "like_count": 324,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "260806 #제우스 #최우제 #ZEUS\n많은 팬들이 응원하고 있을테니, 그 기운을\n받아서 이렇게 행복해도 되나 싶을만큼\n그보다 더 내 선수가 행복했으면 https://t.co/O1I4dWxZTq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085038450831724547"
+          ],
+          "media_source_tweet_id": [
+            "2085038603667968461"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2085759377320079415",
+        "created_at": "2026-08-07T16:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085759377320079415"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "제우스"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "최우제"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "ZEUS"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1859165671126716416",
+              "start": 3,
+              "username": "t_bling_zeus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O1I4dWxZTq",
+              "end": 127,
+              "expanded_url": "https://x.com/t_bling_zeus/status/2085038603667968461/video/1",
+              "media_key": "13_2085038450831724547",
+              "start": 104,
+              "url": "https://t.co/O1I4dWxZTq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085759377320079415",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085038603667968461",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @t_bling_zeus: 260806 #제우스 #최우제 #ZEUS\n많은 팬들이 응원하고 있을테니, 그 기운을\n받아서 이렇게 행복해도 되나 싶을만큼\n그보다 더 내 선수가 행복했으면 https://t.co/O1I4dWxZTq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 858,
+          "like_count": 6437,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 984
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-20T09:23:42.000Z",
+        "description": "최우제를 응원하는 사람 | #ZEUS #제우스 #최우제 #HLE | logo crop, re-edit 🚫 / ~ 24 zeus photo 👉🏻 @t_bling_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 15,
+                "tag": "ZEUS"
+              },
+              {
+                "end": 25,
+                "start": 21,
+                "tag": "제우스"
+              },
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "최우제"
+              },
+              {
+                "end": 35,
+                "start": 31,
+                "tag": "HLE"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "t_bling_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/t.bling_zeus",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/t.bling_zeus",
+                "start": 0,
+                "url": "https://t.co/DhImQ8CNxy"
+              }
+            ]
+          }
+        },
+        "id": "1859165671126716416",
+        "location": "ZEUS",
+        "name": "𝙏.𝘽𝙇𝙄𝙉𝙂¹⁰",
+        "pinned_tweet_id": "1897819780578755060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870510167512825856/E73Mmucr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8831,
+          "following_count": 62,
+          "like_count": 2249,
+          "listed_count": 18,
+          "media_count": 1377,
+          "tweet_count": 2611
+        },
+        "url": "https://t.co/DhImQ8CNxy",
+        "username": "t_bling_zeus",
+        "verified": true
+      }
+    ]
+  }
+}

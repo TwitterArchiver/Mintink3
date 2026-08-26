@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2086879514756612541",
+    "created_at": "2026-08-10T21:04:28.000Z",
+    "display_text_range": [
+      11,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T22:04:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086921649358856268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1961527547344424962",
+          "start": 0,
+          "username": "shuyo0722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086921649358856268",
+    "in_reply_to_user_id": "1961527547344424962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086879514756612541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuyo0722 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2086879514756612541",
+        "created_at": "2026-08-10T21:04:28.000Z",
+        "display_text_range": [
+          11,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T22:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086921649358856268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1961527547344424962",
+              "start": 0,
+              "username": "shuyo0722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086921649358856268",
+        "in_reply_to_user_id": "1961527547344424962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086879514756612541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuyo0722 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961527547344424962",
+        "card_uri": "https://t.co/PJZuChkidt",
+        "conversation_id": "2086879514756612541",
+        "created_at": "2026-08-10T18:17:03.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T19:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086879514756612541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "施迤_shuyo@無言購読アカウント’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1qxvv…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1qxvvekoEkgxB",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2086879516694380544/1lQJTPA6?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2086879516694380544/1lQJTPA6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 空间着耍起",
+              "unwound_url": "https://twitter.com/i/spaces/1qxvvekoEkgxB/peek",
+              "url": "https://t.co/PJZuChkidt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086879514756612541",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PJZuChkidt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2086921649358856268",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 907,
+          "like_count": 6941,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1080
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-29T20:33:16.000Z",
+        "description": "=施迤/十一/shuyo 丨 只互fo喜欢的丨中国人丨当朋友圈发丨 不聊骚不聊黄 丨 不要为了互fo而关注我 丨 全网最有素质的人 丨 🈚🚪不加联系方式 丨 匿名关闭× 丨 异性恋谢谢",
+        "id": "1961527547344424962",
+        "is_identity_verified": false,
+        "location": "7.2km",
+        "most_recent_tweet_id": "2086916643435983299",
+        "name": "施迤_shuyo@無言購読アカウント",
+        "pinned_tweet_id": "2086452599944049049",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1961527547344424962/1756501394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078372729171120128/MYYMjF51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 46,
+          "like_count": 3593,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1786
+        },
+        "url": "",
+        "username": "shuyo0722",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

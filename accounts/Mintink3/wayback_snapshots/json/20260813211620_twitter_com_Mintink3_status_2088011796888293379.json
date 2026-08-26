@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2088011796888293379",
+    "created_at": "2026-08-13T21:16:20.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T22:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088011796888293379"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2088011796888293379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我的找到1-2天内在同一家医院凭自己身份开56t阿普唑仑的方法了，已亲测有效。\n\n应该也能同样适用开思诺思，氯硝西泮，右佐匹克隆等。\n\n仅分享，不卖药。\n先用医保挂一次号，开两周的药，跟医生说一次要吃两片才能睡得着，然后就可以拿到28t阿普。然后再不用医保挂一次，用自费卡，再开28t。（不知道同一天神内和睡眠科分别用医保和自费都挂一下可不可行🤔，我是分两天开的，理论上一天应该也可以，因为自费和医保卡挂的号病历不共享，即使是一个身份证，不知道是不是就我这边这个医院是这样）"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的找到1-2天内在同一家医院凭自己身份开56t阿普唑仑的方法了，已亲测有效。\n\n应该也能同样适用开思诺思，氯硝西泮，右佐匹克隆等。\n\n仅分享，不卖药。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2088011796888293379",
+        "created_at": "2026-08-13T21:16:20.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T22:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088011796888293379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088011796888293379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我的找到1-2天内在同一家医院凭自己身份开56t阿普唑仑的方法了，已亲测有效。\n\n应该也能同样适用开思诺思，氯硝西泮，右佐匹克隆等。\n\n仅分享，不卖药。\n先用医保挂一次号，开两周的药，跟医生说一次要吃两片才能睡得着，然后就可以拿到28t阿普。然后再不用医保挂一次，用自费卡，再开28t。（不知道同一天神内和睡眠科分别用医保和自费都挂一下可不可行🤔，我是分两天开的，理论上一天应该也可以，因为自费和医保卡挂的号病历不共享，即使是一个身份证，不知道是不是就我这边这个医院是这样）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的找到1-2天内在同一家医院凭自己身份开56t阿普唑仑的方法了，已亲测有效。\n\n应该也能同样适用开思诺思，氯硝西泮，右佐匹克隆等。\n\n仅分享，不卖药。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2088011796888293379",
+        "name": "Beatrice",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 928,
+          "like_count": 7251,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1125
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

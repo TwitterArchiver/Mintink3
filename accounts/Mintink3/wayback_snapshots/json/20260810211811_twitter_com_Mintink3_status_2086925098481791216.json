@@ -1,0 +1,499 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "733774105166548992",
+          "name": "Neymar "
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "733774105166548992",
+          "name": "Neymar "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733774105166548992",
+          "name": "Neymar "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "2086925098481791216",
+    "created_at": "2026-08-10T21:18:11.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T22:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086925098481791216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1197588064819974145",
+          "start": 3,
+          "username": "njdmarlon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086925098481791216",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084441260866060473",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @njdmarlon: Davi Lucca falando sobre o Neymar jogar mais uma copa.\n\n“Eu pessoalmente desejo isso, mas quero que seja algo satisfatório p…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17600,
+        "height": 1280,
+        "media_key": "13_2084423651017756672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084423651017756672/img/tWmzDhcqlLyTnkJB.jpg",
+        "public_metrics": {
+          "view_count": 425918
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084423651017756672/vid/avc1/320x568/vRvYQc3QevaDi6i6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084423651017756672/vid/avc1/480x852/BnySCppQ9P0217UF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084423651017756672/vid/avc1/720x1280/3fHlmdPyyklDx9Fq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084423651017756672/pl/mSNeqvdgKXKMuiTE.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774105166548992",
+              "name": "Neymar "
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774105166548992",
+              "name": "Neymar "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774105166548992",
+              "name": "Neymar "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2086925098481791216",
+        "created_at": "2026-08-10T21:18:11.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T22:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086925098481791216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1197588064819974145",
+              "start": 3,
+              "username": "njdmarlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086925098481791216",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084441260866060473",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @njdmarlon: Davi Lucca falando sobre o Neymar jogar mais uma copa.\n\n“Eu pessoalmente desejo isso, mas quero que seja algo satisfatório p…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084423651017756672"
+          ],
+          "media_source_tweet_id": [
+            "2084423690251620739"
+          ]
+        },
+        "author_id": "1197588064819974145",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774105166548992",
+              "name": "Neymar "
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774105166548992",
+              "name": "Neymar "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774105166548992",
+              "name": "Neymar "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2084441260866060473",
+        "created_at": "2026-08-04T00:48:18.000Z",
+        "display_text_range": [
+          0,
+          225
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-04T01:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084441260866060473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KWSVlV9DhC",
+              "end": 225,
+              "expanded_url": "https://x.com/TeamNey10/status/2084423690251620739/video/1",
+              "media_key": "13_2084423651017756672",
+              "start": 202,
+              "url": "https://t.co/KWSVlV9DhC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084441260866060473",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2084423651017756672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 323,
+          "impression_count": 351792,
+          "like_count": 6821,
+          "quote_count": 44,
+          "reply_count": 88,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "Davi Lucca falando sobre o Neymar jogar mais uma copa.\n\n“Eu pessoalmente desejo isso, mas quero que seja algo satisfatório para ele, não para mim. Desde que ele esteja feliz, isso é o mais importante.” https://t.co/KWSVlV9DhC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2086925098481791216",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 909,
+          "like_count": 6961,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1081
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-11-21T18:50:32.000Z",
+        "description": "Futebol e entretenimento | Contato: neymarjrdepre@resenha.digital",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/njdmarlon/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/njdmarlon/",
+                "start": 0,
+                "url": "https://t.co/ArGJzNoTFc"
+              }
+            ]
+          }
+        },
+        "id": "1197588064819974145",
+        "is_identity_verified": false,
+        "location": "São Francisco do Sul, Brasil",
+        "most_recent_tweet_id": "2086876864799216008",
+        "name": "njdeprê - marlon",
+        "pinned_tweet_id": "2086494497530110131",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1197588064819974145/1764273124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078159626575433728/bacRjzOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782435,
+          "following_count": 1971,
+          "like_count": 1565,
+          "listed_count": 330,
+          "media_count": 19040,
+          "tweet_count": 41972
+        },
+        "url": "https://t.co/ArGJzNoTFc",
+        "username": "njdmarlon",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

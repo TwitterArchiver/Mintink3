@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2091833586920116236",
+    "created_at": "2026-08-25T02:12:24.000Z",
+    "display_text_range": [
+      19,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T03:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092072571235901646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1664634628995444737",
+          "start": 0,
+          "username": "tuite8964"
+        },
+        {
+          "end": 18,
+          "id": "1945331416528539649",
+          "start": 11,
+          "username": "bpmiea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092072571235901646",
+    "in_reply_to_user_id": "1664634628995444737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092071170895933889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuite8964 @bpmiea 早就网络禁售了 只有去医院开处方才能买到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2091833586920116236",
+        "created_at": "2026-08-25T02:12:24.000Z",
+        "display_text_range": [
+          19,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T03:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092072571235901646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1664634628995444737",
+              "start": 0,
+              "username": "tuite8964"
+            },
+            {
+              "end": 18,
+              "id": "1945331416528539649",
+              "start": 11,
+              "username": "bpmiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092072571235901646",
+        "in_reply_to_user_id": "1664634628995444737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092071170895933889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuite8964 @bpmiea 早就网络禁售了 只有去医院开处方才能买到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664634628995444737",
+        "conversation_id": "2091833586920116236",
+        "created_at": "2026-08-25T02:06:50.000Z",
+        "display_text_range": [
+          18,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T03:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092071170895933889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1945331416528539649",
+              "start": 0,
+              "username": "bpmiea"
+            },
+            {
+              "end": 17,
+              "id": "1493016356182056961",
+              "start": 8,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092071170895933889",
+        "in_reply_to_user_id": "1945331416528539649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091833586920116236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bpmiea @Mintink3 是不是pr80愈美片买不到了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2092072571235901646",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 1063,
+          "like_count": 9198,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1349
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-02T14:06:52.000Z",
+        "description": "1989年6月4日出生|支持西方欧美日|兴趣🐬：Ai|反出生|海边|山里|右翼|一些新奇想法|支持od毒品枪支|不支持暴力|Lain|梁山宋江|",
+        "id": "1664634628995444737",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092071170895933889",
+        "name": "岩倉玲音",
+        "pinned_tweet_id": "2090344057406976264",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1664634628995444737/1785246331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089832228817678336/qndrH38k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 117,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2030
+        },
+        "url": "",
+        "username": "tuite8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-16T03:55:59.000Z",
+        "description": "反跨-No🏳️‍⚧️ | 2011 | HRT:26.1 | 自恨\n纯良女初中生 吸毒✕自残✕键政✕滥交✕\narchlinux | py/kotlin/nodejs\ngfwfucker 防火长城我操你妈\n日常和碎碎念，可能会有负面内容…\n同类互fo喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/l1qu1db0unce",
+                "end": 23,
+                "expanded_url": "https://t.me/l1qu1db0unce",
+                "start": 0,
+                "url": "https://t.co/Mlt6SoH9OF"
+              }
+            ]
+          }
+        },
+        "id": "1945331416528539649",
+        "is_identity_verified": false,
+        "location": "台灣 花蓮縣",
+        "most_recent_tweet_id": "2092034527006969923",
+        "name": "叶洛夜🍥𝓑.𝓜.",
+        "pinned_tweet_id": "2090823650073309627",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945331416528539649/1787422427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086111140371976192/HP6Eex1b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1244,
+          "following_count": 758,
+          "like_count": 1139,
+          "listed_count": 2,
+          "media_count": 231,
+          "tweet_count": 1501
+        },
+        "url": "https://t.co/Mlt6SoH9OF",
+        "username": "bpmiea",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

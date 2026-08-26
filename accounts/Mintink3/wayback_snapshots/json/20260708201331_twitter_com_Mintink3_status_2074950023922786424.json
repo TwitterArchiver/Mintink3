@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2073616250710728704"
+      ],
+      "media_source_tweet_id": [
+        "2073616257895571717"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2074950023922786424",
+    "created_at": "2026-07-08T20:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T21:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074950023922786424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "303939260",
+          "start": 3,
+          "username": "GiFShitpost"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LtCEG0hy0d",
+          "end": 40,
+          "expanded_url": "https://x.com/diddyeatspoop/status/2073616257895571717/photo/1",
+          "media_key": "16_2073616250710728704",
+          "start": 17,
+          "url": "https://t.co/LtCEG0hy0d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074950023922786424",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4934
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074280330018832534",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GiFShitpost: https://t.co/LtCEG0hy0d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 532,
+        "media_key": "16_2073616250710728704",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMb2_lgXIAAw0nv.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMb2_lgXIAAw0nv.mp4"
+          }
+        ],
+        "width": 520
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2073616250710728704"
+          ],
+          "media_source_tweet_id": [
+            "2073616257895571717"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2074950023922786424",
+        "created_at": "2026-07-08T20:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T21:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074950023922786424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "303939260",
+              "start": 3,
+              "username": "GiFShitpost"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LtCEG0hy0d",
+              "end": 40,
+              "expanded_url": "https://x.com/diddyeatspoop/status/2073616257895571717/photo/1",
+              "media_key": "16_2073616250710728704",
+              "start": 17,
+              "url": "https://t.co/LtCEG0hy0d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074950023922786424",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4934
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074280330018832534",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GiFShitpost: https://t.co/LtCEG0hy0d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2073616250710728704"
+          ],
+          "media_source_tweet_id": [
+            "2073616257895571717"
+          ]
+        },
+        "author_id": "303939260",
+        "conversation_id": "2074280330018832534",
+        "created_at": "2026-07-06T23:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T00:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074280330018832534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LtCEG0hy0d",
+              "end": 23,
+              "expanded_url": "https://x.com/diddyeatspoop/status/2073616257895571717/photo/1",
+              "media_key": "16_2073616250710728704",
+              "start": 0,
+              "url": "https://t.co/LtCEG0hy0d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074280330018832534",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37184,
+          "impression_count": 5300914,
+          "like_count": 132843,
+          "quote_count": 374,
+          "reply_count": 372,
+          "retweet_count": 4934
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LtCEG0hy0d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 睡眠账号165cm/40kg 地雷女 餐券女休学 现在做夜场营销",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "1525682758399299585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074830597709840384/kJeKJqLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 717,
+          "like_count": 4688,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 735
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-23T17:28:22.000Z",
+        "description": "Everything cursed in GIF form. Meme history & unhinged shitposting 🤠|| Sometimes videos. Nothing owned by me || Runs by @7490 ~ Sponsored by @Roobet @Clipster",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 120,
+                "username": "7490"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "Roobet"
+              },
+              {
+                "end": 158,
+                "start": 149,
+                "username": "Clipster"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/gifshitpost?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/gifshitpost?igsh=ZTNmNzF4Z3NtbXVr&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/S1gUv46S9V"
+              }
+            ]
+          }
+        },
+        "id": "303939260",
+        "location": "click that follow button",
+        "name": "GIFs Shitpost ⚡️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2190238327/cbx-jogo__93__normal.gif",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136847,
+          "following_count": 1174,
+          "like_count": 18958,
+          "listed_count": 165,
+          "media_count": 9831,
+          "tweet_count": 12614
+        },
+        "url": "https://t.co/S1gUv46S9V",
+        "username": "GiFShitpost",
+        "verified": true
+      }
+    ]
+  }
+}

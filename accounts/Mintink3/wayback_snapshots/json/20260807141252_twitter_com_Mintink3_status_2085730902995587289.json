@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2085379326988714329",
+    "created_at": "2026-08-07T14:12:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T15:12:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085730902995587289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1878984105183920128",
+          "start": 0,
+          "username": "EternalSterne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085730902995587289",
+    "in_reply_to_user_id": "1878984105183920128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085587625394745703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EternalSterne 我这边天天8am-11pm都有人守着不让乱丢垃圾 丢袋子里的东西都要打开查看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2085379326988714329",
+        "created_at": "2026-08-07T14:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085730902995587289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1878984105183920128",
+              "start": 0,
+              "username": "EternalSterne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085730902995587289",
+        "in_reply_to_user_id": "1878984105183920128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085587625394745703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EternalSterne 我这边天天8am-11pm都有人守着不让乱丢垃圾 丢袋子里的东西都要打开查看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878984105183920128",
+        "conversation_id": "2085379326988714329",
+        "created_at": "2026-08-07T04:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085587625394745703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085587625394745703",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 609,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085379326988714329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 谁家小区垃圾分离那么到位"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 844,
+          "like_count": 6400,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 977
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T01:55:16.000Z",
+        "description": "私わSternenstaub☆Lichtyahr「凌恒」Foreverです☆~\nOtaku + Linux & FOSS\nCapable of a bit Python, C++, Html\nCall me if you want newbee contributor to mess up your poi☆ject~",
+        "id": "1878984105183920128",
+        "location": "Mars (+8:00 UTC)",
+        "name": "Lichtyahr☮Σternenstaub💫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878984195604951040/ku0c466G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 92,
+          "like_count": 3816,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 127
+        },
+        "url": "",
+        "username": "EternalSterne",
+        "verified": false
+      }
+    ]
+  }
+}

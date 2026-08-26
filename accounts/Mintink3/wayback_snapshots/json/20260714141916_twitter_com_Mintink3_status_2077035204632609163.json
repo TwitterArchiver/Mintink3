@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076366000258203648"
+      ],
+      "media_source_tweet_id": [
+        "2076366006021157187"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2077035204632609163",
+    "created_at": "2026-07-14T14:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T15:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077035204632609163"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 24,
+          "tag": "沙耶の唄"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1314649112915083265",
+          "start": 3,
+          "username": "1Iwaly"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5AMjYmNZsA",
+          "end": 53,
+          "expanded_url": "https://x.com/1Iwaly/status/2076366006021157187/photo/1",
+          "media_key": "3_2076366000258203648",
+          "start": 30,
+          "url": "https://t.co/5AMjYmNZsA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077035204632609163",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 174
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076366006021157187",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1Iwaly: ,,ᴗ  ̫ ᴗ,,\n\n#沙耶の唄 https://t.co/5AMjYmNZsA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 925,
+        "media_key": "3_2076366000258203648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNC74E0WwAAlGhC.jpg",
+        "width": 1187
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076366000258203648"
+          ],
+          "media_source_tweet_id": [
+            "2076366006021157187"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2077035204632609163",
+        "created_at": "2026-07-14T14:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077035204632609163"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "沙耶の唄"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1314649112915083265",
+              "start": 3,
+              "username": "1Iwaly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5AMjYmNZsA",
+              "end": 53,
+              "expanded_url": "https://x.com/1Iwaly/status/2076366006021157187/photo/1",
+              "media_key": "3_2076366000258203648",
+              "start": 30,
+              "url": "https://t.co/5AMjYmNZsA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077035204632609163",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 174
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076366006021157187",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1Iwaly: ,,ᴗ  ̫ ᴗ,,\n\n#沙耶の唄 https://t.co/5AMjYmNZsA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076366000258203648"
+          ]
+        },
+        "author_id": "1314649112915083265",
+        "conversation_id": "2076366006021157187",
+        "created_at": "2026-07-12T18:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T19:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076366006021157187"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "沙耶の唄"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5AMjYmNZsA",
+              "end": 41,
+              "expanded_url": "https://x.com/1Iwaly/status/2076366006021157187/photo/1",
+              "media_key": "3_2076366000258203648",
+              "start": 18,
+              "url": "https://t.co/5AMjYmNZsA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076366006021157187",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 14523,
+          "like_count": 1668,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 174
+        },
+        "reply_settings": "everyone",
+        "text": ",,ᴗ  ̫ ᴗ,,\n\n#沙耶の唄 https://t.co/5AMjYmNZsA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 地雷女 餐券女休学做夜场 欢迎互fo",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "1525682758399299585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074830597709840384/kJeKJqLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 725,
+          "like_count": 4804,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 738
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-09T19:29:25.000Z",
+        "description": "I ℐ ʺ › ʹˉ ˊ ˋ ˌ ˍ ˎ ˏ ː ˑ ˒ ˓ ˔ ˕ ˖ ˗ ˘ ˙ (×﹏×)⌒♱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "1waly.carrd.co",
+                "end": 23,
+                "expanded_url": "https://1waly.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/RIhUDQEQVX"
+              }
+            ]
+          }
+        },
+        "id": "1314649112915083265",
+        "name": "𓆩♱ Iwaly",
+        "pinned_tweet_id": "1993376567381143917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931444810314924033/xeugKjXk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26385,
+          "following_count": 843,
+          "like_count": 19498,
+          "listed_count": 128,
+          "media_count": 207,
+          "tweet_count": 1175
+        },
+        "url": "https://t.co/RIhUDQEQVX",
+        "username": "1Iwaly",
+        "verified": false
+      }
+    ]
+  }
+}

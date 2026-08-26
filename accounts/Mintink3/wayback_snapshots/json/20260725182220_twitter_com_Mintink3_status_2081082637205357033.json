@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080827143370760192"
+      ],
+      "media_source_tweet_id": [
+        "2080827149829935415"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2081082637205357033",
+    "created_at": "2026-07-25T18:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T19:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081082637205357033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "836699539352375296",
+          "start": 3,
+          "username": "dewirahmat_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AkFBQuYS11",
+          "end": 56,
+          "expanded_url": "https://x.com/dewirahmat_/status/2080827149829935415/photo/1",
+          "media_key": "3_2080827143370760192",
+          "start": 33,
+          "url": "https://t.co/AkFBQuYS11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081082637205357033",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8280
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080827149829935415",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dewirahmat_: what i need now https://t.co/AkFBQuYS11"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1406,
+        "media_key": "3_2080827143370760192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOCVQx-a4AAZY5H.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080827143370760192"
+          ]
+        },
+        "author_id": "836699539352375296",
+        "conversation_id": "2080827149829935415",
+        "created_at": "2026-07-25T01:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T02:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080827149829935415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AkFBQuYS11",
+              "end": 39,
+              "expanded_url": "https://x.com/dewirahmat_/status/2080827149829935415/photo/1",
+              "media_key": "3_2080827143370760192",
+              "start": 16,
+              "url": "https://t.co/AkFBQuYS11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080827149829935415",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 525,
+          "impression_count": 281915,
+          "like_count": 28231,
+          "quote_count": 74,
+          "reply_count": 333,
+          "retweet_count": 8280
+        },
+        "reply_settings": "everyone",
+        "text": "what i need now https://t.co/AkFBQuYS11"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080827143370760192"
+          ],
+          "media_source_tweet_id": [
+            "2080827149829935415"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2081082637205357033",
+        "created_at": "2026-07-25T18:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081082637205357033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "836699539352375296",
+              "start": 3,
+              "username": "dewirahmat_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AkFBQuYS11",
+              "end": 56,
+              "expanded_url": "https://x.com/dewirahmat_/status/2080827149829935415/photo/1",
+              "media_key": "3_2080827143370760192",
+              "start": 33,
+              "url": "https://t.co/AkFBQuYS11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081082637205357033",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8280
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080827149829935415",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dewirahmat_: what i need now https://t.co/AkFBQuYS11"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074830597709840384/kJeKJqLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 750,
+          "like_count": 5389,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 840
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-28T22:08:10.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/dewirahmatt?r=…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/dewirahmatt?r=nametag",
+                "start": 0,
+                "url": "https://t.co/JebQuP2Aby"
+              }
+            ]
+          }
+        },
+        "id": "836699539352375296",
+        "location": "Solo, Jawa Tengah, Indonesia",
+        "name": "dew",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1427759518553833474/iYBcJ-l7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213269,
+          "following_count": 952,
+          "like_count": 275453,
+          "listed_count": 32,
+          "media_count": 1741,
+          "tweet_count": 287801
+        },
+        "url": "https://t.co/JebQuP2Aby",
+        "username": "dewirahmat_",
+        "verified": true
+      }
+    ]
+  }
+}

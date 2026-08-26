@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2082163298305503677",
+    "created_at": "2026-07-28T17:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T18:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082163298305503677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3619837516",
+          "start": 3,
+          "username": "sglezzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082163298305503677",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 509
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080591334289686543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sglezzzz: qué decepción me estoy llevando con ferran... acaso no hay nadie en su círculo cercano que le diga que deje de seguir a vitor…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1403,
+        "media_key": "3_2080591328618987520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN--yjkXwAAu6rz.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2082163298305503677",
+        "created_at": "2026-07-28T17:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082163298305503677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3619837516",
+              "start": 3,
+              "username": "sglezzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082163298305503677",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 509
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080591334289686543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sglezzzz: qué decepción me estoy llevando con ferran... acaso no hay nadie en su círculo cercano que le diga que deje de seguir a vitor…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080591328618987520"
+          ]
+        },
+        "author_id": "3619837516",
+        "conversation_id": "2080591334289686543",
+        "created_at": "2026-07-24T09:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080591334289686543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o3tRV5o0wd",
+              "end": 156,
+              "expanded_url": "https://x.com/sglezzzz/status/2080591334289686543/photo/1",
+              "media_key": "3_2080591328618987520",
+              "start": 133,
+              "url": "https://t.co/o3tRV5o0wd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080591334289686543",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 341,
+          "impression_count": 496908,
+          "like_count": 17909,
+          "quote_count": 37,
+          "reply_count": 112,
+          "retweet_count": 509
+        },
+        "reply_settings": "everyone",
+        "text": "qué decepción me estoy llevando con ferran... acaso no hay nadie en su círculo cercano que le diga que deje de seguir a vitor roque? https://t.co/o3tRV5o0wd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074830597709840384/kJeKJqLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 748,
+          "like_count": 5403,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 849
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-11T11:20:35.000Z",
+        "description": "socia del @fcbarcelona | 🇮🇨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "fcbarcelona"
+              }
+            ]
+          }
+        },
+        "id": "3619837516",
+        "name": "sara",
+        "pinned_tweet_id": "1504546571647700998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079193517277032448/Kxp7bTZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14084,
+          "following_count": 363,
+          "like_count": 72759,
+          "listed_count": 72,
+          "media_count": 11375,
+          "tweet_count": 48244
+        },
+        "url": "",
+        "username": "sglezzzz",
+        "verified": true
+      }
+    ]
+  }
+}

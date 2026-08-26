@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2083277830281130181",
+    "created_at": "2026-07-31T19:45:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T20:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083277830281130181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1950459875596939264",
+          "start": 3,
+          "username": "gamppan9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083277830281130181",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1868
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083103986937364953",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gamppan9: 내그림 불펌한건 용서해도 나보다 알티 많은건 용서 못한다"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2083277830281130181",
+        "created_at": "2026-07-31T19:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T20:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083277830281130181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1950459875596939264",
+              "start": 3,
+              "username": "gamppan9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083277830281130181",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1868
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083103986937364953",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gamppan9: 내그림 불펌한건 용서해도 나보다 알티 많은건 용서 못한다"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950459875596939264",
+        "conversation_id": "2083103986937364953",
+        "created_at": "2026-07-31T08:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083103986937364953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ilyvinii/statu…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/ilyvinii/status/2082527446230806889",
+              "start": 32,
+              "url": "https://t.co/1fZ6Pq0OMp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083103986937364953",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 943,
+          "impression_count": 374867,
+          "like_count": 22142,
+          "quote_count": 23,
+          "reply_count": 15,
+          "retweet_count": 1868
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082527446230806889",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "내그림 불펌한건 용서해도 나보다 알티 많은건 용서 못한다 https://t.co/1fZ6Pq0OMp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 759,
+          "like_count": 5571,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 881
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T07:34:19.000Z",
+        "description": "",
+        "id": "1950459875596939264",
+        "name": "감빵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950462706034589696/1yU55kW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5382,
+          "following_count": 83,
+          "like_count": 2844,
+          "listed_count": 15,
+          "media_count": 51,
+          "tweet_count": 569
+        },
+        "url": "",
+        "username": "gamppan9",
+        "verified": false
+      }
+    ]
+  }
+}

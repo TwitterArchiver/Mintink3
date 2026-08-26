@@ -1,0 +1,454 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri May 27 11:09:34 +0000 2022",
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          27,
+          31
+        ],
+        "text": "LCS"
+      },
+      {
+        "indices": [
+          34,
+          42
+        ],
+        "text": "MSI2022"
+      },
+      {
+        "indices": [
+          45,
+          51
+        ],
+        "text": "EGWIN"
+      }
+    ],
+    "media": [
+      {
+        "additional_media_info": {
+          "description": "",
+          "embeddable": true,
+          "monetizable": false,
+          "title": ""
+        },
+        "display_url": "pic.twitter.com/uDofxkRXHY",
+        "expanded_url": "https://twitter.com/LCSOfficial/status/1530139068817821696/video/1",
+        "id": 1530138992099745792,
+        "id_str": "1530138992099745792",
+        "indices": [
+          52,
+          75
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1530138992099745792/img/PsKDknc14K-zwD21.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1530138992099745792/img/PsKDknc14K-zwD21.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1530139068817821696,
+        "source_status_id_str": "1530139068817821696",
+        "source_user_id": 1099419521654222848,
+        "source_user_id_str": "1099419521654222848",
+        "type": "photo",
+        "url": "https://t.co/uDofxkRXHY"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1099419521654222848,
+        "id_str": "1099419521654222848",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "LCS",
+        "screen_name": "LCSOfficial"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "description": "",
+          "embeddable": true,
+          "monetizable": false,
+          "title": ""
+        },
+        "display_url": "pic.twitter.com/uDofxkRXHY",
+        "expanded_url": "https://twitter.com/LCSOfficial/status/1530139068817821696/video/1",
+        "id": 1530138992099745792,
+        "id_str": "1530138992099745792",
+        "indices": [
+          52,
+          75
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1530138992099745792/img/PsKDknc14K-zwD21.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1530138992099745792/img/PsKDknc14K-zwD21.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1530139068817821696,
+        "source_status_id_str": "1530139068817821696",
+        "source_user_id": 1099419521654222848,
+        "source_user_id_str": "1099419521654222848",
+        "type": "video",
+        "url": "https://t.co/uDofxkRXHY",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 31465,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1530138992099745792/vid/640x360/-b0GZIGY49uresXW.mp4?tag=14"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1530138992099745792/vid/1280x720/UtgdS7yixrTyFX35.mp4?tag=14"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1530138992099745792/vid/480x270/yPbh6O-IjFNxhc6B.mp4?tag=14"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1530138992099745792/pl/Wkc3NYBQ1dzeMhLL.m3u8?tag=14&container=fmp4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1530144174900539392,
+  "id_str": "1530144174900539392",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "es",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 27 10:49:17 +0000 2022",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            10,
+            14
+          ],
+          "text": "LCS"
+        },
+        {
+          "indices": [
+            17,
+            25
+          ],
+          "text": "MSI2022"
+        },
+        {
+          "indices": [
+            28,
+            34
+          ],
+          "text": "EGWIN"
+        }
+      ],
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/uDofxkRXHY",
+          "expanded_url": "https://twitter.com/LCSOfficial/status/1530139068817821696/video/1",
+          "id": 1530138992099745792,
+          "id_str": "1530138992099745792",
+          "indices": [
+            35,
+            58
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1530138992099745792/img/PsKDknc14K-zwD21.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1530138992099745792/img/PsKDknc14K-zwD21.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/uDofxkRXHY"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/uDofxkRXHY",
+          "expanded_url": "https://twitter.com/LCSOfficial/status/1530139068817821696/video/1",
+          "id": 1530138992099745792,
+          "id_str": "1530138992099745792",
+          "indices": [
+            35,
+            58
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1530138992099745792/img/PsKDknc14K-zwD21.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1530138992099745792/img/PsKDknc14K-zwD21.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/uDofxkRXHY",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 31465,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1530138992099745792/vid/640x360/-b0GZIGY49uresXW.mp4?tag=14"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1530138992099745792/vid/1280x720/UtgdS7yixrTyFX35.mp4?tag=14"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1530138992099745792/vid/480x270/yPbh6O-IjFNxhc6B.mp4?tag=14"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1530138992099745792/pl/Wkc3NYBQ1dzeMhLL.m3u8?tag=14&container=fmp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 254,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1530139068817821696,
+    "id_str": "1530139068817821696",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "es",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 7,
+    "reply_count": 11,
+    "retweet_count": 22,
+    "retweeted": false,
+    "source": "<a href=\"https://www.twitter.com/\" rel=\"nofollow\">Twitter Media Studio - LiveCut</a>",
+    "text": "JOJO!!!!\n\n#LCS | #MSI2022 | #EGWIN https://t.co/uDofxkRXHY",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Feb 23 21:23:34 +0000 2019",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Official Twitter account for the League Championship Series! #LCS",
+      "favourites_count": 12681,
+      "follow_request_sent": null,
+      "followers_count": 240167,
+      "following": null,
+      "friends_count": 280,
+      "geo_enabled": false,
+      "id": 1099419521654222848,
+      "id_str": "1099419521654222848",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 751,
+      "location": null,
+      "name": "LCS",
+      "notifications": null,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1099419521654222848/1651854503",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1522614259561074689/IrAbfMWc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1522614259561074689/IrAbfMWc_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "LCSOfficial",
+      "statuses_count": 19049,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://lolesports.com/live/lcs",
+      "utc_offset": null,
+      "verified": true,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @LCSOfficial: JOJO!!!!\n\n#LCS | #MSI2022 | #EGWIN https://t.co/uDofxkRXHY",
+  "timestamp_ms": "1653649774657",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Mon Feb 14 00:17:01 +0000 2022",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "DWG(DK)-GENG（SSG)-EG-SKT(T1)-NS-RNG ^Team^\nKiin-Teddy-Umti-Deft-Rich-Clid-Corejj-Hanssama  ^Single^\nBIGBANG 5 FOREVER",
+    "favourites_count": 2345,
+    "follow_request_sent": null,
+    "followers_count": 30,
+    "following": null,
+    "friends_count": 404,
+    "geo_enabled": false,
+    "id": 1493016356182056961,
+    "id_str": "1493016356182056961",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": "New Germany, South Africa",
+    "name": "Predawn",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1649350993",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1514299548679622657/C-bKxcrs_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1514299548679622657/C-bKxcrs_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "Mintink3",
+    "statuses_count": 903,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}
