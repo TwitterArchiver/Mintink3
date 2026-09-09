@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Mia Goth",
+          "id": "1022190482888126464",
+          "name": "Mia Goth"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Mia Goth",
+          "id": "1022190482888126464",
+          "name": "Mia Goth"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Mia Goth",
+          "id": "1022190482888126464",
+          "name": "Mia Goth"
+        }
+      }
+    ],
+    "conversation_id": "2092730615800176748",
+    "created_at": "2026-08-26T21:47:14.000Z",
+    "display_text_range": [
+      0,
+      153
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T22:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092730615800176748"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2092730615800176748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "刚看完Pearl太喜欢Mia Goth这部电影的一些画面的配色了\n\n虽然很多剧情我能猜到 但是真的特别好看\n\n看到Pearl妈妈家压抑的氛围就想起我妈妈也是同样的令人窒息 我每次想跟同学出去玩我妈妈都要跟着 我不让 她就偷偷跟着 还要给我同学的家长打电话 导致我初中高中都几乎没跟朋友出去玩过 也没什么朋友\n\nPearl独白那一段我真的很有感触 一长段一镜到底的独白 没有别的画面 但是那一段真的深入我心 Pearl真的太可怜了 \n\n明天陪客户去看The Odyssey又能看到Mia了"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚看完Pearl太喜欢Mia Goth这部电影的一些画面的配色了\n\n虽然很多剧情我能猜到 但是真的特别好看\n\n看到Pearl妈妈家压抑的氛围就想起我妈妈也是同样的令人窒息 我每次想跟同学出去玩我妈妈都要跟着 我不让 她就偷偷跟着 还要给我同学的家长打电话 导致我初中高中都几乎没跟朋友出去玩过 也没什么朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Mia Goth",
+              "id": "1022190482888126464",
+              "name": "Mia Goth"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Mia Goth",
+              "id": "1022190482888126464",
+              "name": "Mia Goth"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mia Goth",
+              "id": "1022190482888126464",
+              "name": "Mia Goth"
+            }
+          }
+        ],
+        "conversation_id": "2092730615800176748",
+        "created_at": "2026-08-26T21:47:14.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T22:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092730615800176748"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092730615800176748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "刚看完Pearl太喜欢Mia Goth这部电影的一些画面的配色了\n\n虽然很多剧情我能猜到 但是真的特别好看\n\n看到Pearl妈妈家压抑的氛围就想起我妈妈也是同样的令人窒息 我每次想跟同学出去玩我妈妈都要跟着 我不让 她就偷偷跟着 还要给我同学的家长打电话 导致我初中高中都几乎没跟朋友出去玩过 也没什么朋友\n\nPearl独白那一段我真的很有感触 一长段一镜到底的独白 没有别的画面 但是那一段真的深入我心 Pearl真的太可怜了 \n\n明天陪客户去看The Odyssey又能看到Mia了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚看完Pearl太喜欢Mia Goth这部电影的一些画面的配色了\n\n虽然很多剧情我能猜到 但是真的特别好看\n\n看到Pearl妈妈家压抑的氛围就想起我妈妈也是同样的令人窒息 我每次想跟同学出去玩我妈妈都要跟着 我不让 她就偷偷跟着 还要给我同学的家长打电话 导致我初中高中都几乎没跟朋友出去玩过 也没什么朋友"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2092730615800176748",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 1082,
+          "like_count": 9560,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 1397
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

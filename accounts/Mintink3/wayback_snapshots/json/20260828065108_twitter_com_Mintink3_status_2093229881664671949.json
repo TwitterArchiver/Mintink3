@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092960193294573568",
+        "3_2092960193265188865"
+      ],
+      "media_source_tweet_id": [
+        "2092960200902967443",
+        "2092960200902967443"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1294427893045399554",
+          "name": "Pretty Series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1294427893045399554",
+          "name": "Pretty Series"
+        }
+      }
+    ],
+    "conversation_id": "2093229881664671949",
+    "created_at": "2026-08-28T06:51:08.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T07:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093229881664671949"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "プリパラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1917628306066923522",
+          "start": 3,
+          "username": "ring5cos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LBcZAToInQ",
+          "end": 48,
+          "expanded_url": "https://x.com/ring5cos/status/2092960200902967443/photo/1",
+          "media_key": "3_2092960193294573568",
+          "start": 25,
+          "url": "https://t.co/LBcZAToInQ"
+        },
+        {
+          "display_url": "pic.x.com/LBcZAToInQ",
+          "end": 48,
+          "expanded_url": "https://x.com/ring5cos/status/2092960200902967443/photo/1",
+          "media_key": "3_2092960193265188865",
+          "start": 25,
+          "url": "https://t.co/LBcZAToInQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093229881664671949",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2092960193294573568"
+      },
+      {
+        "media_key": "3_2092960193265188865"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 371
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092960200902967443",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ring5cos: かのぺろ\n#プリパラ https://t.co/LBcZAToInQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1096,
+        "media_key": "3_2092960193294573568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQuwNPJbIAAGVP7.jpg",
+        "width": 825
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092960193265188865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQuwNPCawAEwsup.jpg",
+        "width": 1541
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092960193294573568",
+            "3_2092960193265188865"
+          ],
+          "media_source_tweet_id": [
+            "2092960200902967443",
+            "2092960200902967443"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1294427893045399554",
+              "name": "Pretty Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1294427893045399554",
+              "name": "Pretty Series"
+            }
+          }
+        ],
+        "conversation_id": "2093229881664671949",
+        "created_at": "2026-08-28T06:51:08.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T07:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093229881664671949"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "プリパラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1917628306066923522",
+              "start": 3,
+              "username": "ring5cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LBcZAToInQ",
+              "end": 48,
+              "expanded_url": "https://x.com/ring5cos/status/2092960200902967443/photo/1",
+              "media_key": "3_2092960193294573568",
+              "start": 25,
+              "url": "https://t.co/LBcZAToInQ"
+            },
+            {
+              "display_url": "pic.x.com/LBcZAToInQ",
+              "end": 48,
+              "expanded_url": "https://x.com/ring5cos/status/2092960200902967443/photo/1",
+              "media_key": "3_2092960193265188865",
+              "start": 25,
+              "url": "https://t.co/LBcZAToInQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093229881664671949",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092960193294573568"
+          },
+          {
+            "media_key": "3_2092960193265188865"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 371
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092960200902967443",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ring5cos: かのぺろ\n#プリパラ https://t.co/LBcZAToInQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092960193294573568",
+            "3_2092960193265188865"
+          ]
+        },
+        "author_id": "1917628306066923522",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1294427893045399554",
+              "name": "Pretty Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1294427893045399554",
+              "name": "Pretty Series"
+            }
+          }
+        ],
+        "conversation_id": "2092960200902967443",
+        "created_at": "2026-08-27T12:59:31.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092960200902967443"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "プリパラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LBcZAToInQ",
+              "end": 34,
+              "expanded_url": "https://x.com/ring5cos/status/2092960200902967443/photo/1",
+              "media_key": "3_2092960193294573568",
+              "start": 11,
+              "url": "https://t.co/LBcZAToInQ"
+            },
+            {
+              "display_url": "pic.x.com/LBcZAToInQ",
+              "end": 34,
+              "expanded_url": "https://x.com/ring5cos/status/2092960200902967443/photo/1",
+              "media_key": "3_2092960193265188865",
+              "start": 11,
+              "url": "https://t.co/LBcZAToInQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092960200902967443",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092960193294573568"
+          },
+          {
+            "media_key": "3_2092960193265188865"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 250,
+          "impression_count": 50928,
+          "like_count": 3948,
+          "quote_count": 39,
+          "reply_count": 3,
+          "retweet_count": 371
+        },
+        "reply_settings": "everyone",
+        "text": "かのぺろ\n#プリパラ https://t.co/LBcZAToInQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍💊休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2093229881664671949",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 1079,
+          "like_count": 9795,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1410
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-30T17:13:30.000Z",
+        "description": "@Dydajflgodks112 ♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "Dydajflgodks112"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/ring5",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/ring5",
+                "start": 0,
+                "url": "https://t.co/M8U9SRgLZn"
+              }
+            ]
+          }
+        },
+        "id": "1917628306066923522",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093207367999778953",
+        "name": "リンゴ",
+        "pinned_tweet_id": "2092960200902967443",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917628306066923522/1779612848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058468867366920192/phNq_grP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 198,
+          "like_count": 2961,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 322
+        },
+        "url": "https://t.co/M8U9SRgLZn",
+        "username": "ring5cos",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

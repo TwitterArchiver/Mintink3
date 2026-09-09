@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2094449408360554858",
+    "created_at": "2026-08-31T15:37:06.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T16:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094449408360554858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1946149148878852096",
+          "start": 3,
+          "username": "todorokidoya1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094449408360554858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094434130322993453",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @todorokidoya1: 寻狗启事\n我家爱犬小雪于8.19日11:20左右在天津市河北区真诚里13号楼104附近走失 8.20日被好心人发现在井冈山路瑞光里与32中一个路口发现小狗 后它又离开了那个地方 \n小狗名字：小雪\n品种：泰迪 \n体型：小 大约10斤左右 \n特…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1596,
+        "media_key": "3_2094434125495304193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDsvYeagAEIC-d.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2094449408360554858",
+        "created_at": "2026-08-31T15:37:06.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T16:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094449408360554858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1946149148878852096",
+              "start": 3,
+              "username": "todorokidoya1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094449408360554858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094434130322993453",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @todorokidoya1: 寻狗启事\n我家爱犬小雪于8.19日11:20左右在天津市河北区真诚里13号楼104附近走失 8.20日被好心人发现在井冈山路瑞光里与32中一个路口发现小狗 后它又离开了那个地方 \n小狗名字：小雪\n品种：泰迪 \n体型：小 大约10斤左右 \n特…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094434125495304193"
+          ]
+        },
+        "author_id": "1946149148878852096",
+        "conversation_id": "2094434130322993453",
+        "created_at": "2026-08-31T14:36:24.000Z",
+        "display_text_range": [
+          0,
+          155
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094434130322993453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5TjcyBW7s1",
+              "end": 179,
+              "expanded_url": "https://x.com/todorokidoya1/status/2094434130322993453/photo/1",
+              "media_key": "3_2094434125495304193",
+              "start": 156,
+              "url": "https://t.co/5TjcyBW7s1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094434130322993453",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094434125495304193"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "寻狗启事\n我家爱犬小雪于8.19日11:20左右在天津市河北区真诚里13号楼104附近走失 8.20日被好心人发现在井冈山路瑞光里与32中一个路口发现小狗 后它又离开了那个地方 \n小狗名字：小雪\n品种：泰迪 \n体型：小 大约10斤左右 \n特征：胸口有白毛 整体为棕色 胆子小 \n性别：小女孩 \n在天津河北区附近 住在附近的看到它 一定帮忙控制住它不要让它再乱跑了！然后注意不要伤到自己 尽快联系我！我会马上到达！\n提供准确线索 帮忙找到小狗的必有重谢！！！！！！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 572,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 9
+        },
+        "reply_settings": "other",
+        "text": "寻狗启事\n我家爱犬小雪于8.19日11:20左右在天津市河北区真诚里13号楼104附近走失 8.20日被好心人发现在井冈山路瑞光里与32中一个路口发现小狗 后它又离开了那个地方 \n小狗名字：小雪\n品种：泰迪 \n体型：小 大约10斤左右 \n特征：胸口有白毛 整体为棕色 胆子小 \n性别：小女孩 \n在天津河北区附近 https://t.co/5TjcyBW7s1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 性冷淡 重度焦虑 重度睡眠障碍💊休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2094449408360554858",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2094060987481837990",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 1109,
+          "like_count": 10478,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1497
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-18T10:05:17.000Z",
+        "description": "主人@x_ayane_\n小号@o0omftft",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "x_ayane_"
+              },
+              {
+                "end": 23,
+                "start": 14,
+                "username": "o0omftft"
+              }
+            ]
+          }
+        },
+        "id": "1946149148878852096",
+        "is_identity_verified": false,
+        "location": "绘画世界",
+        "most_recent_tweet_id": "2094434130322993453",
+        "name": "0o0",
+        "pinned_tweet_id": "2093372358287569248",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946149148878852096/1753153892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947494571715461120/yN7x2Gqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 589,
+          "like_count": 80808,
+          "listed_count": 0,
+          "media_count": 487,
+          "tweet_count": 5371
+        },
+        "url": "",
+        "username": "todorokidoya1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

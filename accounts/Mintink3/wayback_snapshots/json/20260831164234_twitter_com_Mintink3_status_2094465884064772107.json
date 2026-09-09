@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094465873369239552"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2094465884064772107",
+    "created_at": "2026-08-31T16:42:34.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T17:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094465884064772107"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VL0QkM36MM",
+          "end": 41,
+          "expanded_url": "https://x.com/Mintink3/status/2094465884064772107/photo/1",
+          "media_key": "3_2094465873369239552",
+          "start": 18,
+          "url": "https://t.co/VL0QkM36MM"
+        },
+        {
+          "display_url": "x.com/17nuun/status/…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/17nuun/status/2094288795663483056",
+          "start": 42,
+          "url": "https://t.co/gkCGGcYFCz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094465884064772107",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094465873369239552"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094288795663483056",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我每天出门不是去上班挣钱就是去医院 https://t.co/VL0QkM36MM https://t.co/gkCGGcYFCz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1570,
+        "media_key": "3_2094465873369239552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HREJnWhaEAAYv4X.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1570,
+        "media_key": "3_2094288787019051008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRBojkdasAAa8MR.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094465873369239552"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2094465884064772107",
+        "created_at": "2026-08-31T16:42:34.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T17:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094465884064772107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VL0QkM36MM",
+              "end": 41,
+              "expanded_url": "https://x.com/Mintink3/status/2094465884064772107/photo/1",
+              "media_key": "3_2094465873369239552",
+              "start": 18,
+              "url": "https://t.co/VL0QkM36MM"
+            },
+            {
+              "display_url": "x.com/17nuun/status/…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/17nuun/status/2094288795663483056",
+              "start": 42,
+              "url": "https://t.co/gkCGGcYFCz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094465884064772107",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094465873369239552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094288795663483056",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我每天出门不是去上班挣钱就是去医院 https://t.co/VL0QkM36MM https://t.co/gkCGGcYFCz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094288787019051008"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2094288795663483056",
+        "created_at": "2026-08-31T04:58:53.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T05:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094288795663483056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FeEE1UsNjN",
+              "end": 37,
+              "expanded_url": "https://x.com/17nuun/status/2094288795663483056/photo/1",
+              "media_key": "3_2094288787019051008",
+              "start": 14,
+              "url": "https://t.co/FeEE1UsNjN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094288795663483056",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094288787019051008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5088,
+          "like_count": 69,
+          "quote_count": 18,
+          "reply_count": 13,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "全推特最难的BINGO来了 https://t.co/FeEE1UsNjN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 性冷淡 重度焦虑 重度睡眠障碍💊休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2094465884064772107",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2094060987481837990",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 1112,
+          "like_count": 10521,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 1499
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\n剩余存活日期？？？天\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊od/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "is_identity_verified": false,
+        "location": "正在拥抱你",
+        "most_recent_tweet_id": "2094407332889571774",
+        "name": "海月水母x17",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063266311254552576/1782389209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2698,
+          "following_count": 288,
+          "like_count": 1947,
+          "listed_count": 3,
+          "media_count": 179,
+          "tweet_count": 1423
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

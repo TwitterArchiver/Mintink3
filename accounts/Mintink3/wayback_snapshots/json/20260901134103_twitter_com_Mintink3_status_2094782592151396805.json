@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2094641451921748055",
+    "created_at": "2026-09-01T13:41:03.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T14:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094782592151396805"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2094782592151396805",
+    "in_reply_to_user_id": "1493016356182056961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094641451921748055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在不在北京 北京只是我离家的第一站"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2094641451921748055",
+        "created_at": "2026-09-01T13:41:03.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T14:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094782592151396805"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094782592151396805",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094641451921748055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在不在北京 北京只是我离家的第一站"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2094641451921748055",
+        "created_at": "2026-09-01T04:20:13.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T05:09:05.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094638651653362170",
+          "2094640238694174798",
+          "2094640623550910706",
+          "2094641451921748055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094641451921748055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "太窒息了 太绝望了 \n\n昨天睡了5小时今天睡了3小时 被我妈强制打电话叫醒查岗\n\n我都离家出来这么久了还天天查岗 我不接电话就报警（她只是问我吃饭了没有和在干什么）\n\n我刚离开家去北京的一个月她甚至平均每天给我打11个电话 最多一天22个电话\n\n我一直觉得我妈精神问题比我大 但是她说她考过了国家心理咨询师二级证书 她说她很健全 都是我才心理有问题\n\n我真的受不了\n\n我本来就是受不了她在家经常因为一些非常小的事情（比如我晾衣服的时候衣服没扯平衣角）而让我跪着四个小时一直骂我才跑出来生活的 \n\n她把从她家人对她催婚和一直嫌弃她不成事的无奈 对前夫（我爸）出轨和欠钱不还的愤恨 对来自公司其他人对她的勾心斗角 都发泄在了我身上\n\n但是没办法我还是没法脱离原生家庭 我妈妈现在每个月还要找我要钱\n\n我发誓以上我说的都是真的\n\n这真的太窒息了\n\n我妈妈已经报警抓我差不多10次了 \n\n我曾经因为被报警太多次 被室友嫌弃闹掰了 我现在独居"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2166,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太窒息了 太绝望了 \n\n昨天睡了5小时今天睡了3小时 被我妈强制打电话叫醒查岗\n\n我都离家出来这么久了还天天查岗 我不接电话就报警（她只是问我吃饭了没有和在干什么）\n\n我刚离开家去北京的一个月她甚至平均每天给我打11个电话 最多一天22个电话\n\n我一直觉得我妈精神问题比我大"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 性冷淡 重度焦虑 重度睡眠障碍💊休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2094782592151396805",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2094060987481837990",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 1123,
+          "like_count": 10754,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1520
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

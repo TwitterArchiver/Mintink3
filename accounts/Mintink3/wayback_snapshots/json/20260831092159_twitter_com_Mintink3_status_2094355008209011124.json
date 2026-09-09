@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2094148858087645184"
+      ],
+      "media_source_tweet_id": [
+        "2094148882024616420"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2094355008209011124",
+    "created_at": "2026-08-31T09:21:59.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T10:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094355008209011124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1580614537845542912",
+          "start": 3,
+          "username": "jynsno"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/neFEQKv8cJ",
+          "end": 35,
+          "expanded_url": "https://x.com/jynsno/status/2094148882024616420/video/1",
+          "media_key": "13_2094148858087645184",
+          "start": 12,
+          "url": "https://t.co/neFEQKv8cJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094355008209011124",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2094148858087645184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094148882024616420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @jynsno: https://t.co/neFEQKv8cJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13001,
+        "height": 1280,
+        "media_key": "13_2094148858087645184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094148858087645184/img/_bxQ075fbETa4-rG.jpg",
+        "public_metrics": {
+          "view_count": 4087
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094148858087645184/vid/avc1/320x568/sdRw-9tQylnR84rh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094148858087645184/vid/avc1/480x852/1MmCohG_R7oTkCTv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094148858087645184/vid/avc1/720x1280/DB_KbfuT53mLQCHT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094148858087645184/pl/arm4fHnwr2Ug4AvJ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094148858087645184"
+          ],
+          "media_source_tweet_id": [
+            "2094148882024616420"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2094355008209011124",
+        "created_at": "2026-08-31T09:21:59.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T10:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094355008209011124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1580614537845542912",
+              "start": 3,
+              "username": "jynsno"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/neFEQKv8cJ",
+              "end": 35,
+              "expanded_url": "https://x.com/jynsno/status/2094148882024616420/video/1",
+              "media_key": "13_2094148858087645184",
+              "start": 12,
+              "url": "https://t.co/neFEQKv8cJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094355008209011124",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2094148858087645184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094148882024616420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @jynsno: https://t.co/neFEQKv8cJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094148858087645184"
+          ]
+        },
+        "author_id": "1580614537845542912",
+        "conversation_id": "2094148882024616420",
+        "created_at": "2026-08-30T19:42:55.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T20:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094148882024616420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/neFEQKv8cJ",
+              "end": 23,
+              "expanded_url": "https://x.com/jynsno/status/2094148882024616420/video/1",
+              "media_key": "13_2094148858087645184",
+              "start": 0,
+              "url": "https://t.co/neFEQKv8cJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094148882024616420",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2094148858087645184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 15348,
+          "like_count": 1208,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 18
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/neFEQKv8cJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 性冷淡 重度焦虑 重度睡眠障碍💊休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2094355008209011124",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2094060987481837990",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 1106,
+          "like_count": 10453,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 1493
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-13T17:40:55.000Z",
+        "description": "@clxlns @Vppwgmgmpd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "clxlns"
+              },
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Vppwgmgmpd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sino3",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sino3",
+                "start": 0,
+                "url": "https://t.co/OhOHJReWnV"
+              }
+            ]
+          }
+        },
+        "id": "1580614537845542912",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094148882024616420",
+        "name": "紫n",
+        "pinned_tweet_id": "2066155040885342585",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026383441764536320/jMpj_ksS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19227,
+          "following_count": 29,
+          "like_count": 9112,
+          "listed_count": 49,
+          "media_count": 104,
+          "tweet_count": 269
+        },
+        "url": "https://t.co/OhOHJReWnV",
+        "username": "jynsno",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

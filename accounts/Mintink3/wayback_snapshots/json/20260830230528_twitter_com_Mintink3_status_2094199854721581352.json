@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2094199854721581352",
+    "created_at": "2026-08-30T23:05:28.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T00:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094199854721581352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1005657448831692800",
+          "start": 3,
+          "username": "DRodbone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094199854721581352",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33899
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093783099360305331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DRodbone: I think the fact that the United States just legalized child pornography should be bigger news."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2094199854721581352",
+        "created_at": "2026-08-30T23:05:28.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T00:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094199854721581352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1005657448831692800",
+              "start": 3,
+              "username": "DRodbone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094199854721581352",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33899
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093783099360305331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DRodbone: I think the fact that the United States just legalized child pornography should be bigger news."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1005657448831692800",
+        "conversation_id": "2093783099360305331",
+        "created_at": "2026-08-29T19:29:26.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T20:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093783099360305331"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093783099360305331",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8569,
+          "impression_count": 6036612,
+          "like_count": 239694,
+          "quote_count": 988,
+          "reply_count": 923,
+          "retweet_count": 33899
+        },
+        "reply_settings": "everyone",
+        "text": "I think the fact that the United States just legalized child pornography should be bigger news."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 性冷淡 重度焦虑 重度睡眠障碍💊休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2094199854721581352",
+        "name": "Beatrice",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 1104,
+          "like_count": 10262,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 1484
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-06-10T03:46:34.000Z",
+        "description": "Proud Canadian Patriot. Blocked by prominent traitors to 🇨🇦. #BuyCanadian. \nWe've got this! F*ck Trump and Poilievre.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 61,
+                "tag": "BuyCanadian"
+              }
+            ]
+          }
+        },
+        "id": "1005657448831692800",
+        "is_identity_verified": false,
+        "location": "Canada",
+        "most_recent_tweet_id": "2094029625722613913",
+        "name": "Paranoid Humanoid",
+        "pinned_tweet_id": "2024938816239534241",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1005657448831692800/1648344955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1485116242902061056/HnR7nkuy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5556,
+          "following_count": 4801,
+          "like_count": 124678,
+          "listed_count": 110,
+          "media_count": 2064,
+          "tweet_count": 27061
+        },
+        "url": "",
+        "username": "DRodbone",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

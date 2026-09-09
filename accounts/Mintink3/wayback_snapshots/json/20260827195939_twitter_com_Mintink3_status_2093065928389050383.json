@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092528618346000384"
+      ],
+      "media_source_tweet_id": [
+        "2092528624503312427"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2093065928389050383",
+    "created_at": "2026-08-27T19:59:39.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T20:59:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093065928389050383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1719618660627853312",
+          "start": 3,
+          "username": "miku2789"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VGVa8IWsAg",
+          "end": 48,
+          "expanded_url": "https://x.com/miku2789/status/2092528624503312427/photo/1",
+          "media_key": "3_2092528618346000384",
+          "start": 25,
+          "url": "https://t.co/VGVa8IWsAg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093065928389050383",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2092528618346000384"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092528624503312427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miku2789: ナチュラルにキスして https://t.co/VGVa8IWsAg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2092528618346000384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQonsRLaMAA6YNk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092528618346000384"
+          ],
+          "media_source_tweet_id": [
+            "2092528624503312427"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2093065928389050383",
+        "created_at": "2026-08-27T19:59:39.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T20:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093065928389050383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1719618660627853312",
+              "start": 3,
+              "username": "miku2789"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VGVa8IWsAg",
+              "end": 48,
+              "expanded_url": "https://x.com/miku2789/status/2092528624503312427/photo/1",
+              "media_key": "3_2092528618346000384",
+              "start": 25,
+              "url": "https://t.co/VGVa8IWsAg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093065928389050383",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092528618346000384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092528624503312427",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miku2789: ナチュラルにキスして https://t.co/VGVa8IWsAg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092528618346000384"
+          ]
+        },
+        "author_id": "1719618660627853312",
+        "conversation_id": "2092528624503312427",
+        "created_at": "2026-08-26T08:24:36.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T09:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092528624503312427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VGVa8IWsAg",
+              "end": 34,
+              "expanded_url": "https://x.com/miku2789/status/2092528624503312427/photo/1",
+              "media_key": "3_2092528618346000384",
+              "start": 11,
+              "url": "https://t.co/VGVa8IWsAg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092528624503312427",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092528618346000384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 12971,
+          "like_count": 1261,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "ナチュラルにキスして https://t.co/VGVa8IWsAg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2093065928389050383",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 1092,
+          "like_count": 9765,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1409
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-01T07:33:52.000Z",
+        "description": "ゴミ箱に入る @xxlyill44",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "xxlyill44"
+              }
+            ]
+          }
+        },
+        "id": "1719618660627853312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092972822213849265",
+        "name": "せかい",
+        "pinned_tweet_id": "1793243562295107593",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1719618660627853312/1735556185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851913338797903872/jZvkfySu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7382,
+          "following_count": 17,
+          "like_count": 5931,
+          "listed_count": 15,
+          "media_count": 324,
+          "tweet_count": 5618
+        },
+        "url": "",
+        "username": "miku2789",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

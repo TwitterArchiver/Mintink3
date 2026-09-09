@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2093446262632935500",
+    "created_at": "2026-08-28T21:51:43.000Z",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T22:51:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093456520784785429"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2093456520784785429",
+    "in_reply_to_user_id": "1493016356182056961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093446262632935500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "关于为什么我能赚那么多钱 是因为我以前是劳模 白天女仆店（48谢珊珊同款女仆店）晚上酒吧营销➕组局 偶尔还接接外场单子 我不用上学 一天睡6小时 其他时间都在赚钱攒钱 为了省打车钱骑电瓶车上班 吃拼好饭 每月来姨妈也不耽误上班喝酒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2093446262632935500",
+        "created_at": "2026-08-28T21:51:43.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T22:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093456520784785429"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093456520784785429",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093446262632935500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于为什么我能赚那么多钱 是因为我以前是劳模 白天女仆店（48谢珊珊同款女仆店）晚上酒吧营销➕组局 偶尔还接接外场单子 我不用上学 一天睡6小时 其他时间都在赚钱攒钱 为了省打车钱骑电瓶车上班 吃拼好饭 每月来姨妈也不耽误上班喝酒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2093446262632935500",
+        "created_at": "2026-08-28T21:10:58.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T22:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093446262632935500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/banbendaan/sta…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/banbendaan/status/2092942335323811961",
+              "start": 150,
+              "url": "https://t.co/KGZTlaf5FT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093446262632935500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "看完了 我潸然泪下 就像照镜子\n\n我干夜场这两年被两个男人先后骗走27万和51万 单位是CNY 这是事实\n\n恋爱脑实在太可怕了 那时我初入夜场 一下子赚到了很多钱 觉得一切都很容易 未曾想会落入为我量身定做的骗局\n\n骗我27万那个人投资诈骗我30万 还了我3万后锒铛入狱（诈骗2000万被别人告的）\n\n骗我50万那个是我的前男友 说自己父母突然出车祸、自己突然的病等一系列借口半年向我索要五十多万 我扬言要告他 他就每周还我一百块钱一直拖延 无法定性为诈骗 \n\n这些是我一直抑郁焦虑的原因之一"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 519,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092942335323811961",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看完了 我潸然泪下 就像照镜子\n\n我干夜场这两年被两个男人先后骗走27万和51万 单位是CNY 这是事实\n\n恋爱脑实在太可怕了 那时我初入夜场 一下子赚到了很多钱 觉得一切都很容易 未曾想会落入为我量身定做的骗局\n\n骗我27万那个人投资诈骗我30万 还了我3万后锒铛入狱（诈骗2000万被别人告的） https://t.co/KGZTlaf5FT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 性冷淡 重度焦虑 重度睡眠障碍💊休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2093456520784785429",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 1087,
+          "like_count": 9898,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 1428
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

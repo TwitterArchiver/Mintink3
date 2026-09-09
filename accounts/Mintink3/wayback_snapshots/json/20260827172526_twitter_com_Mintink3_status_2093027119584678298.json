@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093027112743759873"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2093027119584678298",
+    "created_at": "2026-08-27T17:25:26.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T18:22:37.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093026411292524633",
+      "2093027119584678298"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2a47KQ0h07",
+          "end": 36,
+          "expanded_url": "https://x.com/Mintink3/status/2093027119584678298/photo/1",
+          "media_key": "3_2093027112743759873",
+          "start": 13,
+          "url": "https://t.co/2a47KQ0h07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093027119584678298",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2093027112743759873"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉化妆最有蕾味的一次了 https://t.co/2a47KQ0h07"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1921,
+        "media_key": "3_2093026404543913984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvsbPRaYAAA7nQ.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1921,
+        "media_key": "3_2093027112743759873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvtEdhacAEEUZl.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093026404543913984"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2093026411292524633",
+        "created_at": "2026-08-27T17:22:37.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T18:22:37.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093026411292524633",
+          "2093027119584678298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xPzWMShC9k",
+              "end": 36,
+              "expanded_url": "https://x.com/Mintink3/status/2093026411292524633/photo/1",
+              "media_key": "3_2093026404543913984",
+              "start": 13,
+              "url": "https://t.co/xPzWMShC9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093026411292524633",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093026404543913984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉化妆最有蕾味的一次了 https://t.co/xPzWMShC9k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093027112743759873"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2093027119584678298",
+        "created_at": "2026-08-27T17:25:26.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T18:22:37.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093026411292524633",
+          "2093027119584678298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2a47KQ0h07",
+              "end": 36,
+              "expanded_url": "https://x.com/Mintink3/status/2093027119584678298/photo/1",
+              "media_key": "3_2093027112743759873",
+              "start": 13,
+              "url": "https://t.co/2a47KQ0h07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093027119584678298",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093027112743759873"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉化妆最有蕾味的一次了 https://t.co/2a47KQ0h07"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2093027119584678298",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 1082,
+          "like_count": 9670,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1404
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

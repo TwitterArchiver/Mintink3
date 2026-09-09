@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2093583920168370176"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2093583949054562591",
+    "created_at": "2026-08-29T06:18:05.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T07:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093583949054562591"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SmKvBuWMER",
+          "end": 55,
+          "expanded_url": "https://x.com/Mintink3/status/2093583949054562591/video/1",
+          "media_key": "13_2093583920168370176",
+          "start": 32,
+          "url": "https://t.co/SmKvBuWMER"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093583949054562591",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2093583920168370176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "起来了 一切都会过去的 \n不去想从前的事情了\n今天还有新的工作 https://t.co/SmKvBuWMER"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10330,
+        "height": 1280,
+        "media_key": "13_2093583920168370176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093583920168370176/img/_pVwUdV_rncJyEEs.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093583920168370176/vid/avc1/320x568/WjQ9k1vrp9VDzd7y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093583920168370176/vid/avc1/480x852/RR1n7ZdJXc5AChYY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093583920168370176/vid/avc1/720x1280/r9y-r5PDPCcw6pfr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093583920168370176/pl/fi1R-t_52B3_EhLv.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093583920168370176"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2093583949054562591",
+        "created_at": "2026-08-29T06:18:05.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T07:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093583949054562591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SmKvBuWMER",
+              "end": 55,
+              "expanded_url": "https://x.com/Mintink3/status/2093583949054562591/video/1",
+              "media_key": "13_2093583920168370176",
+              "start": 32,
+              "url": "https://t.co/SmKvBuWMER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093583949054562591",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2093583920168370176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "起来了 一切都会过去的 \n不去想从前的事情了\n今天还有新的工作 https://t.co/SmKvBuWMER"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 性冷淡 重度焦虑 重度睡眠障碍💊休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2093583949054562591",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 1093,
+          "like_count": 9932,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 1433
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

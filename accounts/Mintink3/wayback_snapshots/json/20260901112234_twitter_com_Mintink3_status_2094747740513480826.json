@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2094641451921748055",
+    "created_at": "2026-09-01T11:22:34.000Z",
+    "display_text_range": [
+      12,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T12:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094747740513480826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1655191729795125249",
+          "start": 0,
+          "username": "chj1892380"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094747740513480826",
+    "in_reply_to_user_id": "1655191729795125249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094743938557235468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chj1892380 其实我没想伤害她 我只能远离 逃离"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2094641451921748055",
+        "created_at": "2026-09-01T11:22:34.000Z",
+        "display_text_range": [
+          12,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T12:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094747740513480826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1655191729795125249",
+              "start": 0,
+              "username": "chj1892380"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094747740513480826",
+        "in_reply_to_user_id": "1655191729795125249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094743938557235468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chj1892380 其实我没想伤害她 我只能远离 逃离"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655191729795125249",
+        "conversation_id": "2094641451921748055",
+        "created_at": "2026-09-01T11:07:28.000Z",
+        "display_text_range": [
+          10,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T12:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094743938557235468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094743938557235468",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094641451921748055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 可能你太正常了，回家哇哇大叫直接拿🔪乱砍，别对着自己对着她，警告她要是再这样一刀砍死，强调是她把你逼疯的，这样要么送精神病医院远离她，要么她也会乖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 性冷淡 重度焦虑 重度睡眠障碍💊休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2094747740513480826",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2094060987481837990",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 1122,
+          "like_count": 10727,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1513
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-07T12:44:07.000Z",
+        "description": "⭐️压抑🦐÷楠，阴暗死宅🐮🐴力工૮₍ ˶•‸•˶₎ა梦想是和美少女尽情教培！",
+        "id": "1655191729795125249",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2094744321358807315",
+        "name": "NeetO3O",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021021335867330560/wcBCCZhg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 5,
+          "like_count": 2259,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 461
+        },
+        "url": "",
+        "username": "chj1892380",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

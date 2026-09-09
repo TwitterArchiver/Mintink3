@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093985426898042880"
+      ],
+      "media_source_tweet_id": [
+        "2093985430781968573"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2094187126091104720",
+    "created_at": "2026-08-30T22:14:53.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T23:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094187126091104720"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 11,
+          "tag": "自撮り界隈"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2027196446202793984",
+          "start": 3,
+          "username": "qwun_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PIJFl1dtdp",
+          "end": 41,
+          "expanded_url": "https://x.com/qwun_/status/2093985430781968573/photo/1",
+          "media_key": "3_2093985426898042880",
+          "start": 18,
+          "url": "https://t.co/PIJFl1dtdp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094187126091104720",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2093985426898042880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093985430781968573",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qwun_: #自撮り界隈 https://t.co/PIJFl1dtdp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 875,
+        "media_key": "3_2093985426898042880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ9Upr8aQAA_ERD.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093985426898042880"
+          ],
+          "media_source_tweet_id": [
+            "2093985430781968573"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2094187126091104720",
+        "created_at": "2026-08-30T22:14:53.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T23:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094187126091104720"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 11,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2027196446202793984",
+              "start": 3,
+              "username": "qwun_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PIJFl1dtdp",
+              "end": 41,
+              "expanded_url": "https://x.com/qwun_/status/2093985430781968573/photo/1",
+              "media_key": "3_2093985426898042880",
+              "start": 18,
+              "url": "https://t.co/PIJFl1dtdp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094187126091104720",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2093985426898042880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093985430781968573",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qwun_: #自撮り界隈 https://t.co/PIJFl1dtdp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093985426898042880"
+          ]
+        },
+        "author_id": "2027196446202793984",
+        "conversation_id": "2093985430781968573",
+        "created_at": "2026-08-30T08:53:25.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T09:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093985430781968573"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PIJFl1dtdp",
+              "end": 30,
+              "expanded_url": "https://x.com/qwun_/status/2093985430781968573/photo/1",
+              "media_key": "3_2093985426898042880",
+              "start": 7,
+              "url": "https://t.co/PIJFl1dtdp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093985430781968573",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2093985426898042880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 6233,
+          "like_count": 628,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 https://t.co/PIJFl1dtdp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 性冷淡 重度焦虑 重度睡眠障碍💊休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2094187126091104720",
+        "name": "Beatrice",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 1101,
+          "like_count": 10167,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 1479
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-27T01:37:57.000Z",
+        "description": "リンゴの森のギャングスター",
+        "id": "2027196446202793984",
+        "is_identity_verified": false,
+        "location": "承認欲求",
+        "most_recent_tweet_id": "2094065434937208954",
+        "name": "石橋",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2027196446202793984/1775642784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057970195302617088/v9u_Db61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 80,
+          "like_count": 562,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 452
+        },
+        "url": "",
+        "username": "qwun_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

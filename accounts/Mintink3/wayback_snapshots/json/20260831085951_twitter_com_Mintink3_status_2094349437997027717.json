@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2094184554672353280"
+      ],
+      "media_source_tweet_id": [
+        "2094184589266952435"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2094349437997027717",
+    "created_at": "2026-08-31T08:59:51.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T09:59:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094349437997027717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2051160268994990080",
+          "start": 3,
+          "username": "zhngwj9178"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V5CSXOMqtw",
+          "end": 56,
+          "expanded_url": "https://x.com/zhngwj9178/status/2094184589266952435/video/1",
+          "media_key": "13_2094184554672353280",
+          "start": 33,
+          "url": "https://t.co/V5CSXOMqtw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094349437997027717",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2094184554672353280"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 541
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094184589266952435",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhngwj9178: 我不知道，我只知道我的身材很曼妙 https://t.co/V5CSXOMqtw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4693,
+        "height": 1280,
+        "media_key": "13_2094184554672353280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094184554672353280/img/mORucgi7OwxfY_Al.jpg",
+        "public_metrics": {
+          "view_count": 64123
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094184554672353280/vid/avc1/320x568/NfV9I6sKBZpScR1Z.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094184554672353280/vid/avc1/480x852/tNGTGmw5tdO-RRwi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094184554672353280/vid/avc1/720x1280/EwnIfGNHQQUFcikg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094184554672353280/pl/er3pnvKHPhRT2wA6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094184554672353280"
+          ],
+          "media_source_tweet_id": [
+            "2094184589266952435"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2094349437997027717",
+        "created_at": "2026-08-31T08:59:51.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T09:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094349437997027717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2051160268994990080",
+              "start": 3,
+              "username": "zhngwj9178"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V5CSXOMqtw",
+              "end": 56,
+              "expanded_url": "https://x.com/zhngwj9178/status/2094184589266952435/video/1",
+              "media_key": "13_2094184554672353280",
+              "start": 33,
+              "url": "https://t.co/V5CSXOMqtw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094349437997027717",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2094184554672353280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 541
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094184589266952435",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhngwj9178: 我不知道，我只知道我的身材很曼妙 https://t.co/V5CSXOMqtw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094184554672353280"
+          ]
+        },
+        "author_id": "2051160268994990080",
+        "conversation_id": "2094184589266952435",
+        "created_at": "2026-08-30T22:04:48.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T23:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094184589266952435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V5CSXOMqtw",
+              "end": 40,
+              "expanded_url": "https://x.com/zhngwj9178/status/2094184589266952435/video/1",
+              "media_key": "13_2094184554672353280",
+              "start": 17,
+              "url": "https://t.co/V5CSXOMqtw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094184589266952435",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2094184554672353280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3008,
+          "impression_count": 148277,
+          "like_count": 11119,
+          "quote_count": 19,
+          "reply_count": 35,
+          "retweet_count": 541
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道，我只知道我的身材很曼妙 https://t.co/V5CSXOMqtw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 性冷淡 重度焦虑 重度睡眠障碍💊休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2094349437997027717",
+        "name": "Beatrice",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 1105,
+          "like_count": 10408,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 1488
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-04T04:42:01.000Z",
+        "description": "kigurumi和杂七杂八的爱好，秘密武器更是给你意外的惊喜呀",
+        "id": "2051160268994990080",
+        "is_identity_verified": false,
+        "location": "中国 湖北",
+        "most_recent_tweet_id": "2094276020841140485",
+        "name": "张无忌",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2051160268994990080/1777891453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062976521875456000/7FsXXHs8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 100,
+          "like_count": 1303,
+          "listed_count": 3,
+          "media_count": 23,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "zhngwj9178",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

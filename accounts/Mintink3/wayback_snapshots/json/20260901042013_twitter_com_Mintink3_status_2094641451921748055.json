@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2094641451921748055",
+    "created_at": "2026-09-01T04:20:13.000Z",
+    "display_text_range": [
+      0,
+      137
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T05:09:05.000Z",
+      "edits_remaining": 2,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094638651653362170",
+      "2094640238694174798",
+      "2094640623550910706",
+      "2094641451921748055"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2094641451921748055",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "太窒息了 太绝望了 \n\n昨天睡了5小时今天睡了3小时 被我妈强制打电话叫醒查岗\n\n我都离家出来这么久了还天天查岗 我不接电话就报警（她只是问我吃饭了没有和在干什么）\n\n我刚离开家去北京的一个月她甚至平均每天给我打11个电话 最多一天22个电话\n\n我一直觉得我妈精神问题比我大 但是她说她考过了国家心理咨询师二级证书 她说她很健全 都是我才心理有问题\n\n我真的受不了\n\n我本来就是受不了她在家经常因为一些非常小的事情（比如我晾衣服的时候衣服没扯平衣角）而让我跪着四个小时一直骂我才跑出来生活的 \n\n她把从她家人对她催婚和一直嫌弃她不成事的无奈 对前夫（我爸）出轨和欠钱不还的愤恨 对来自公司其他人对她的勾心斗角 都发泄在了我身上\n\n但是没办法我还是没法脱离原生家庭 我妈妈现在每个月还要找我要钱\n\n我发誓以上我说的都是真的\n\n这真的太窒息了\n\n我妈妈已经报警抓我差不多10次了 \n\n我曾经因为被报警太多次 被室友嫌弃闹掰了 我现在独居"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太窒息了 太绝望了 \n\n昨天睡了5小时今天睡了3小时 被我妈强制打电话叫醒查岗\n\n我都离家出来这么久了还天天查岗 我不接电话就报警（她只是问我吃饭了没有和在干什么）\n\n我刚离开家去北京的一个月她甚至平均每天给我打11个电话 最多一天22个电话\n\n我一直觉得我妈精神问题比我大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2094638651653362170",
+        "created_at": "2026-09-01T04:09:05.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T05:09:05.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094638651653362170",
+          "2094640238694174798",
+          "2094640623550910706",
+          "2094641451921748055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094638651653362170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "昨天睡了5小时今天睡了3小时 被我妈强制打电话叫醒查岗\n我都离家出来这么久了还天天查岗 我不接电话就报警（她只是问我吃饭了没有）\n我刚离开家去北京的一个月她甚至平均每天给我打11个电话 最多一天22个电话\n我真的受不了\n我本来就是受不了她在家经常因为我晾衣服的时候衣服没扯平而让我跪着四个小时一直骂我才跑出来生活的\n但是没办法我还是没法脱离原生家庭 我妈妈现在每个月还要找我要钱\n我发誓以上我说的都是真的\n这真的太窒息了\n我妈妈已经报警抓我差不多10次了 \n我曾经因为被报警太多次 被室友嫌弃闹掰了 我现在独居"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天睡了5小时今天睡了3小时 被我妈强制打电话叫醒查岗\n我都离家出来这么久了还天天查岗 我不接电话就报警（她只是问我吃饭了没有）\n我刚离开家去北京的一个月她甚至平均每天给我打11个电话 最多一天22个电话\n我真的受不了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2094640238694174798",
+        "created_at": "2026-09-01T04:15:24.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T05:09:05.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094638651653362170",
+          "2094640238694174798",
+          "2094640623550910706",
+          "2094641451921748055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094640238694174798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "昨天睡了5小时今天睡了3小时 被我妈强制打电话叫醒查岗\n我都离家出来这么久了还天天查岗 我不接电话就报警（她只是问我吃饭了没有和在干什么）\n我一直觉得我妈精神问题比我大 但是她说她考过了国家心理咨询师二级证书 她说她很健全 都是我才心理有问题\n我刚离开家去北京的一个月她甚至平均每天给我打11个电话 最多一天22个电话\n我真的受不了\n我本来就是受不了她在家经常因为我晾衣服的时候衣服没扯平而让我跪着四个小时一直骂我才跑出来生活的\n但是没办法我还是没法脱离原生家庭 我妈妈现在每个月还要找我要钱\n我发誓以上我说的都是真的\n这真的太窒息了\n我妈妈已经报警抓我差不多10次了 \n我曾经因为被报警太多次 被室友嫌弃闹掰了 我现在独居"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天睡了5小时今天睡了3小时 被我妈强制打电话叫醒查岗\n我都离家出来这么久了还天天查岗 我不接电话就报警（她只是问我吃饭了没有和在干什么）\n我一直觉得我妈精神问题比我大 但是她说她考过了国家心理咨询师二级证书 她说她很健全 都是我才心理有问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2094640623550910706",
+        "created_at": "2026-09-01T04:16:55.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T05:09:05.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094638651653362170",
+          "2094640238694174798",
+          "2094640623550910706",
+          "2094641451921748055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094640623550910706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "太窒息了 太绝望了 \n\n昨天睡了5小时今天睡了3小时 被我妈强制打电话叫醒查岗\n\n我都离家出来这么久了还天天查岗 我不接电话就报警（她只是问我吃饭了没有和在干什么）\n\n我刚离开家去北京的一个月她甚至平均每天给我打11个电话 最多一天22个电话\n\n我一直觉得我妈精神问题比我大 但是她说她考过了国家心理咨询师二级证书 她说她很健全 都是我才心理有问题\n\n我真的受不了\n\n我本来就是受不了她在家经常因为我晾衣服的时候衣服没扯平衣角而让我跪着四个小时一直骂我才跑出来生活的\n\n但是没办法我还是没法脱离原生家庭 我妈妈现在每个月还要找我要钱\n\n我发誓以上我说的都是真的\n\n这真的太窒息了\n\n我妈妈已经报警抓我差不多10次了 \n\n我曾经因为被报警太多次 被室友嫌弃闹掰了 我现在独居"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太窒息了 太绝望了 \n\n昨天睡了5小时今天睡了3小时 被我妈强制打电话叫醒查岗\n\n我都离家出来这么久了还天天查岗 我不接电话就报警（她只是问我吃饭了没有和在干什么）\n\n我刚离开家去北京的一个月她甚至平均每天给我打11个电话 最多一天22个电话\n\n我一直觉得我妈精神问题比我大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2094641451921748055",
+        "created_at": "2026-09-01T04:20:13.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T05:09:05.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094638651653362170",
+          "2094640238694174798",
+          "2094640623550910706",
+          "2094641451921748055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094641451921748055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "太窒息了 太绝望了 \n\n昨天睡了5小时今天睡了3小时 被我妈强制打电话叫醒查岗\n\n我都离家出来这么久了还天天查岗 我不接电话就报警（她只是问我吃饭了没有和在干什么）\n\n我刚离开家去北京的一个月她甚至平均每天给我打11个电话 最多一天22个电话\n\n我一直觉得我妈精神问题比我大 但是她说她考过了国家心理咨询师二级证书 她说她很健全 都是我才心理有问题\n\n我真的受不了\n\n我本来就是受不了她在家经常因为一些非常小的事情（比如我晾衣服的时候衣服没扯平衣角）而让我跪着四个小时一直骂我才跑出来生活的 \n\n她把从她家人对她催婚和一直嫌弃她不成事的无奈 对前夫（我爸）出轨和欠钱不还的愤恨 对来自公司其他人对她的勾心斗角 都发泄在了我身上\n\n但是没办法我还是没法脱离原生家庭 我妈妈现在每个月还要找我要钱\n\n我发誓以上我说的都是真的\n\n这真的太窒息了\n\n我妈妈已经报警抓我差不多10次了 \n\n我曾经因为被报警太多次 被室友嫌弃闹掰了 我现在独居"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太窒息了 太绝望了 \n\n昨天睡了5小时今天睡了3小时 被我妈强制打电话叫醒查岗\n\n我都离家出来这么久了还天天查岗 我不接电话就报警（她只是问我吃饭了没有和在干什么）\n\n我刚离开家去北京的一个月她甚至平均每天给我打11个电话 最多一天22个电话\n\n我一直觉得我妈精神问题比我大"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 性冷淡 重度焦虑 重度睡眠障碍💊休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2094641451921748055",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2094060987481837990",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 1121,
+          "like_count": 10707,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1508
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

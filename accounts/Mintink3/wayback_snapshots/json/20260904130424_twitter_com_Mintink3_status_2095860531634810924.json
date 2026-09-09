@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095860520888971264"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2095860531634810924",
+    "created_at": "2026-09-04T13:04:24.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T14:04:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095860531634810924"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8iIoj9NxWY",
+          "end": 36,
+          "expanded_url": "https://x.com/Mintink3/status/2095860531634810924/photo/1",
+          "media_key": "3_2095860520888971264",
+          "start": 13,
+          "url": "https://t.co/8iIoj9NxWY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095860531634810924",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095860520888971264"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的美味酸奶葡萄到货了😋 https://t.co/8iIoj9NxWY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2095860520888971264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRX-ChZaMAAaPD_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095860520888971264"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2095860531634810924",
+        "created_at": "2026-09-04T13:04:24.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T14:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095860531634810924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8iIoj9NxWY",
+              "end": 36,
+              "expanded_url": "https://x.com/Mintink3/status/2095860531634810924/photo/1",
+              "media_key": "3_2095860520888971264",
+              "start": 13,
+              "url": "https://t.co/8iIoj9NxWY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095860531634810924",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095860520888971264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的美味酸奶葡萄到货了😋 https://t.co/8iIoj9NxWY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 性冷淡 重度焦虑 重度睡眠障碍💊休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2095860531634810924",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2095525277577404884",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1634,
+          "following_count": 1118,
+          "like_count": 11453,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 1576
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

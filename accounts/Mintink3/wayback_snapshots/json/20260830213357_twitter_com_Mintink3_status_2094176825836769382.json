@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2093824459585298527",
+    "created_at": "2026-08-30T21:33:57.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T22:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094176825836769382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1720575392371949568",
+          "start": 0,
+          "username": "k4sum1_toki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094176825836769382",
+    "in_reply_to_user_id": "1720575392371949568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093824459585298527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k4sum1_toki 不热吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2093824459585298527",
+        "created_at": "2026-08-30T21:33:57.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T22:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094176825836769382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1720575392371949568",
+              "start": 0,
+              "username": "k4sum1_toki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094176825836769382",
+        "in_reply_to_user_id": "1720575392371949568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093824459585298527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k4sum1_toki 不热吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720575392371949568",
+        "conversation_id": "2093824459585298527",
+        "created_at": "2026-08-29T22:13:47.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T23:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093824459585298527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093824459585298527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "腿太粗穿丝袜不好看怎么办：\n穿两层\n一层肤色遮腿毛\n一层黑丝/白丝"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 性冷淡 重度焦虑 重度睡眠障碍💊休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2094176825836769382",
+        "name": "Beatrice",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 1099,
+          "like_count": 10132,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 1477
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-03T22:55:27.000Z",
+        "description": "Vibecoder | 随机写诗中 | 07 | OD不行！ | INFP | Peace & Love | 活在现实与虚拟的夹缝 | 抑郁治疗中 | VRC昵称：TokikoshiKasumi | 实际白狐\n\n冰饮万岁！线下想来找我玩的话免费提供冰块哦！新买的制冰机效率很高呢！\n\n欢迎互动！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k4sum1_toki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/k4sum1_toki",
+                "start": 0,
+                "url": "https://t.co/3TyEOPjoOr"
+              }
+            ]
+          }
+        },
+        "id": "1720575392371949568",
+        "is_identity_verified": false,
+        "location": "永昼事务所 ELA",
+        "most_recent_tweet_id": "2094121764888674754",
+        "name": "時越·霞|Tokikoshi Kasumi",
+        "pinned_tweet_id": "2087457877149794401",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720575392371949568/1776006553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094088853871329280/mqNd3x5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 230,
+          "like_count": 1424,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 869
+        },
+        "url": "https://t.co/3TyEOPjoOr",
+        "username": "k4sum1_toki",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

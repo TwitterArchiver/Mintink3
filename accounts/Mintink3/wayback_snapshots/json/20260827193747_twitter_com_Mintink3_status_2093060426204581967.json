@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2092734011609145344",
+        "3_2092734011600711681"
+      ],
+      "media_source_tweet_id": [
+        "2092734071445041388",
+        "2092734071445041388"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2093060426204581967",
+    "created_at": "2026-08-27T19:37:47.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T20:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093060426204581967"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 30,
+          "tag": "drugtwt"
+        },
+        {
+          "end": 47,
+          "start": 39,
+          "tag": "weedtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1718052367319334912",
+          "start": 3,
+          "username": "eatingurorgans_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u7czSvdujD",
+          "end": 71,
+          "expanded_url": "https://x.com/eatingurorgans_/status/2092734071445041388/video/1",
+          "media_key": "13_2092734011609145344",
+          "start": 48,
+          "url": "https://t.co/u7czSvdujD"
+        },
+        {
+          "display_url": "pic.x.com/u7czSvdujD",
+          "end": 71,
+          "expanded_url": "https://x.com/eatingurorgans_/status/2092734071445041388/video/1",
+          "media_key": "3_2092734011600711681",
+          "start": 48,
+          "url": "https://t.co/u7czSvdujD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093060426204581967",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2092734011609145344"
+      },
+      {
+        "media_key": "3_2092734011600711681"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092734071445041388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eatingurorgans_: new bong #drugtwt #weedtwt https://t.co/u7czSvdujD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23706,
+        "height": 1280,
+        "media_key": "13_2092734011609145344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092734011609145344/img/IF-vIGVIqdPUgx_3.jpg",
+        "public_metrics": {
+          "view_count": 9668
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092734011609145344/vid/avc1/320x568/aRy7P5SuP9WvY9eu.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092734011609145344/vid/avc1/480x852/ZmcU_QzXCWIx8VIS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092734011609145344/vid/avc1/720x1280/UEZ5MC2iZ3ukev7o.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092734011609145344/pl/ZinW2foRgvklQmvf.m3u8?v=e23"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092734011600711681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQrifurWsAEZtQx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092734011609145344",
+            "3_2092734011600711681"
+          ],
+          "media_source_tweet_id": [
+            "2092734071445041388",
+            "2092734071445041388"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2093060426204581967",
+        "created_at": "2026-08-27T19:37:47.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T20:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093060426204581967"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 30,
+              "tag": "drugtwt"
+            },
+            {
+              "end": 47,
+              "start": 39,
+              "tag": "weedtwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1718052367319334912",
+              "start": 3,
+              "username": "eatingurorgans_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u7czSvdujD",
+              "end": 71,
+              "expanded_url": "https://x.com/eatingurorgans_/status/2092734071445041388/video/1",
+              "media_key": "13_2092734011609145344",
+              "start": 48,
+              "url": "https://t.co/u7czSvdujD"
+            },
+            {
+              "display_url": "pic.x.com/u7czSvdujD",
+              "end": 71,
+              "expanded_url": "https://x.com/eatingurorgans_/status/2092734071445041388/video/1",
+              "media_key": "3_2092734011600711681",
+              "start": 48,
+              "url": "https://t.co/u7czSvdujD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093060426204581967",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2092734011609145344"
+          },
+          {
+            "media_key": "3_2092734011600711681"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092734071445041388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eatingurorgans_: new bong #drugtwt #weedtwt https://t.co/u7czSvdujD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092734011609145344",
+            "3_2092734011600711681"
+          ]
+        },
+        "author_id": "1718052367319334912",
+        "conversation_id": "2092734071445041388",
+        "created_at": "2026-08-26T22:00:58.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T23:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092734071445041388"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 9,
+              "tag": "drugtwt"
+            },
+            {
+              "end": 26,
+              "start": 18,
+              "tag": "weedtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u7czSvdujD",
+              "end": 50,
+              "expanded_url": "https://x.com/eatingurorgans_/status/2092734071445041388/video/1",
+              "media_key": "13_2092734011609145344",
+              "start": 27,
+              "url": "https://t.co/u7czSvdujD"
+            },
+            {
+              "display_url": "pic.x.com/u7czSvdujD",
+              "end": 50,
+              "expanded_url": "https://x.com/eatingurorgans_/status/2092734071445041388/video/1",
+              "media_key": "3_2092734011600711681",
+              "start": 27,
+              "url": "https://t.co/u7czSvdujD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092734071445041388",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2092734011609145344"
+          },
+          {
+            "media_key": "3_2092734011600711681"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 22234,
+          "like_count": 875,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "new bong #drugtwt #weedtwt https://t.co/u7czSvdujD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2093060426204581967",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 1088,
+          "like_count": 9733,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1407
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-27T23:49:45.000Z",
+        "description": "19, bmi fucking obese",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/sl1ttzz",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/sl1ttzz",
+                "start": 0,
+                "url": "https://t.co/yI10GAaZuY"
+              }
+            ]
+          }
+        },
+        "id": "1718052367319334912",
+        "is_identity_verified": false,
+        "location": "shtwt, drugtwt, edtwt, goretwt",
+        "most_recent_tweet_id": "2093027445385433473",
+        "name": "⛧irl ame chan⛧",
+        "pinned_tweet_id": "1852904440811971011",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1718052367319334912/1784926441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080758376363933696/F-kXu_6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3109,
+          "following_count": 563,
+          "like_count": 9452,
+          "listed_count": 2,
+          "media_count": 476,
+          "tweet_count": 3133
+        },
+        "url": "https://t.co/yI10GAaZuY",
+        "username": "eatingurorgans_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

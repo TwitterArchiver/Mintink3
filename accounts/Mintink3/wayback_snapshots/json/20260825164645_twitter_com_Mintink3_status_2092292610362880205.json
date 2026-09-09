@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091998211074322432"
+      ],
+      "media_source_tweet_id": [
+        "2091998218053644743"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2092292610362880205",
+    "created_at": "2026-08-25T16:46:45.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T17:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092292610362880205"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 36,
+          "tag": "drugtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1738832367987388417",
+          "start": 3,
+          "username": "hailouzz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/umKQYP2qRR",
+          "end": 68,
+          "expanded_url": "https://x.com/hailouzz/status/2091998218053644743/photo/1",
+          "media_key": "3_2091998211074322432",
+          "start": 45,
+          "url": "https://t.co/umKQYP2qRR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092292610362880205",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "3_2091998211074322432"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091998218053644743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hailouzz: el verdadero 10/10 🙏🏻 #drugtwt https://t.co/umKQYP2qRR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2091998211074322432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQhFSgHWcAAtwxd.jpg",
+        "width": 1540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091998211074322432"
+          ],
+          "media_source_tweet_id": [
+            "2091998218053644743"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2092292610362880205",
+        "created_at": "2026-08-25T16:46:45.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T17:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092292610362880205"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 36,
+              "tag": "drugtwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1738832367987388417",
+              "start": 3,
+              "username": "hailouzz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/umKQYP2qRR",
+              "end": 68,
+              "expanded_url": "https://x.com/hailouzz/status/2091998218053644743/photo/1",
+              "media_key": "3_2091998211074322432",
+              "start": 45,
+              "url": "https://t.co/umKQYP2qRR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092292610362880205",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2091998211074322432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091998218053644743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hailouzz: el verdadero 10/10 🙏🏻 #drugtwt https://t.co/umKQYP2qRR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091998211074322432"
+          ]
+        },
+        "author_id": "1738832367987388417",
+        "conversation_id": "2091998218053644743",
+        "created_at": "2026-08-24T21:16:57.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T22:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091998218053644743"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 22,
+              "tag": "drugtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/umKQYP2qRR",
+              "end": 54,
+              "expanded_url": "https://x.com/hailouzz/status/2091998218053644743/photo/1",
+              "media_key": "3_2091998211074322432",
+              "start": 31,
+              "url": "https://t.co/umKQYP2qRR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091998218053644743",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2091998211074322432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 4713,
+          "like_count": 491,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "el verdadero 10/10 🙏🏻 #drugtwt https://t.co/umKQYP2qRR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2092292610362880205",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 1067,
+          "like_count": 9474,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 1378
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-24T08:02:14.000Z",
+        "description": "wea con sentimiento",
+        "id": "1738832367987388417",
+        "is_identity_verified": false,
+        "location": "she ",
+        "most_recent_tweet_id": "2092188117331558609",
+        "name": "nanai 𝜗𝜚",
+        "pinned_tweet_id": "2091949719777841663",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738832367987388417/1783294001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073911345355837440/FI_LnvR5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 84,
+          "like_count": 20356,
+          "listed_count": 0,
+          "media_count": 393,
+          "tweet_count": 7383
+        },
+        "url": "",
+        "username": "hailouzz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

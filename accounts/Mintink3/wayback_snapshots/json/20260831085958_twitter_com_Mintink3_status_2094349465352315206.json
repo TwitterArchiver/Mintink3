@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2094349465352315206",
+    "created_at": "2026-08-31T08:59:58.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T09:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094349465352315206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1291772573735362561",
+          "start": 3,
+          "username": "memepantazis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094349465352315206",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 163
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094224838785204327",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @memepantazis: minha prima pediu ajuda pra gincana de fazer uma roupa com material reciclável em so 10 horas mas eu trabalho com figurin…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094224823186599936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRAuYYnXsAAj9ZG.jpg",
+        "width": 1538
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2094224823178149888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRAuYYlWwAApOtv.jpg",
+        "width": 1538
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2094224823249502208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRAuYY2XgAAxDLX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2094224823178211328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRAuYYlXsAAzngo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2094349465352315206",
+        "created_at": "2026-08-31T08:59:58.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T09:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094349465352315206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1291772573735362561",
+              "start": 3,
+              "username": "memepantazis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094349465352315206",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 163
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094224838785204327",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @memepantazis: minha prima pediu ajuda pra gincana de fazer uma roupa com material reciclável em so 10 horas mas eu trabalho com figurin…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094224823186599936",
+            "3_2094224823178149888",
+            "3_2094224823249502208",
+            "3_2094224823178211328"
+          ]
+        },
+        "author_id": "1291772573735362561",
+        "conversation_id": "2094224838785204327",
+        "created_at": "2026-08-31T00:44:45.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T01:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094224838785204327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xccFFVZAKj",
+              "end": 147,
+              "expanded_url": "https://x.com/memepantazis/status/2094224838785204327/photo/1",
+              "media_key": "3_2094224823186599936",
+              "start": 124,
+              "url": "https://t.co/xccFFVZAKj"
+            },
+            {
+              "display_url": "pic.x.com/xccFFVZAKj",
+              "end": 147,
+              "expanded_url": "https://x.com/memepantazis/status/2094224838785204327/photo/1",
+              "media_key": "3_2094224823178149888",
+              "start": 124,
+              "url": "https://t.co/xccFFVZAKj"
+            },
+            {
+              "display_url": "pic.x.com/xccFFVZAKj",
+              "end": 147,
+              "expanded_url": "https://x.com/memepantazis/status/2094224838785204327/photo/1",
+              "media_key": "3_2094224823249502208",
+              "start": 124,
+              "url": "https://t.co/xccFFVZAKj"
+            },
+            {
+              "display_url": "pic.x.com/xccFFVZAKj",
+              "end": 147,
+              "expanded_url": "https://x.com/memepantazis/status/2094224838785204327/photo/1",
+              "media_key": "3_2094224823178211328",
+              "start": 124,
+              "url": "https://t.co/xccFFVZAKj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094224838785204327",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2094224823186599936"
+          },
+          {
+            "media_key": "3_2094224823178149888"
+          },
+          {
+            "media_key": "3_2094224823249502208"
+          },
+          {
+            "media_key": "3_2094224823178211328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 286,
+          "impression_count": 45695,
+          "like_count": 6181,
+          "quote_count": 23,
+          "reply_count": 41,
+          "retweet_count": 163
+        },
+        "reply_settings": "everyone",
+        "text": "minha prima pediu ajuda pra gincana de fazer uma roupa com material reciclável em so 10 horas mas eu trabalho com figurino: https://t.co/xccFFVZAKj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 性冷淡 重度焦虑 重度睡眠障碍💊休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2094349465352315206",
+        "name": "Beatrice",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 1105,
+          "like_count": 10408,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 1489
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-07T16:26:04.000Z",
+        "description": "My body is not a temple, it is Luigi’s Mansion. https://t.co/pwUAZQQtqt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/memepantazis",
+                "end": 71,
+                "expanded_url": "http://patreon.com/memepantazis",
+                "start": 48,
+                "url": "https://t.co/pwUAZQQtqt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/memepantazis",
+                "end": 23,
+                "expanded_url": "http://instagram.com/memepantazis",
+                "start": 0,
+                "url": "https://t.co/XXdGXSfmQJ"
+              }
+            ]
+          }
+        },
+        "id": "1291772573735362561",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094281716613480905",
+        "name": "Memé",
+        "pinned_tweet_id": "2040519831384944802",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1291772573735362561/1784871217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080455172342333441/9PGlfyD7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34933,
+          "following_count": 674,
+          "like_count": 102687,
+          "listed_count": 50,
+          "media_count": 3563,
+          "tweet_count": 34210
+        },
+        "url": "https://t.co/XXdGXSfmQJ",
+        "username": "memepantazis",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

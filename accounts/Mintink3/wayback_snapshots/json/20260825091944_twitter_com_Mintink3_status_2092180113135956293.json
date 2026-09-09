@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493016356182056961",
+    "conversation_id": "2092072876451201057",
+    "created_at": "2026-08-25T09:19:44.000Z",
+    "display_text_range": [
+      31,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T10:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092180113135956293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2037210164131225604",
+          "start": 0,
+          "username": "Zoink3118675425"
+        },
+        {
+          "end": 30,
+          "id": "2048935238680879104",
+          "start": 17,
+          "username": "zen_lab_club"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092180113135956293",
+    "in_reply_to_user_id": "2037210164131225604",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092072876451201057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zoink3118675425 @zen_lab_club 羡慕了 我也想要1611"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2408,
+        "media_key": "3_2092072867894902784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQiJMGcbwAALI9Z.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2092072876451201057",
+        "created_at": "2026-08-25T09:19:44.000Z",
+        "display_text_range": [
+          31,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T10:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092180113135956293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2037210164131225604",
+              "start": 0,
+              "username": "Zoink3118675425"
+            },
+            {
+              "end": 30,
+              "id": "2048935238680879104",
+              "start": 17,
+              "username": "zen_lab_club"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092180113135956293",
+        "in_reply_to_user_id": "2037210164131225604",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092072876451201057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zoink3118675425 @zen_lab_club 羡慕了 我也想要1611"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092072867894902784"
+          ]
+        },
+        "author_id": "2037210164131225604",
+        "conversation_id": "2092072876451201057",
+        "created_at": "2026-08-25T02:13:37.000Z",
+        "display_text_range": [
+          0,
+          173
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T03:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092072876451201057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2048935238680879104",
+              "start": 3,
+              "username": "zen_lab_club"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Crystallize Community",
+              "display_url": "crystallize.club",
+              "end": 130,
+              "expanded_url": "https://www.crystallize.club/",
+              "start": 107,
+              "status": 200,
+              "title": "社区首页 | Crystallize",
+              "unwound_url": "https://www.crystallize.club/",
+              "url": "https://t.co/0vDKm36Kzi"
+            },
+            {
+              "display_url": "pic.x.com/77HkW1oluD",
+              "end": 197,
+              "expanded_url": "https://x.com/Zoink3118675425/status/2092072876451201057/photo/1",
+              "media_key": "3_2092072867894902784",
+              "start": 174,
+              "url": "https://t.co/77HkW1oluD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092072876451201057",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092072867894902784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来自 @zen_lab_club 赠送的1161\n使用剂量：20~30mg\n具体测试效果：纯净阿片特别赞，主观感觉幸福，焦虑消除，联用pr想复刻Edward来着，另外这个1161曲线不太准，我晚10点还在犯恶心\n\nhttps://t.co/0vDKm36Kzi 这个网站里他有药物记录，有软件可以记录药效曲线和效果记录。他那个可以直接生成旅程海报 https://t.co/77HkW1oluD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2092180113135956293",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 1060,
+          "like_count": 9221,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1353
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-26T16:49:53.000Z",
+        "description": "intp/互fo/audhd\n热爱药理学",
+        "id": "2037210164131225604",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092145440510943275",
+        "name": "链光",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081896585886314496/XZ8_hwgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 226,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 106
+        },
+        "url": "",
+        "username": "Zoink3118675425",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-28T01:20:30.000Z",
+        "description": "名稱ZEN 實驗室\n官网 https://t.co/XTh60qY8rI\nTG群组 https://t.co/PwxqVnq4T6\nTG通知频道 https://t.co/aFMETpJWK4\n\n广告或合作请私信，我们出价很合理\n#researchchemical",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 132,
+                "start": 115,
+                "tag": "researchchemical"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ZENLAB.ONL",
+                "end": 36,
+                "expanded_url": "https://ZENLAB.ONL",
+                "start": 13,
+                "url": "https://t.co/XTh60qY8rI"
+              },
+              {
+                "display_url": "t.me/zen4499",
+                "end": 65,
+                "expanded_url": "https://t.me/zen4499",
+                "start": 42,
+                "url": "https://t.co/PwxqVnq4T6"
+              },
+              {
+                "display_url": "t.me/zenlab",
+                "end": 96,
+                "expanded_url": "https://t.me/zenlab",
+                "start": 73,
+                "url": "https://t.co/aFMETpJWK4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zenlab.onl",
+                "end": 23,
+                "expanded_url": "http://zenlab.onl",
+                "start": 0,
+                "url": "https://t.co/xsfO6qJblV"
+              }
+            ]
+          }
+        },
+        "id": "2048935238680879104",
+        "is_identity_verified": false,
+        "location": "👉天国👈",
+        "most_recent_tweet_id": "2091578505096003883",
+        "name": "ZEN LAB - zen化学实验室",
+        "pinned_tweet_id": "2089267307897827380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048935238680879104/1777341588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048944953661997056/N2sohKBV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 49,
+          "like_count": 554,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 240
+        },
+        "url": "https://t.co/xsfO6qJblV",
+        "username": "zen_lab_club",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

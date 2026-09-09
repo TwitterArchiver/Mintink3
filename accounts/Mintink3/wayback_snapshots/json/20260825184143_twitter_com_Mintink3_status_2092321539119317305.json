@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092321530936233984"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2092321539119317305",
+    "created_at": "2026-08-25T18:41:43.000Z",
+    "display_text_range": [
+      0,
+      146
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T19:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092321539119317305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ikEMgukQ9Z",
+          "end": 170,
+          "expanded_url": "https://x.com/Mintink3/status/2092321539119317305/photo/1",
+          "media_key": "3_2092321530936233984",
+          "start": 147,
+          "url": "https://t.co/ikEMgukQ9Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092321539119317305",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092321530936233984"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "2.8mg阿普唑仑+300mg曲马多 嚼服 可乐送服\n\n由于上一次睡觉是周一的清晨了 周二凌晨我开始玩3-Me-PCPy和N2O 导致我五十个小时没睡觉了 所以我用了BZD联用阿片 希望我能睡个好觉\n\n曲马多味道像牙膏 薄荷味有点苦 我吃下去感觉胃有点烧（我并不是空腹）\n现在感觉脸有点麻麻的 https://t.co/ikEMgukQ9Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092321530936233984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQlrWMdbEAA1h8e.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092321530936233984"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2092321539119317305",
+        "created_at": "2026-08-25T18:41:43.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T19:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092321539119317305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ikEMgukQ9Z",
+              "end": 170,
+              "expanded_url": "https://x.com/Mintink3/status/2092321539119317305/photo/1",
+              "media_key": "3_2092321530936233984",
+              "start": 147,
+              "url": "https://t.co/ikEMgukQ9Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092321539119317305",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092321530936233984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2.8mg阿普唑仑+300mg曲马多 嚼服 可乐送服\n\n由于上一次睡觉是周一的清晨了 周二凌晨我开始玩3-Me-PCPy和N2O 导致我五十个小时没睡觉了 所以我用了BZD联用阿片 希望我能睡个好觉\n\n曲马多味道像牙膏 薄荷味有点苦 我吃下去感觉胃有点烧（我并不是空腹）\n现在感觉脸有点麻麻的 https://t.co/ikEMgukQ9Z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2092321539119317305",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 1068,
+          "like_count": 9491,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 1383
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
