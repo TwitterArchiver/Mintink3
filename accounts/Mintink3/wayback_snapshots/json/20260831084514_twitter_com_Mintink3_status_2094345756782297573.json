@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2093995806345064448"
+      ],
+      "media_source_tweet_id": [
+        "2093995946694820010"
+      ]
+    },
+    "author_id": "1493016356182056961",
+    "conversation_id": "2094345756782297573",
+    "created_at": "2026-08-31T08:45:14.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T09:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094345756782297573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1596509000438161408",
+          "start": 3,
+          "username": "LancerKoi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7zQpB5mQHs",
+          "end": 38,
+          "expanded_url": "https://x.com/LancerKoi/status/2093995946694820010/video/1",
+          "media_key": "13_2093995806345064448",
+          "start": 15,
+          "url": "https://t.co/7zQpB5mQHs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094345756782297573",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2093995806345064448"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8249
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093995946694820010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LancerKoi: https://t.co/7zQpB5mQHs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5000,
+        "height": 4000,
+        "media_key": "13_2093995806345064448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093995806345064448/img/czcVLgAP7_I7x1mV.jpg",
+        "public_metrics": {
+          "view_count": 684353
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093995806345064448/vid/avc1/320x426/M3wDNCUrM-iVDojX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093995806345064448/vid/avc1/480x640/A6-CvfQdpq_MDPUe.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093995806345064448/vid/avc1/720x960/1OlvQ62JMlnk4Vxy.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093995806345064448/pl/ZhVLsYpsx7VeKaYm.m3u8?tag=14"
+          }
+        ],
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093995806345064448"
+          ],
+          "media_source_tweet_id": [
+            "2093995946694820010"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2094345756782297573",
+        "created_at": "2026-08-31T08:45:14.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T09:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094345756782297573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1596509000438161408",
+              "start": 3,
+              "username": "LancerKoi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7zQpB5mQHs",
+              "end": 38,
+              "expanded_url": "https://x.com/LancerKoi/status/2093995946694820010/video/1",
+              "media_key": "13_2093995806345064448",
+              "start": 15,
+              "url": "https://t.co/7zQpB5mQHs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094345756782297573",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2093995806345064448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8249
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093995946694820010",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LancerKoi: https://t.co/7zQpB5mQHs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093995806345064448"
+          ]
+        },
+        "author_id": "1596509000438161408",
+        "conversation_id": "2093995946694820010",
+        "created_at": "2026-08-30T09:35:12.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T10:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093995946694820010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7zQpB5mQHs",
+              "end": 23,
+              "expanded_url": "https://x.com/LancerKoi/status/2093995946694820010/video/1",
+              "media_key": "13_2093995806345064448",
+              "start": 0,
+              "url": "https://t.co/7zQpB5mQHs"
+            },
+            {
+              "display_url": "x.com/nanoni_nuneno/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/nanoni_nuneno/status/2015002889320849469",
+              "start": 24,
+              "url": "https://t.co/FA1Kpo1N2z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093995946694820010",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2093995806345064448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15380,
+          "impression_count": 2308616,
+          "like_count": 119698,
+          "quote_count": 86,
+          "reply_count": 69,
+          "retweet_count": 8249
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015002889320849469",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/7zQpB5mQHs https://t.co/FA1Kpo1N2z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09 166cm 41kg 性冷淡 重度焦虑 重度睡眠障碍💊休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2094345756782297573",
+        "name": "Beatrice",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 1105,
+          "like_count": 10355,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 1487
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T14:20:00.000Z",
+        "description": "♠Youtube：https://t.co/unmrR4bw4P\n♥Commission：https://t.co/QN4kayug51\n♣Discord：https://t.co/X7CuXKZSJt\n♦life speedrun Any%",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@LancerKoi",
+                "end": 32,
+                "expanded_url": "https://www.youtube.com/@LancerKoi",
+                "start": 9,
+                "url": "https://t.co/unmrR4bw4P"
+              },
+              {
+                "display_url": "ko-fi.com/lancerkoi",
+                "end": 68,
+                "expanded_url": "http://ko-fi.com/lancerkoi",
+                "start": 45,
+                "url": "https://t.co/QN4kayug51"
+              },
+              {
+                "display_url": "discord.com/invite/QN4MSty…",
+                "end": 101,
+                "expanded_url": "http://discord.com/invite/QN4MStyW6k",
+                "start": 78,
+                "url": "https://t.co/X7CuXKZSJt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/LancerKoi",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/LancerKoi",
+                "start": 0,
+                "url": "https://t.co/8h2RXyeQ98"
+              }
+            ]
+          }
+        },
+        "id": "1596509000438161408",
+        "is_identity_verified": false,
+        "location": "白夜星象馆",
+        "most_recent_tweet_id": "2093995946694820010",
+        "name": "LancerKoi🫐",
+        "pinned_tweet_id": "2090262524822450631",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596509000438161408/1736492946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011508206368120832/73LaSRvx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15593,
+          "following_count": 313,
+          "like_count": 12730,
+          "listed_count": 64,
+          "media_count": 1461,
+          "tweet_count": 5968
+        },
+        "url": "https://t.co/8h2RXyeQ98",
+        "username": "LancerKoi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
